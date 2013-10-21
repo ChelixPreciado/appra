@@ -1,0 +1,5865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>INFRAESTRUCTURAURBANA-EscuelasPublicas-Tlalpan.kml</name>
+	<Style id="sn_escuela660">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela4200">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela1040">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela7101">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela2400">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela1800">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela4900">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela5210">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela29000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela2910">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela17000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela38000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela940">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela6300">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela530">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela662">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela39000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela2211">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela5710</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela21200</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela2701">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela4501">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela32100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela4610</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela24000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela2200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela2500</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela51000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela2110</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela3300</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela6800">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela920</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela4910</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela7700">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela720</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela471</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela8400">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela18100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela1611</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela38100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_escuela461">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela5500">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela6800">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela1030">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela6300</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela6300</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela5400">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela14000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela560">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela11000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela2700</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela5500</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela5000">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela4900">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela551">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela8000">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela19000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela6000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela3800</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela7600">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela4301</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela5210</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela1311">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela98000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela9700</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela50000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela29000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela0000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela4300">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela38100">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela4700">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela6900">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela6600">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela1040</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela5120</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_escuela5700">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela3300">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela481</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela7100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela15100">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela9900">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela8100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela800</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela9600</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela60000">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela210000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela5400</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela41000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_escuela6001">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela4810">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela0100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela19010</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela591">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela6400">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela6800</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela0010</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela9400</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela5810</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela9000">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela10700">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela20000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela3900</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_escuela111000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela4510">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela6110">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela11000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela10000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_escuela12000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela0011">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela59000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela8600">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela920">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela18100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela6200</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela3700">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela4910">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela2300">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela7800">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela76000">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela2601">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela10300</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela7300</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela6900">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela662</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela9900</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela502">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela461</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela92000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela2220">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela900">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela4500</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela5000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela8010">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela3200">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela4110</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela6010</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela14000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela4300</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela3100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela30000">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela28000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela7100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela2800</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_escuela41020">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela38000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela10000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela32000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela51000">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela2600">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela3100">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela91010">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela15000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela720">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela4000">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela850">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela750</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela1410</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela581">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela790</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela10100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_escuela750">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela9310">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela2010</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela2910</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_escuela5500">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela830">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela44000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela310000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela15000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela130000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_escuela10000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela71110">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela6200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela740</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_escuela4110">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela2200">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela870">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela2810">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela5200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela5300</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_escuela1611">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela4000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela4500">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela210000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela4010</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela41000">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela2600">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela3300</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela1400</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_escuela32000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela2010">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela9600</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela4310</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela11000">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela9700">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela5210</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela7500</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela19100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela6400</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela591</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela00000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela44000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela5200</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_escuela5610">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela48000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela9500">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela4310">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela3001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela1001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela4002</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela29000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela9000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela12010</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela810">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela1710</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela3510</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela4000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela12000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela590</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela4002">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela25000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela00000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela4900</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela9400">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela441</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela4101</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela13000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela381</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela51000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela7300">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela7300">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela6000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela5000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela1900</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela11100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela1900</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela20000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_escuela950">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela2010">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela4101">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela18000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela3700">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela560</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela4000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_escuela9600">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela41100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela32000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela15000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_escuela5200">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela5102">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela25000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela34000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela3110">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela830</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela6400</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_escuela20000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela3000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela12000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela4200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela2700</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela2710">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela30100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela8400</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_escuela3500">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela970">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela7100">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela16100">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela6200">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela3110">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela471">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela740">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela30100">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela6000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela1800">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela660</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela1800</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela1700">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela38000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela3700</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela41000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela6500</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela16100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_escuela240000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela4500">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela481">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela50100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela551</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela671</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela3800">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela15000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela8010</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela2300</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_escuela2701">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela3910">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela22100">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela12000">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela7800">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela350</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela32010</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela8000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela3700</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela4300</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela4910">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela3400">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela16000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela31100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_escuela11000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela4610">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela69000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela15100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela5400">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela240000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela5800</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela3300">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela98000">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela551">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela7500">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela5300">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela9600">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela2410</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela8100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_escuela210000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela1310">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela5300">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela17000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela12000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela12010">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela16000">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela5400">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela5410">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela15100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela8600</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_escuela15100">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela1040">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela5310</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela0011</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela220000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela5700</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela2400</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela2500">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela10100">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela2800">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela1400">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela870">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela40100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela2701</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_escuela2110">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela2111">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela91010</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela6800</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela6700">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela7800</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela7900</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela840">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela3110</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela3910</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela10200">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela5610</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela3710</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_escuela790">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela34000">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela170000">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela5200">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela2600</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela7000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela7100">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela4301">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela2600">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela800">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela5210">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela560">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela18000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela60000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_escuela381">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela5810">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela1060">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela1310</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela931</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela440">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela3100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela21000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_escuela1001">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela160000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela6001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela2600</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela22100">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela4800">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela2000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela36000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela4600</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_escuela5710">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela3710">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela2310">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela10300">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela32000">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela1710">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela18100">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela2900">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela920">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela11010">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela5320</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela18010</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela4600">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela14000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela4400</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_escuela4300">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela130000">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela3000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela530</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela11000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela3510">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela31100">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela6300">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela7900">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela880">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela2410">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela5800">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela13000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela2900</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_escuela740">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela4100">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela10100">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela441">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela4200">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela111000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela30000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela0010">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela36000">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela11300">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela5100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela16000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela2200">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela5810">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela37100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela740</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela2310</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela1410">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela3120">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela4900">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela470</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela35000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela9600">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela21100">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela9300">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela4910</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela22100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_escuela3100">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela6500">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela10500">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela5810</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela2220</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela15000">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela23000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela70000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela5500</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela21100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela790">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela22100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela7101</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela740">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela41020</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela9500</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela3500">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela4900</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela4500</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_escuela3400">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela10000">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela3300">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela35000">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela5000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela14101">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela7300</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela940</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela6400">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela2700">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela39000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela36000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela9800">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela970</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela8010</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela5310">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela57000">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela4200">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela16000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela410000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela3000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela4200</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela671">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela2700">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela3130">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela59000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela9000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela3600">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela48000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela4700</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_escuela3700">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela1900">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela1900">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela470">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela3500</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela2200</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela4610">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela5200">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela36000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela25000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela4600">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela5500">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela3400</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela4800</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela32010">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela5800">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela7000">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela5110">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela21000">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela4400">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela350">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela590">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela5900">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela5800</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela8000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela7600">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela1510">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela76000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela7600</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela21200">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela5100">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela8600">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela880</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela4510</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela5600">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela6800">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela19010">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela32100">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela17010">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela3401</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela3310</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela3900">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela5101</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela5110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela5120">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela4600">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela0000">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela5700">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela23000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela57000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_escuela9400">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela3900">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela4800">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela4000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela5600</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_escuela13000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela4010">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela43000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela2800</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela5400</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela33000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela4100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela3120</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela20000">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela820">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela2800">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela6400">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela3310">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela3401">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela5310">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela470">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela8100">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela9700">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela8200">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela950</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela870</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_escuela5320">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela5800">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela92000">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela40100">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela8800">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela820</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela6900</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_escuela18010">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela9000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station1">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela5101">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela931">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela00000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela0100">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela2700">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela4500">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_escuela6010">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela8010">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_escuela6200">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_escuela2300">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela4600</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela170000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela10100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela2701</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela5310</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_escuela11200">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_escuela10100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_escuela551</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_escuela69000">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>TLALPAN</name>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- TEOFILO ALVAREZ BORBOA</name>
+			<description>DOMICILIO:
+CALLE ESCUELA NO 127, EX EJIDO DE HUIPULCO, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.13316700006176</longitude>
+				<latitude>19.28752500002669</latitude>
+				<altitude>0</altitude>
+				<heading>-2.040166800424772e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.00074777458</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ranger_station</styleUrl>
+			<Point>
+				<coordinates>-99.13316700006176,19.28752500002669,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- MARTIN DE LA CRUZ</name>
+			<description>DOMICILIO:
+AV LA CARRETA NO 72 S MANZANA 2, VILLA COAPA, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.12696600007205</longitude>
+				<latitude>19.28884599975536</latitude>
+				<altitude>0</altitude>
+				<heading>-2.380764449875997e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.0002414404</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ranger_station</styleUrl>
+			<Point>
+				<coordinates>-99.12696600007205,19.28884599975536,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- GRAL. JOSE MARIANO MONTERDE</name>
+			<description>DOMICILIO:
+ZONA HAB DEL H COLEGIO MILITAR, SAN PEDRO MARTIR, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.1694770350373</longitude>
+				<latitude>19.26390220994333</latitude>
+				<altitude>0</altitude>
+				<heading>0.0002850989276115849</heading>
+				<tilt>0</tilt>
+				<range>2091.015843534509</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ranger_station</styleUrl>
+			<Point>
+				<coordinates>-99.1704373043889,19.26350807957386,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- ARABIA SAUDITA</name>
+			<description>DOMICILIO:
+AV SILOS NO 34 SUPER MZNA 1, VILLA COAPA, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.12818431366026</longitude>
+				<latitude>19.29091804519318</latitude>
+				<altitude>0</altitude>
+				<heading>0.0007636976076736035</heading>
+				<tilt>0</tilt>
+				<range>834.7529350565565</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ranger_station</styleUrl>
+			<Point>
+				<coordinates>-99.12947570496498,19.29063553432126,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- EVERARDO CRUZ SALMERON</name>
+			<description>DOMICILIO:
+CERRO TETENCO NO 1, MARIA ESTHER ZUNO DE ECHEVERRIA, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.18175799985215</longitude>
+				<latitude>19.25614399989208</latitude>
+				<altitude>0</altitude>
+				<heading>4.874518104810985e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000112859971</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ranger_station</styleUrl>
+			<Point>
+				<coordinates>-99.18175799985217,19.25614399989208,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SECUNDARIA GENERAL
+- JESUS MASTACHE ROMAN</name>
+			<description>DOMICILIO:
+ING JESUS GOMEZ GONZALEZ S/N, PRADO COAPA, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.13317400027552</longitude>
+				<latitude>19.30221099978504</latitude>
+				<altitude>0</altitude>
+				<heading>-9.108711038376328e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000098491026</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ranger_station</styleUrl>
+			<Point>
+				<coordinates>-99.1331740002755,19.30221099978504,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- TIBURCIO MONTIEL</name>
+			<description>DOMICILIO:
+5 DE MAYO NO 55, SAN ANDRES TOTOLTEPEC, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.16450596530804</longitude>
+				<latitude>19.26410697073234</latitude>
+				<altitude>0</altitude>
+				<heading>1.913047981193379e-010</heading>
+				<tilt>0</tilt>
+				<range>1004.785887463392</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ranger_station</styleUrl>
+			<Point>
+				<coordinates>-99.164464931431,19.26396170944241,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- GRAL. LAZARO CARDENAS DEL RIO</name>
+			<description>DOMICILIO:
+CLUB DEPORTIVO UNIVERSIDAD 300, VILLA LAZARO CARDENAS, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.13993799989275</longitude>
+				<latitude>19.29741899964363</latitude>
+				<altitude>0</altitude>
+				<heading>3.543257185950912e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000040428868</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ranger_station</styleUrl>
+			<Point>
+				<coordinates>-99.13993799989275,19.29741899964363,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- SALVADOR TREJO ESCOBEDO</name>
+			<description>DOMICILIO:
+PLAZA JUAREZ NO 28, SAN MIGUEL TOPILEJO, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.14431900018626</longitude>
+				<latitude>19.20197399996726</latitude>
+				<altitude>0</altitude>
+				<heading>-6.128133732509831e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000139164889</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ranger_station</styleUrl>
+			<Point>
+				<coordinates>-99.14431900018626,19.20197399996726,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- MAURITANIA</name>
+			<description>DOMICILIO:
+SANTA CRUZ NO 6, SAN MIGUEL TOPILEJO, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.14002600005219</longitude>
+				<latitude>19.19889199984243</latitude>
+				<altitude>0</altitude>
+				<heading>-1.716227306117714e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000155585</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ranger_station</styleUrl>
+			<Point>
+				<coordinates>-99.1400260000522,19.19889199984243,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- MAURITANIA</name>
+			<description>DOMICILIO:
+SANTA CRUZ NO 6, SAN MIGUEL TOPILEJO, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.14053499992889</longitude>
+				<latitude>19.19771199986904</latitude>
+				<altitude>0</altitude>
+				<heading>2.337429392341057e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000261141173</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ranger_station</styleUrl>
+			<Point>
+				<coordinates>-99.14053499992889,19.19771199986904,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- PROFR. MAXIMILIANO MOLINA FUENTE</name>
+			<description>DOMICILIO:
+CUAUHTEMOC S/N, SAN MIGUEL TOPILEJO, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.14652000018285</longitude>
+				<latitude>19.20125000036608</latitude>
+				<altitude>0</altitude>
+				<heading>-6.015939666121205e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000161497155</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ranger_station</styleUrl>
+			<Point>
+				<coordinates>-99.14652000018283,19.20125000036608,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- LEGION AMERICANA</name>
+			<description>DOMICILIO:
+AV MEXICO AJUSCO NO 25, PUEBLO LA MAGDALENA PETLACALCO, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.17631700014029</longitude>
+				<latitude>19.23381099985973</latitude>
+				<altitude>0</altitude>
+				<heading>-4.622419389371484e-011</heading>
+				<tilt>0</tilt>
+				<range>1428.524772028481</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ranger_station</styleUrl>
+			<Point>
+				<coordinates>-99.17631700014027,19.23381099985973,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- AÑO INTERNACIONAL DEL NIÑO</name>
+			<description>DOMICILIO:
+HDA SAN NICOLAS TOLENTINO S/N, PRADO COAPA, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.1355959999907</longitude>
+				<latitude>19.29334499999789</latitude>
+				<altitude>0</altitude>
+				<heading>3.040610275479122e-012</heading>
+				<tilt>0</tilt>
+				<range>739.7382935382797</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ranger_station</styleUrl>
+			<Point>
+				<coordinates>-99.1355959999907,19.29334499999789,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SECUNDARIA GENERAL
+-  GUSTAVO CABRERA ACEVEDO</name>
+			<description>DOMICILIO:
+CAMINO REAL AL AJUSCO  NO 24, SAN ANDRES TOTOLTEPEC, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.17845399993584</longitude>
+				<latitude>19.24682899971712</latitude>
+				<altitude>0</altitude>
+				<heading>2.11713622371619e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000577044046</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ranger_station</styleUrl>
+			<Point>
+				<coordinates>-99.17845399993584,19.24682899971712,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- JUAN A MATEOS</name>
+			<description>DOMICILIO:
+AV INSURGENTES SUR NO 4597, 	LA JOYA, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.16481796568731</longitude>
+				<latitude>19.27925327769748</latitude>
+				<altitude>0</altitude>
+				<heading>0.001017425208285794</heading>
+				<tilt>0</tilt>
+				<range>1249.488055124533</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ranger_station</styleUrl>
+			<Point>
+				<coordinates>-99.16622045768932,19.27690381613247,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- DRA. MA. DEL CARMEN MILLAN</name>
+			<description>DOMICILIO:
+AV TENORIO NO 222, GRANJAS COAPA, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.11905099961358</longitude>
+				<latitude>19.29679800042269</latitude>
+				<altitude>0</altitude>
+				<heading>1.277163659421731e-010</heading>
+				<tilt>0</tilt>
+				<range>1345.813057426179</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela33000</styleUrl>
+			<Point>
+				<coordinates>-99.11905099961358,19.29679800042269,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- MARGARITA MAZA DE JUAREZ</name>
+			<description>DOMICILIO:
+MARIA HERNANDEZ DE ZARCO NO 14, UNIDAD HAB BELISARIO DOMINGUEZ, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.13304200008732</longitude>
+				<latitude>19.30626500004489</latitude>
+				<altitude>0</altitude>
+				<heading>-2.886432887295178e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000094148259</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela12000</styleUrl>
+			<Point>
+				<coordinates>-99.13304200008732,19.30626500004489,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL CON SERVICIO ASISTENCIAL
+- ESCUELA DE PARTICIPACION SOCIAL NUMERO 5</name>
+			<description>DOMICILIO:
+AV SAN FERNANDO NO 12, TLALPAN, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.16613799999482</longitude>
+				<latitude>19.29170099981527</latitude>
+				<altitude>0</altitude>
+				<heading>1.717897097325482e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.000164525527</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela3200</styleUrl>
+			<Point>
+				<coordinates>-99.1661379999948,19.29170099981527,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- ROTARIOS DE TLALPAN</name>
+			<description>DOMICILIO:
+CUARTA PONIENTE S/N, ISIDRO FABELA, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.17719099999886</longitude>
+				<latitude>19.30079299987935</latitude>
+				<altitude>0</altitude>
+				<heading>3.741127444071462e-013</heading>
+				<tilt>0</tilt>
+				<range>1000.000145487218</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela220000</styleUrl>
+			<Point>
+				<coordinates>-99.17719099999887,19.30079299987935,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- PROFRA. AURORA LOPEZ VELARDE BERUMEN</name>
+			<description>DOMICILIO:
+PERIFERICO SUR NO 7666, GRANJAS COAPA, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.1102269997961</longitude>
+				<latitude>19.29161699978826</latitude>
+				<altitude>0</altitude>
+				<heading>6.733472802259374e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000195001894</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela2700</styleUrl>
+			<Point>
+				<coordinates>-99.11022699979608,19.29161699978826,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SECUNDARIA GENERAL
+- DON MIGUEL HIDALGO Y COSTILLA</name>
+			<description>DOMICILIO:
+MONEDA NO 13, TLALPAN, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.16921202408095</longitude>
+				<latitude>19.28980867084666</latitude>
+				<altitude>0</altitude>
+				<heading>2.310312643091995e-007</heading>
+				<tilt>0</tilt>
+				<range>1008.79998576581</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela4000</styleUrl>
+			<Point>
+				<coordinates>-99.16921202408095,19.28980867084666,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SECUNDARIA GENERAL
+- JUVENTINO ROSAS CADENAS</name>
+			<description>DOMICILIO:
+TARASCOS FRENTE A CHONTALES, TLALCOLIGIA, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.17246201830679</longitude>
+				<latitude>19.27661426347801</latitude>
+				<altitude>0</altitude>
+				<heading>18.36666737434711</heading>
+				<tilt>0</tilt>
+				<range>699.7760735298903</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela14000</styleUrl>
+			<Point>
+				<coordinates>-99.17415839564407,19.27668839314666,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- PROFR. RAFAEL CRUZ MANJARREZ</name>
+			<description>DOMICILIO:
+ROSAL NO 248, SAN PEDRO MARTIR, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.16946300004337</longitude>
+				<latitude>19.26445400037212</latitude>
+				<altitude>0</altitude>
+				<heading>-1.434271133605973e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000046135686</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela28000</styleUrl>
+			<Point>
+				<coordinates>-99.16946300004337,19.26445400037212,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- MARTINA ISLAS</name>
+			<description>DOMICILIO:
+ENSEÑANZA NO 3, SAN PEDRO MARTIR, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.1672209999919</longitude>
+				<latitude>19.26745300023683</latitude>
+				<altitude>0</altitude>
+				<heading>2.678424611127464e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.000290971126</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela5700</styleUrl>
+			<Point>
+				<coordinates>-99.16722099999188,19.26745300023683,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SECUNDARIA GENERAL
+- ESTADO DE QUINTANA ROO</name>
+			<description>DOMICILIO:
+AV MEXICO AJUSCO S/N, PUEBLO LA MAGDALENA PETLACALCO, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.17760671483896</longitude>
+				<latitude>19.23362711786579</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0004248504233360877</heading>
+				<tilt>0</tilt>
+				<range>1088.650807197977</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela5300</styleUrl>
+			<Point>
+				<coordinates>-99.17814693268026,19.23282556991174,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SECUNDARIA GENERAL
+- PABLO CASALS</name>
+			<description>DOMICILIO:
+VIADUCTO TLALPAN Y CAMINO A TEPEPAN, EL ARENAL TEPEPAN, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.15553399985691</longitude>
+				<latitude>19.28557500009755</latitude>
+				<altitude>0</altitude>
+				<heading>4.723879083710169e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000188086252</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela3700</styleUrl>
+			<Point>
+				<coordinates>-99.15553399985691,19.28557500009755,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- MARTIN TORRES PADILLA</name>
+			<description>DOMICILIO:
+AV TRANSMISIONES NO 7, A M S A, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.14015300005049</longitude>
+				<latitude>19.28607200029567</latitude>
+				<altitude>0</altitude>
+				<heading>-1.668876798297426e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000504626926</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela470</styleUrl>
+			<Point>
+				<coordinates>-99.14015300005049,19.28607200029567,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- SOMALIA</name>
+			<description>DOMICILIO:
+AV EL FORTIN NO 46 Y AND 9 NO 3, VILLA COAPA, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.12453699984886</longitude>
+				<latitude>19.28810800000334</latitude>
+				<altitude>0</altitude>
+				<heading>4.989813212014038e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.0004335444</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela5900</styleUrl>
+			<Point>
+				<coordinates>-99.12453699984884,19.28810800000334,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- GENERAL FELIPE ANGELES</name>
+			<description>DOMICILIO:
+JOHN F KENNEDY NO 1, ISIDRO FABELA, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.1746709999945</longitude>
+				<latitude>19.29797100003674</latitude>
+				<altitude>0</altitude>
+				<heading>1.802181796384265e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.000771201754</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela10700</styleUrl>
+			<Point>
+				<coordinates>-99.17467099999449,19.29797100003674,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- PRIMERO DE MAYO</name>
+			<description>DOMICILIO:
+FUENTES NO 16, TLALPAN, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.17212599993852</longitude>
+				<latitude>19.29279699997987</latitude>
+				<altitude>0</altitude>
+				<heading>2.0306648933139e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.00048743354</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela51000</styleUrl>
+			<Point>
+				<coordinates>-99.17212599993852,19.29279699997987,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- PROFRA. CONCEPCION TARAZAGA COLOMER</name>
+			<description>DOMICILIO:
+CAMINO REAL DE CHICHICASPA Y C 8, PEDREGAL DE SAN NICOLAS, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.24192588079656</longitude>
+				<latitude>19.28284136042907</latitude>
+				<altitude>0</altitude>
+				<heading>3.405495789294553e-005</heading>
+				<tilt>0</tilt>
+				<range>1007.062609939977</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela3130</styleUrl>
+			<Point>
+				<coordinates>-99.24192588079656,19.28284136042907,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- VIDAL ALCOCER</name>
+			<description>DOMICILIO:
+MAGISTERIO NACIONAL NO 102, TLALPAN, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.16673299990302</longitude>
+				<latitude>19.28279199986812</latitude>
+				<altitude>0</altitude>
+				<heading>3.201029502225439e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000406093663</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela2600</styleUrl>
+			<Point>
+				<coordinates>-99.166732999903,19.28279199986812,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- PROFR. VICTOR MANUEL MANZANO DELGADO</name>
+			<description>DOMICILIO:
+CALLE KANTUNIL NO 400, PEDREGAL DE SAN NICOLAS, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.23593799998105</longitude>
+				<latitude>19.28289499998553</latitude>
+				<altitude>0</altitude>
+				<heading>6.254958350433189e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.000630871454</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela4600</styleUrl>
+			<Point>
+				<coordinates>-99.23593799998106,19.28289499998553,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- PROFR. CECILIO MIJARES POBLANO</name>
+			<description>DOMICILIO:
+ALAMOS Y SABINO S/N, BOSQUE DEL PEDREGAL, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.23701400021719</longitude>
+				<latitude>19.27205300011406</latitude>
+				<altitude>0</altitude>
+				<heading>-7.16845341188303e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000400200016</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela4200</styleUrl>
+			<Point>
+				<coordinates>-99.23701400021719,19.27205300011406,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- ELVIRA JIMENEZ VILLAFUERTE</name>
+			<description>DOMICILIO:
+CARRETERA AJUSCO Y TIZIMIN S/N, Z U E EJIDOS DE PADIERNA, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.22072609395555</longitude>
+				<latitude>19.28888873961456</latitude>
+				<altitude>0</altitude>
+				<heading>-11.87790511158355</heading>
+				<tilt>0</tilt>
+				<range>796.635087526223</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela440</styleUrl>
+			<Point>
+				<coordinates>-99.21776234049906,19.28948708199374,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- GUSTAVO BAZ PRADA</name>
+			<description>DOMICILIO:
+DURAZNO NO 128, DOS DE OCTUBRE, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.23041900012038</longitude>
+				<latitude>19.27285300010631</latitude>
+				<altitude>0</altitude>
+				<heading>-3.975017483959585e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000187215609</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela1700</styleUrl>
+			<Point>
+				<coordinates>-99.23041900012038,19.27285300010631,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- CUICUILCO</name>
+			<description>DOMICILIO:
+CALLEJON DEL ZAPOTE S/N, ISIDRO FABELA, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.17980054014157</longitude>
+				<latitude>19.2975999751158</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0001135367445208458</heading>
+				<tilt>0</tilt>
+				<range>998.471034718991</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela4500</styleUrl>
+			<Point>
+				<coordinates>-99.17897746760633,19.3004543371802,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- INDIRA GANDHI</name>
+			<description>DOMICILIO:
+YUCALPETEN NO 197 ESQ C CHOLUL, HEROES DE PADIERNA, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.22042821716336</longitude>
+				<latitude>19.28104584568014</latitude>
+				<altitude>0</altitude>
+				<heading>-11.36905272359907</heading>
+				<tilt>0</tilt>
+				<range>1090.215035021217</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela8000</styleUrl>
+			<Point>
+				<coordinates>-99.22119701661661,19.28261107615137,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- PROFR HERMILO ZAVALZA DEL VALLE</name>
+			<description>DOMICILIO:
+YOBAIN NO 659 Y BOLONCHEN, CULTURA MAYA, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.22315896006326</longitude>
+				<latitude>19.27760131286027</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1407668323825</heading>
+				<tilt>0</tilt>
+				<range>998.5073778504931</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela310000</styleUrl>
+			<Point>
+				<coordinates>-99.22315896006326,19.27760131286027,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- PROFRA. EMMA GODOY</name>
+			<description>DOMICILIO:
+CHAPAB NO 10, CUCHILLA DE PADIERNA, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.22017600016801</longitude>
+				<latitude>19.27490300026086</latitude>
+				<altitude>0</altitude>
+				<heading>-5.548040315544403e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000099844832</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela160000</styleUrl>
+			<Point>
+				<coordinates>-99.22017600016801,19.27490300026086,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- DOMINGO MARTINEZ PAREDEZ</name>
+			<description>DOMICILIO:
+YOBAIN Y HOLPECHEN S/N, CULTURA MAYA, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.22339644901297</longitude>
+				<latitude>19.28346732903435</latitude>
+				<altitude>0</altitude>
+				<heading>-1.165239225804897</heading>
+				<tilt>0</tilt>
+				<range>1680.427145902041</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela2300</styleUrl>
+			<Point>
+				<coordinates>-99.2235443079517,19.28531655569662,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- ALFREDO V. BONFIL</name>
+			<description>DOMICILIO:
+BLVD ALFREDO V BONFIL 151 MZ 10, AMPLIACION MIGUEL HIDALGO, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.20307604125745</longitude>
+				<latitude>19.28268429776782</latitude>
+				<altitude>0</altitude>
+				<heading>-38.75586727400544</heading>
+				<tilt>0</tilt>
+				<range>964.8694193681872</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela13000</styleUrl>
+			<Point>
+				<coordinates>-99.20320571900029,19.28187970133248,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- SEBASTIAN LERDO DE TEJADA</name>
+			<description>DOMICILIO:
+CALLE SIETE NO 39, AMPLIACION MIGUEL HIDALGO, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.21025603566902</longitude>
+				<latitude>19.27605433773783</latitude>
+				<altitude>0</altitude>
+				<heading>-42.20674933297806</heading>
+				<tilt>0</tilt>
+				<range>1345.161076284246</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela5200</styleUrl>
+			<Point>
+				<coordinates>-99.2136098246914,19.27342954061118,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- GENERAL DONATO GUERRA</name>
+			<description>DOMICILIO:
+SAN JUAN DEL RIO NO 22, FUENTES BROTANTES, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.18350013230375</longitude>
+				<latitude>19.28399673688302</latitude>
+				<altitude>0</altitude>
+				<heading>0.0007658795285311383</heading>
+				<tilt>0</tilt>
+				<range>1014.552884856749</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela5102</styleUrl>
+			<Point>
+				<coordinates>-99.18651329546157,19.28451934146056,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- PATRIA Y LIBERTAD</name>
+			<description>DOMICILIO:
+UH FUENTES BROTANTES ATRAS BL 1, FUENTES BROTANTES, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.18550855178248</longitude>
+				<latitude>19.28154709260928</latitude>
+				<altitude>0</altitude>
+				<heading>-30.41108693895434</heading>
+				<tilt>0</tilt>
+				<range>997.6255055104566</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela24000</styleUrl>
+			<Point>
+				<coordinates>-99.18563081482975,19.2827950737904,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- ANTONIO SANCHEZ MOLINA</name>
+			<description>DOMICILIO:
+CHICOASEN S/N ENTRE CHEMAX Y SIN, HEROES DE PADIERNA, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.22933162503884</longitude>
+				<latitude>19.2911174421916</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0008063619172466005</heading>
+				<tilt>0</tilt>
+				<range>1018.401188865695</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela38000</styleUrl>
+			<Point>
+				<coordinates>-99.23000141296799,19.29214724518575,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- MIGUEL RAMIREZ CASTANEDA</name>
+			<description>DOMCILIO:
+SOR JUANA INES DE LA CRUZ NO 35, MIGUEL HIDALGO, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.18111704212282</longitude>
+				<latitude>19.28871517855518</latitude>
+				<altitude>0</altitude>
+				<heading>9.430384387472844e-011</heading>
+				<tilt>0</tilt>
+				<range>1002.890858272275</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela2810</styleUrl>
+			<Point>
+				<coordinates>-99.18103159063806,19.28878575140434,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- PROFR. EFREN NUÑEZ MATA</name>
+			<description>DOMICILIO:
+QUERETARO NO 45, MIGUEL HIDALGO, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.18574399991051</longitude>
+				<latitude>19.28741899982683</latitude>
+				<altitude>0</altitude>
+				<heading>2.954616028279052e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000186775181</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela50000</styleUrl>
+			<Point>
+				<coordinates>-99.18574399991051,19.28741899982683,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- PROFR. SAUL VENANCIO ANCHONDO LOZOYA</name>
+			<description>DOMICILIO:
+CARR PANORAMICA AJUSCO KM 8.5, BELVEDERE, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.22670261023592</longitude>
+				<latitude>19.26669678203841</latitude>
+				<altitude>0</altitude>
+				<heading>-0.002029642156741766</heading>
+				<tilt>0</tilt>
+				<range>1113.814514125004</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela11000</styleUrl>
+			<Point>
+				<coordinates>-99.22508929264666,19.26666323391238,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SECUNDARIA GENERAL
+- MAXIMINO MARTINEZ</name>
+			<description>DOMICILIO:
+CALLEJON DEL ZAPOTE NO 48, ISIDRO FABELA, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.18044099986388</longitude>
+				<latitude>19.29564899964185</latitude>
+				<altitude>0</altitude>
+				<heading>4.495594771448125e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000105409913</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela19000</styleUrl>
+			<Point>
+				<coordinates>-99.18044099986388,19.29564899964185,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- RIO PANUCO</name>
+			<description>DOMICILIO:
+PUENTE DE PIEDRA NO 72, TORIELLO GUERRA, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.16254300015734</longitude>
+				<latitude>19.295393999748</latitude>
+				<altitude>0</altitude>
+				<heading>-5.19996836259174e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000517846477</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela3600</styleUrl>
+			<Point>
+				<coordinates>-99.16254300015734,19.295393999748,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TELESECUNDARIA 101</name>
+			<description>DOMICILIO:
+S JUANA I DE LA C Y AYUNTAMIENTO, MIGUEL HIDALGO, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.1809824338433</longitude>
+				<latitude>19.28847010803288</latitude>
+				<altitude>0</altitude>
+				<heading>-52.99085016386505</heading>
+				<tilt>0</tilt>
+				<range>729.2251855940875</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela3400</styleUrl>
+			<Point>
+				<coordinates>-99.18038448524673,19.28840274916474,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ESCUELA SECUNDARIA TECNICA 40</name>
+			<description>DOMICILIO:
+AV DEL RIEGO S/N, VILLA COAPA, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.12149164565709</longitude>
+				<latitude>19.29355365037848</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0004290809148821645</heading>
+				<tilt>0</tilt>
+				<range>1000.680861062678</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela70000</styleUrl>
+			<Point>
+				<coordinates>-99.11894767246648,19.29326230390881,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- MANUEL GALLARDO ZAMORA</name>
+			<description>DOMICILIO:
+LACANDONES ESQ HUASTECOS S/N, PEDREGAL DE LAS AGUILAS, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.17482343467842</longitude>
+				<latitude>19.27160536800845</latitude>
+				<altitude>0</altitude>
+				<heading>-5.89075014991629</heading>
+				<tilt>0</tilt>
+				<range>920.0397331592005</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela6110</styleUrl>
+			<Point>
+				<coordinates>-99.17713634415001,19.27210006998622,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SECUNDARIA FEDERAL</name>
+			<description>DOMICILIO:
+PROL CONTOY S/N, CUCHILLA DE PADIERNA, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.21882165145458</longitude>
+				<latitude>19.2782616375003</latitude>
+				<altitude>0</altitude>
+				<heading>0.0002820862719785946</heading>
+				<tilt>0</tilt>
+				<range>1374.36757683918</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela25000</styleUrl>
+			<Point>
+				<coordinates>-99.22024183578786,19.28051939303063,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SECUNDARIA GENERAL
+- TLAMACHIHUAPAN</name>
+			<description>DOMICILIO:
+TIZIMIN Y CELESTUN S/N, Z U E EJIDOS DE PADIERNA, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.21570804571222</longitude>
+				<latitude>19.2884471142695</latitude>
+				<altitude>0</altitude>
+				<heading>0.0004839896795557019</heading>
+				<tilt>0</tilt>
+				<range>1371.563562606924</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela1800</styleUrl>
+			<Point>
+				<coordinates>-99.21475464596081,19.28976229100143,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- PROFRA. AMANDA PALAFOX Y BAZ</name>
+			<description>DOMICILIO:
+MONTE ELBRUZ NO 15, LOS VOLCANES, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.17572305393</longitude>
+				<latitude>19.26965699861891</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0002306986772077778</heading>
+				<tilt>0</tilt>
+				<range>703.2716464390946</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela4800</styleUrl>
+			<Point>
+				<coordinates>-99.17674771482122,19.2697621281349,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- ISAAC OCHOTERENA</name>
+			<description>DOMICILIO:
+AV CRISTOBAL COLON NO 24, CHIMALCOYOTL, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.16728886638316</longitude>
+				<latitude>19.27366155885356</latitude>
+				<altitude>0</altitude>
+				<heading>5.351790594403576e-005</heading>
+				<tilt>0</tilt>
+				<range>560.2926214853285</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela5800</styleUrl>
+			<Point>
+				<coordinates>-99.1667886910404,19.27376579667418,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- AURORA REYES</name>
+			<description>DOMICILIO:
+CALZADA DEL HUESO Y PERIFERICO, RINCONADA COAPA 2A SECC, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.09785467706075</longitude>
+				<latitude>19.29573318248879</latitude>
+				<altitude>0</altitude>
+				<heading>0.005378887334570536</heading>
+				<tilt>0</tilt>
+				<range>1293.4489401645</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela5500</styleUrl>
+			<Point>
+				<coordinates>-99.10131120031031,19.29991418590561,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- HEROES DE CHAPULTEPEC</name>
+			<description>DOMICILIO:
+TEPEHUANOS Y OTOMIES S/N, TLALCOLIGIA, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.16987300283739</longitude>
+				<latitude>19.27445285957923</latitude>
+				<altitude>0</altitude>
+				<heading>0.0007826628050826807</heading>
+				<tilt>0</tilt>
+				<range>1005.567104273257</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela11300</styleUrl>
+			<Point>
+				<coordinates>-99.17152179403044,19.27526394268414,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- PROVINCIA DE QUEBEC</name>
+			<description>DOMICILIO:
+HOMUN NO 342, TORRES DE PADIERNA, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.22584000015856</longitude>
+				<latitude>19.28458099987518</latitude>
+				<altitude>0</altitude>
+				<heading>-5.237180852364863e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000152728968</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela3900</styleUrl>
+			<Point>
+				<coordinates>-99.22584000015856,19.28458099987518,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SECUNDARIA GENERAL
+- YURI A. GAGARIN</name>
+			<description>DOMICILIO:
+QUERETARO Y GUADALAJARA S/N, MIGUEL HIDALGO, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.18527442437609</longitude>
+				<latitude>19.28520022344896</latitude>
+				<altitude>0</altitude>
+				<heading>22.32090789472895</heading>
+				<tilt>0</tilt>
+				<range>997.1563083652005</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela15000</styleUrl>
+			<Point>
+				<coordinates>-99.1841029095791,19.28600840067503,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- ESTADO DE SAN LUIS POTOSI</name>
+			<description>DOMICILIO:
+ACUEDUCTO Y SN JUAN BOSCO NO 39, HUIPULCO, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.14828699999787</longitude>
+				<latitude>19.29708799981956</latitude>
+				<altitude>0</altitude>
+				<heading>6.866022418609368e-013</heading>
+				<tilt>0</tilt>
+				<range>1000.000483514894</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela4900</styleUrl>
+			<Point>
+				<coordinates>-99.14828699999787,19.29708799981956,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- FUERZAS ARMADAS DE MEXICO</name>
+			<description>DOMICILIO:
+REFORMA AGRARIA NO 1, UNIDAD HAB ISSFAM 1, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.16399299998392</longitude>
+				<latitude>19.2785400000554</latitude>
+				<altitude>0</altitude>
+				<heading>5.292045420620108e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.000122053177</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela29000</styleUrl>
+			<Point>
+				<coordinates>-99.16399299998392,19.2785400000554,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- CUAUHTEMOC</name>
+			<description>DOMICILIO:
+REFORMA Y 5 DE MAYO, SAN ANDRES TOTOLTEPEC, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.17447436207128</longitude>
+				<latitude>19.25292060881884</latitude>
+				<altitude>0</altitude>
+				<heading>9.715236059087413e-005</heading>
+				<tilt>0</tilt>
+				<range>1000.111953901118</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela410000</styleUrl>
+			<Point>
+				<coordinates>-99.17356061833353,19.25257118023167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- IGNACIO RODRIGUEZ GALVAN</name>
+			<description>DOMICILIO:
+MAGISTERIO NAL Y MORELOS 118, TLALPAN, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.16672615455171</longitude>
+				<latitude>19.28732676752906</latitude>
+				<altitude>0</altitude>
+				<heading>20.41154998190035</heading>
+				<tilt>0</tilt>
+				<range>880.0990845950422</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela3000</styleUrl>
+			<Point>
+				<coordinates>-99.16516309899647,19.28721152716876,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- REPUBLICA DE ARGENTINA</name>
+			<description>DOMICILIO:
+MORELOS NO 4, TLALPAN, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.16319100000601</longitude>
+				<latitude>19.29201900003129</latitude>
+				<altitude>0</altitude>
+				<heading>-2.009712989349759e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.000058725127</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela00000</styleUrl>
+			<Point>
+				<coordinates>-99.16319100000601,19.29201900003129,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- CAMARA JUNIOR</name>
+			<description>DOMICILIO:
+SAN JUAN BOSCO NO 1, HUIPULCO, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.14534799996488</longitude>
+				<latitude>19.29650900001886</latitude>
+				<altitude>0</altitude>
+				<heading>1.160942215667702e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000154099357</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela5400</styleUrl>
+			<Point>
+				<coordinates>-99.14534799996488,19.29650900001886,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL CON SERVICIO ASISTENCIAL
+- MEXTLIXOCHITL</name>
+			<description>DOMICILIO:
+CALLEJON DE CERRADA 1O DE MAYO S/N, PUEBLO SAN MIGUEL XICALCO, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.16469199993261</longitude>
+				<latitude>19.23462599990468</latitude>
+				<altitude>0</altitude>
+				<heading>2.219629598326352e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000131222646</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela210000</styleUrl>
+			<Point>
+				<coordinates>-99.16469199993261,19.23462599990468,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- LAZARO PAVIA</name>
+			<description>DOMICILIO:
+AKIL NO 138, POPULAR SANTA TERESA, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.22207422227096</longitude>
+				<latitude>19.30137796960922</latitude>
+				<altitude>0</altitude>
+				<heading>-2.271080816367918</heading>
+				<tilt>0</tilt>
+				<range>843.9175312582937</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela2000</styleUrl>
+			<Point>
+				<coordinates>-99.22303136417992,19.29813903411936,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- PROFR. PEDRO LOREDO ORTEGA</name>
+			<description>DOMICILIO:
+SINANCHE NO 10, PEDREGAL DE SAN NICOLAS, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.23235700002587</longitude>
+				<latitude>19.29227399990973</latitude>
+				<altitude>0</altitude>
+				<heading>-8.559270217153506e-012</heading>
+				<tilt>0</tilt>
+				<range>723.9682918248271</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela3500</styleUrl>
+			<Point>
+				<coordinates>-99.23194550837079,19.29276542341763,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- PROFR. ELISEO BANDALA FERNANDEZ</name>
+			<description>DOMICIILO:
+SINANCHE NO 10 Y TEPOZAL S/N, PEDREGAL DE SAN NICOLAS, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.22791117933213</longitude>
+				<latitude>19.29298764857427</latitude>
+				<altitude>0</altitude>
+				<heading>-1.565722063805481</heading>
+				<tilt>0</tilt>
+				<range>983.9660340431742</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela11100</styleUrl>
+			<Point>
+				<coordinates>-99.22735534855312,19.2931422928777,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- ESTADO DE QUERETARO</name>
+			<description>DOMICILIO:
+AV SANTA URSULA NO 22, PEDREGAL DE SANTA URSULA XITLA, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.17787800008681</longitude>
+				<latitude>19.28203699973619</latitude>
+				<altitude>0</altitude>
+				<heading>-2.866991746804732e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000465415108</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela6000</styleUrl>
+			<Point>
+				<coordinates>-99.17787800008681,19.28203699973619,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- NEZCALTILOYAN</name>
+			<description>DOMICILIO:
+PROLONGACION BEKAL VENUNCIA, BELVEDERE, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.22660100005562</longitude>
+				<latitude>19.26889499993952</latitude>
+				<altitude>0</altitude>
+				<heading>-1.838440119752949e-011</heading>
+				<tilt>0</tilt>
+				<range>865.0787299131902</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela43000</styleUrl>
+			<Point>
+				<coordinates>-99.22816072316314,19.26785514101265,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ESCUELA SECUNDARIA TECNICA 112</name>
+			<description>DOMICILIO:
+CERRADA SABINO CASI ESQUINA CEIBA, VISTAS DEL PEDREGAL, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.23620203089357</longitude>
+				<latitude>19.27153927779968</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0005399912618011776</heading>
+				<tilt>0</tilt>
+				<range>711.0380479627405</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela900</styleUrl>
+			<Point>
+				<coordinates>-99.23601960054036,19.27171148820857,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- KAMBESAH</name>
+			<description>DOMICILIO:
+TIXCANDAL MZA 942 LTE 8, PEDREGAL DE SAN NICOLAS, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.23774259667495</longitude>
+				<latitude>19.28386632735832</latitude>
+				<altitude>0</altitude>
+				<heading>0.0007639572267112182</heading>
+				<tilt>0</tilt>
+				<range>815.5103880696109</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela560</styleUrl>
+			<Point>
+				<coordinates>-99.24001485520377,19.28416002451048,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- MILLI</name>
+			<description>DOMICILIO:
+LIRIOS MZA 7 LTES 10 Y 11, EL MIRADOR, DELEGACION TLALPAN, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.21917399997059</longitude>
+				<latitude>19.27175899999746</latitude>
+				<altitude>0</altitude>
+				<heading>9.691547683754518e-012</heading>
+				<tilt>0</tilt>
+				<range>740.4118762541699</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela41100</styleUrl>
+			<Point>
+				<coordinates>-99.21917399997059,19.27175899999746,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- MIGUEL HIDALGO</name>
+			<description>DOMICILIO:
+AV DE LAS TORRES Y JESUS LECUONA, MIGUEL HIDALGO, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.19455630211573</longitude>
+				<latitude>19.28656469354164</latitude>
+				<altitude>0</altitude>
+				<heading>-9.284089350681974</heading>
+				<tilt>0</tilt>
+				<range>736.7114583022265</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela1030</styleUrl>
+			<Point>
+				<coordinates>-99.19588997990478,19.28531531190974,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- AÑO DE LA REPUBLICA FEDERAL Y DEL SENADO</name>
+			<description>DOMICILIO:
+MA HDEZ ZARCO Y ROQUE ESTRADA, UNIDAD HAB BELISARIO DOMINGUEZ, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.13309499988688</longitude>
+				<latitude>19.30525199964204</latitude>
+				<altitude>0</altitude>
+				<heading>3.73766859085537e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000112165003</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela9800</styleUrl>
+			<Point>
+				<coordinates>-99.13309499988688,19.30525199964204,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ESCUELA SECUNDARIA TECNICA 105</name>
+			<description>DOMICILIO:
+PROL.  MIGUEL HIDALGO S/N UNIDAD FOVISSSTE FUENTES, MIGUEL HIDALGO, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.19082599997971</longitude>
+				<latitude>19.28648799988578</latitude>
+				<altitude>0</altitude>
+				<heading>6.69347732713997e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.000048230706</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela920</styleUrl>
+			<Point>
+				<coordinates>-99.19082599997971,19.28648799988578,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- ITZCALLI</name>
+			<description>DOMICILIO:
+GUADALAJARA S/N, MIGUEL HIDALGO, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.18497800007513</longitude>
+				<latitude>19.28598899990857</latitude>
+				<altitude>0</altitude>
+				<heading>-2.483893935422451e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000460220379</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela17010</styleUrl>
+			<Point>
+				<coordinates>-99.18545357603907,19.28633144867393,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LACTANTE, MATERNAL Y PREESCOLAR
+- CENDI SEP NO 31 JUANA DE ASBAJE</name>
+			<description>DOMICILIO:
+CARR AL AJUSCO NO 24, HEROES DE PADIERNA, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.21835699995825</longitude>
+				<latitude>19.28746399987585</latitude>
+				<altitude>0</altitude>
+				<heading>1.37817410041166e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.00050046559</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela4610</styleUrl>
+			<Point>
+				<coordinates>-99.21835699995825,19.28746399987585,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL CON SERVICIO ASISTENCIAL
+- MIGUEL ANGEL BUONARROTI</name>
+			<description>DOMICILIO:
+TENORIOS NO 222, EX HACIENDA DE COAPA, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.11616999985581</longitude>
+				<latitude>19.29107499970745</latitude>
+				<altitude>0</altitude>
+				<heading>4.763993829630128e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.00035323904</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela10200</styleUrl>
+			<Point>
+				<coordinates>-99.11616999985583,19.29107499970745,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- CENTENARIO DE LA HEROICA ESCUELA NAVAL MILITAR</name>
+			<description>DOMICILIO:
+CANAL NACIONAL S/N UNIDAD MILITAR NAVAL, GRANJAS COAPA, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.10029521438308</longitude>
+				<latitude>19.29813331889115</latitude>
+				<altitude>0</altitude>
+				<heading>0.004730530682358642</heading>
+				<tilt>0</tilt>
+				<range>1147.842421781521</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela6400</styleUrl>
+			<Point>
+				<coordinates>-99.1010672328168,19.29866332726495,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ESCUELA SECUNDARIA TECNICA 39</name>
+			<description>DOMICILIO:
+CALLE ALLENDE FRENTE AL 392, RINCONADA DE SAN FERNANDO, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.17487699998759</longitude>
+				<latitude>19.29310400002461</latitude>
+				<altitude>0</altitude>
+				<heading>4.092976305708363e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.000369700653</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela3001</styleUrl>
+			<Point>
+				<coordinates>-99.17487699998758,19.29310400002461,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ESCUELA SECUNDARIA TECNICA 96</name>
+			<description>DOMICILIO:
+GUADALUPE VICTORIA S/N, SANTO TOMAS AJUSCO, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.2062859998918</longitude>
+				<latitude>19.22206000006508</latitude>
+				<altitude>0</altitude>
+				<heading>3.560432181230815e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000156997561</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela7600</styleUrl>
+			<Point>
+				<coordinates>-99.2062859998918,19.22206000006508,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL CON SERVICIO ASISTENCIAL
+- XOCHICALPILLI</name>
+			<description>DOMICILIO:
+AV. EL ALTILLO MZA 1, VILLA COAPA, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.12901599990664</longitude>
+				<latitude>19.29275899995935</latitude>
+				<altitude>0</altitude>
+				<heading>3.083110437410179e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000603179286</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela740</styleUrl>
+			<Point>
+				<coordinates>-99.12901599990663,19.29275899995935,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ESCUELA SECUNDARIA TECNICA 93</name>
+			<description>DOMCILIO:
+CALLE TAITZA S/N, UNIDAD HAB PEMEX PICACHO, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.21762893900579</longitude>
+				<latitude>19.29312854664151</latitude>
+				<altitude>0</altitude>
+				<heading>0.0006091580210895665</heading>
+				<tilt>0</tilt>
+				<range>948.7943483655325</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela6800</styleUrl>
+			<Point>
+				<coordinates>-99.21648008922979,19.29287661556336,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- TONALI</name>
+			<description>DOMICLIO:
+CALLE 2 Y TEPOZAN MZA 114 LTE 5, PEDREGAL DE SAN NICOLAS, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.24234300005752</longitude>
+				<latitude>19.27053800010945</latitude>
+				<altitude>0</altitude>
+				<heading>-1.899307984969457e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000139021232</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela50100</styleUrl>
+			<Point>
+				<coordinates>-99.24234300005752,19.27053800010945,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- JOSE AZUETA</name>
+			<description>DOMICILIO:
+PARQUE NAL FUENTES BROTA NO 36, TLALPAN, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.17499299997053</longitude>
+				<latitude>19.28939000027394</latitude>
+				<altitude>0</altitude>
+				<heading>9.707052887826651e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.000193118459</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela7800</styleUrl>
+			<Point>
+				<coordinates>-99.17499299997051,19.28939000027394,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL CON SERVICIO ASISTENCIAL
+- PRIMAVERA</name>
+			<description>DOMICILIO:
+PASEO NOCHE BUENA Y JAZMIN S/N, TLALPAN, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.17596900022237</longitude>
+				<latitude>19.26482899996352</latitude>
+				<altitude>0</altitude>
+				<heading>-7.337261351601706e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000214903895</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela8800</styleUrl>
+			<Point>
+				<coordinates>-99.17596900022235,19.26482899996352,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LACTANTE, MATERNAL Y PREESCOLAR
+- CENDI SEP NO 02 SIXTA CHAVEZ RAMIREZ</name>
+			<description>DOMICILIO:
+ESCUELA S N, EX EJIDO DE HUIPULCO, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.13125022721157</longitude>
+				<latitude>19.28901490453522</latitude>
+				<altitude>0</altitude>
+				<heading>0.0006331249069330409</heading>
+				<tilt>0</tilt>
+				<range>1000.30689813652</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela14101</styleUrl>
+			<Point>
+				<coordinates>-99.13157202085982,19.29042171403422,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- KANTUNIL</name>
+			<description>DOMICILIO:
+D&apos;ZEMUL Y MANI S/N, PEDREGAL DE SAN NICOLAS, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.23519739564334</longitude>
+				<latitude>19.27688439705293</latitude>
+				<altitude>0</altitude>
+				<heading>0.0006742177241576256</heading>
+				<tilt>0</tilt>
+				<range>663.5724622274979</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela1311</styleUrl>
+			<Point>
+				<coordinates>-99.23644718956241,19.27691274848411,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- KALLINPILTONTLI</name>
+			<description>DOMICILIO:
+V.C. Y A. BONFIL MZA 110 B LTE 813 B, AMPLIACION MIGUEL HIDALGO, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.20196899986276</longitude>
+				<latitude>19.27828100003729</latitude>
+				<altitude>0</altitude>
+				<heading>4.532171150284957e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000369366789</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela7700</styleUrl>
+			<Point>
+				<coordinates>-99.20196899986276,19.27828100003729,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- CAPITAN IGNACIO JOSE DE ALLENDE</name>
+			<description>DOMICILIO:
+MIRADOR CHAPULTEPEC S/N, SAN MIGUEL TOPILEJO, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.15055300009848</longitude>
+				<latitude>19.20542699991033</latitude>
+				<altitude>0</altitude>
+				<heading>-3.240627408009659e-011</heading>
+				<tilt>0</tilt>
+				<range>744.2559328668633</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela10500</styleUrl>
+			<Point>
+				<coordinates>-99.15055300009848,19.20542699991033,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- ATENEA</name>
+			<description>DOMICILIO:
+CANTERA S/N, TEPETONGO, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.19004904592224</longitude>
+				<latitude>19.27136885084374</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0001617329344500778</heading>
+				<tilt>0</tilt>
+				<range>992.3684185581594</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela1510</styleUrl>
+			<Point>
+				<coordinates>-99.1903337025574,19.27129508764516,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL CON SERVICIO ASISTENCIAL
+- TSITSIKI</name>
+			<description>DOMICILIO:
+CEHUANTEPEC S/N, LOS HORNOS, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.18361877951666</longitude>
+				<latitude>19.2745162369246</latitude>
+				<altitude>0</altitude>
+				<heading>0.1754045318250717</heading>
+				<tilt>0</tilt>
+				<range>998.1852229127271</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela8200</styleUrl>
+			<Point>
+				<coordinates>-99.18462161586898,19.27533570119363,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- ANA MARIA NAVARRO BECERRA</name>
+			<description>DOMICILIO:
+NAHOAS Y OTOMIES, TLALCOLIGIA, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.17445280487844</longitude>
+				<latitude>19.27295759289284</latitude>
+				<altitude>0</altitude>
+				<heading>0.0002806147388279979</heading>
+				<tilt>0</tilt>
+				<range>744.5392864082485</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela19100</styleUrl>
+			<Point>
+				<coordinates>-99.17327824020778,19.27272709264586,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- CELIC</name>
+			<description>DOMICILIO:
+PISTE E IZAMAL S/N, LOMAS DE PADIERNA, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.22079809251437</longitude>
+				<latitude>19.28630382497563</latitude>
+				<altitude>0</altitude>
+				<heading>0.0008061518279605188</heading>
+				<tilt>0</tilt>
+				<range>751.2880924745539</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela4810</styleUrl>
+			<Point>
+				<coordinates>-99.22261220677333,19.28425526588996,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>INTERVENCION TEMPRANA, PREESCOLAR, PRIMARIA Y CAPACITACION LABORAL ESPECIAL
+- CENTRO DE ATENCION MULTIPLE 40  M</name>
+			<description>DOMICILIO:
+MELCHOR OCAMPO NO  1, SANTO TOMAS AJUSCO, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.20532800004945</longitude>
+				<latitude>19.2198359999475</latitude>
+				<altitude>0</altitude>
+				<heading>-1.629000593978577e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.001252305628</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela9400</styleUrl>
+			<Point>
+				<coordinates>-99.20532800004945,19.2198359999475,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>INTERVENCION TEMPRANA, PREESCOLAR, PRIMARIA Y CAPACITACION LABORAL ESPECIAL
+- CENTRO DE ATENCION MULTIPLE 15</name>
+			<description>DOMICILIO:
+AV  SAN BUENAVENTURA NO  86, UNIDAD HAB BELISARIO DOMINGUEZ, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.14575900014417</longitude>
+				<latitude>19.29529099980231</latitude>
+				<altitude>0</altitude>
+				<heading>-4.763596260294945e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000627267325</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela2111</styleUrl>
+			<Point>
+				<coordinates>-99.14575900014417,19.29529099980231,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- ALI CHUMACERO</name>
+			<description>DOMICILIO:
+CIENCIA Y TECNOLOGIA, PLAN DE AYALA, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.14912199985085</longitude>
+				<latitude>19.23905900001608</latitude>
+				<altitude>0</altitude>
+				<heading>4.915587017135385e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000134419237</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela3300</styleUrl>
+			<Point>
+				<coordinates>-99.14912199985085,19.23905900001608,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL CON SERVICIO ASISTENCIAL
+- TLALI</name>
+			<description>DOMICILIO:
+GUADALAJARA S\N UNIDAD HAB. FOVISSSTE, FUENTES BROTANTES, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.18074116515115</longitude>
+				<latitude>19.28443681118696</latitude>
+				<altitude>0</altitude>
+				<heading>0.001399260325514932</heading>
+				<tilt>0</tilt>
+				<range>755.7105158360566</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela10100</styleUrl>
+			<Point>
+				<coordinates>-99.18343043653091,19.28532390271698,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- RUFINO TAMAYO</name>
+			<description>DOMICILIO:
+UNIDAD HAB. FOVISSSTE FUENTES BROTAN, FUENTES BROTANTES, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.18266344458479</longitude>
+				<latitude>19.28321938079628</latitude>
+				<altitude>0</altitude>
+				<heading>0.0007644331677623788</heading>
+				<tilt>0</tilt>
+				<range>1011.851389182997</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela5410</styleUrl>
+			<Point>
+				<coordinates>-99.18499614396308,19.28402584848676,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- TAVICHE</name>
+			<description>DOMICILIO:
+HIDALGO Y MARIANO ESCOBEDO, SAN MIGUEL AJUSCO, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.19892497420095</longitude>
+				<latitude>19.2255566090613</latitude>
+				<altitude>0</altitude>
+				<heading>0.0005849697311408221</heading>
+				<tilt>0</tilt>
+				<range>788.035207064042</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela6700</styleUrl>
+			<Point>
+				<coordinates>-99.19892497420094,19.2255566090613,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>INTERVENCION TEMPRANA, PREESCOLAR, PRIMARIA Y CAPACITACION LABORAL ESPECIAL
+- CENTRO DE ATENCION MULTIPLE 69</name>
+			<description>DOMICILIO:
+EMILIANO ZAPATA NO  69, SAN MIGUEL AJUSCO, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.2044235082418</longitude>
+				<latitude>19.22383577135396</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001303465487777174</heading>
+				<tilt>0</tilt>
+				<range>1117.578348796105</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela850</styleUrl>
+			<Point>
+				<coordinates>-99.20497712052089,19.22253175483248,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- LEYES DE REFORMA DEL 57</name>
+			<description>DOMICILIO:
+AV HIDALGO NO 54, SAN MIGUEL AJUSCO, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.19469600011418</longitude>
+				<latitude>19.23014500001564</latitude>
+				<altitude>0</altitude>
+				<heading>-3.762278132703194e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.001199361411</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela6600</styleUrl>
+			<Point>
+				<coordinates>-99.19469600011418,19.23014500001564,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ESCUELA SECUNDARIA TECNICA 120</name>
+			<description>DOMICILIO:
+MIGUEL HIDALGO S/N ESQUINA 20 DE NOVIEMBRE, GUARDA PARRES, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.00007855261015</longitude>
+				<latitude>19.26670691627151</latitude>
+				<altitude>0</altitude>
+				<heading>14.00912119619005</heading>
+				<tilt>0</tilt>
+				<range>646.1771271320574</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela8600</styleUrl>
+			<Point>
+				<coordinates>-99.00074541148227,19.26870120861625,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ESCUELA SECUNDARIA TECNICA 119</name>
+			<description>DOMICILIO:
+CALLE CINCO S/N, AMPLIACION MIGUEL HIDALGO, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.21029918397638</longitude>
+				<latitude>19.2761131854822</latitude>
+				<altitude>0</altitude>
+				<heading>-0.002750881488560941</heading>
+				<tilt>0</tilt>
+				<range>892.1198029465376</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela37100</styleUrl>
+			<Point>
+				<coordinates>-99.21187010989678,19.2767329371167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>INTERVENCION TEMPRANA, PREESCOLAR, PRIMARIA Y CAPACITACION LABORAL ESPECIAL
+- CENTRO DE ATENCION MULTIPLE 22</name>
+			<description>DOMICILIO:
+CATAZAJA S/N ESQ  DZIBALCHEN, CUCHILLA DE PADIERNA, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.21707799993648</longitude>
+				<latitude>19.27720299998159</latitude>
+				<altitude>0</altitude>
+				<heading>2.096422861353159e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000218649903</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela790</styleUrl>
+			<Point>
+				<coordinates>-99.21707799993648,19.27720299998159,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>INTERVENCION TEMPRANA, PREESCOLAR Y PRIMARIA ESPECIAL
+- CENTRO DE ATENCION MULTIPLE No. 64</name>
+			<description>DOMICILIO:
+YOBAIN S/N MZA  26, POPULAR SANTA TERESA, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.22490034883194</longitude>
+				<latitude>19.3002398722567</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0001049619932066188</heading>
+				<tilt>0</tilt>
+				<range>1042.060588893637</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela71110</styleUrl>
+			<Point>
+				<coordinates>-99.2249992771161,19.29922926700568,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- XOCHIPILCO</name>
+			<description>DOMICILIO:
+CDA. DE MIRASOL S/N, PEDREGAL DE SAN PEDRO MARTIR, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.17578199974504</longitude>
+				<latitude>19.26738400005928</latitude>
+				<altitude>0</altitude>
+				<heading>8.413839354343587e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000265139248</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela2211</styleUrl>
+			<Point>
+				<coordinates>-99.1750427017177,19.26738399841156,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- MIGUEL BUSTOS CERECEDO</name>
+			<description>DOMICILIO:
+LEY DE POBLACION S/N, PLAN DE AYALA, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.14996871580712</longitude>
+				<latitude>19.23809448631119</latitude>
+				<altitude>0</altitude>
+				<heading>112.6933635010792</heading>
+				<tilt>0</tilt>
+				<range>776.3844194477673</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela11200</styleUrl>
+			<Point>
+				<coordinates>-99.14901781913436,19.23842737214358,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- AJUCHITAN</name>
+			<description>DOMICILIO:
+MORELOS Y LEONA VICARIO, SANTO TOMAS AJUSCO, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.20362172173948</longitude>
+				<latitude>19.21916902194571</latitude>
+				<altitude>0</altitude>
+				<heading>0.0002667515689093292</heading>
+				<tilt>0</tilt>
+				<range>1012.398760568319</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela3110</styleUrl>
+			<Point>
+				<coordinates>-99.20424500001222,19.21764200360913,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- MIAHUATZINTLI</name>
+			<description>DOMICILIO:
+CLUB DEPORTIVO UNIVERSIDAD S/N, VILLA LAZARO CARDENAS, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.1385265579281</longitude>
+				<latitude>19.29896371724495</latitude>
+				<altitude>0</altitude>
+				<heading>7.415923150657354</heading>
+				<tilt>0</tilt>
+				<range>720.9741720689743</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela8100</styleUrl>
+			<Point>
+				<coordinates>-99.13955800612165,19.29734729322983,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- BIK&apos;IT</name>
+			<description>DOMICILIO:
+AKIL Y YUCALTEPEN, POPULAR SANTA TERESA, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.22083501326321</longitude>
+				<latitude>19.30287477701261</latitude>
+				<altitude>0</altitude>
+				<heading>-12.45773261448416</heading>
+				<tilt>0</tilt>
+				<range>901.8187043793859</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela2710</styleUrl>
+			<Point>
+				<coordinates>-99.22283649671941,19.29974384420342,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- TZINTI</name>
+			<description>DOMICILIO:
+CUAUHTEMOC S/N, PUEBLO QUIETO, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.16051500025461</longitude>
+				<latitude>19.29806900009648</latitude>
+				<altitude>0</altitude>
+				<heading>-8.417616263027825e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000778127311</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela001</styleUrl>
+			<Point>
+				<coordinates>-99.16051500025461,19.29806900009648,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- ESTADO DE TAMAULIPAS</name>
+			<description>DOMICILIO:
+SIERRA SAN PEDRO S/N, TLALMILLI, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.1846789999441</longitude>
+				<latitude>19.26079699998561</latitude>
+				<altitude>0</altitude>
+				<heading>1.841183348165711e-011</heading>
+				<tilt>0</tilt>
+				<range>630.4707815280688</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela4501</styleUrl>
+			<Point>
+				<coordinates>-99.18467899994411,19.26079699998561,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL CON SERVICIO ASISTENCIAL
+- SACBE</name>
+			<description>DOMICILIO:
+CONTOY MZA 167 LTE 5, HEROES DE PADIERNA, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.22093000012059</longitude>
+				<latitude>19.28856099977068</latitude>
+				<altitude>0</altitude>
+				<heading>-3.985115745073231e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000864580365</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela9700</styleUrl>
+			<Point>
+				<coordinates>-99.22093000012059,19.28856099977068,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- HUITZAPIZTLI</name>
+			<description>DOMICILIO:
+HECELCHAKAN Y CHAPAB S/N, CUCHILLA DE PADIERNA, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.2169793289235</longitude>
+				<latitude>19.27393430417567</latitude>
+				<altitude>0</altitude>
+				<heading>31.15198537751652</heading>
+				<tilt>0</tilt>
+				<range>739.2865206518327</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela2601</styleUrl>
+			<Point>
+				<coordinates>-99.21966090903025,19.27560469869184,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- MAGDALENA CONTRERAS MILLAN</name>
+			<description>DOMICILIO:
+ENSAÑANZA S/N, SAN PEDRO MARTIR, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.16748843407196</longitude>
+				<latitude>19.26644637737469</latitude>
+				<altitude>0</altitude>
+				<heading>5.926253443293085e-005</heading>
+				<tilt>0</tilt>
+				<range>1000.786272325015</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela840</styleUrl>
+			<Point>
+				<coordinates>-99.16753875119194,19.26652026498938,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- PROFR. RAFAEL RAMIREZ</name>
+			<description>DOMICILIO:
+IZAMAL Y HOLPECHEN, JOSE LOPEZ PORTILLO, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.22069832144504</longitude>
+				<latitude>19.27625532722534</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001654127741964526</heading>
+				<tilt>0</tilt>
+				<range>920.3770358397226</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela18100</styleUrl>
+			<Point>
+				<coordinates>-99.22220039128685,19.27727845089633,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- LUIS DE LA BRENA</name>
+			<description>DOMICILO:
+REFORMA NO 1, PUEBLO SAN MIGUEL XICALCO, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.17042099998231</longitude>
+				<latitude>19.23747299995392</latitude>
+				<altitude>0</altitude>
+				<heading>5.822005344418969e-012</heading>
+				<tilt>0</tilt>
+				<range>723.3355376899946</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela581</styleUrl>
+			<Point>
+				<coordinates>-99.16833223549601,19.23635135475569,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- CAJEME</name>
+			<description>DOMICILIO:
+MORELOS NO 10, SAN ANDRES TOTOLTEPEC, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.16775999987264</longitude>
+				<latitude>19.25630799993522</latitude>
+				<altitude>0</altitude>
+				<heading>4.199246589002762e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000319741975</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela9310</styleUrl>
+			<Point>
+				<coordinates>-99.16775999987264,19.25630799993522,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- CHIMALCOYOTL</name>
+			<description>DOMICILIO:
+CRISTOBAL COLON NO 10, CHIMALCOYOTL, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.16645761155981</longitude>
+				<latitude>19.27410653078542</latitude>
+				<altitude>0</altitude>
+				<heading>6.696523930312813</heading>
+				<tilt>0</tilt>
+				<range>616.762570092282</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela11010</styleUrl>
+			<Point>
+				<coordinates>-99.16750189571076,19.27389021184623,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- EUCARIO LEON LOPEZ</name>
+			<description>DOMICILIO:
+AV. CENTRAL NO 3, A M S A, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.13975400003923</longitude>
+				<latitude>19.28422300009962</latitude>
+				<altitude>0</altitude>
+				<heading>-1.297626553103597e-011</heading>
+				<tilt>0</tilt>
+				<range>706.759485444884</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela9300</styleUrl>
+			<Point>
+				<coordinates>-99.13979746468638,19.28448407398426,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- ALBERTO LENZ SR</name>
+			<description>DOMICILIO:
+CDA. ZARAGOZA S/N, MIGUEL HIDALGO, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.17925794027418</longitude>
+				<latitude>19.29273188685411</latitude>
+				<altitude>0</altitude>
+				<heading>5.09022694961793e-005</heading>
+				<tilt>0</tilt>
+				<range>731.9590712665834</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela6900</styleUrl>
+			<Point>
+				<coordinates>-99.17925794027418,19.29273188685411,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- SALVADOR M. LIMA</name>
+			<description>DOMICILIO:
+AV ACOXPA ANDADOR 68 MZA 6, VILLA COAPA, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.14192800006821</longitude>
+				<latitude>19.29921000006555</latitude>
+				<altitude>0</altitude>
+				<heading>14.94813259056095</heading>
+				<tilt>0</tilt>
+				<range>1000.000385903722</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela502</styleUrl>
+			<Point>
+				<coordinates>-99.14192800006821,19.29921000006555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- CITLALI</name>
+			<description>DOMICILIO:
+5 DE MAYO Y ZARAGOZA NO 12, PUEBLO LA MAGDALENA PETLACALCO, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.18031299999055</longitude>
+				<latitude>19.23466499984471</latitude>
+				<altitude>0</altitude>
+				<heading>3.102631091767661e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.000179158423</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela810</styleUrl>
+			<Point>
+				<coordinates>-99.18031299999055,19.23466499984471,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ESCUELA SECUNDARIA TECNICA 56</name>
+			<description>DOMICILIO:
+AV SANTA CRUZ S/N, SAN MIGUEL TOPILEJO, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.14106000005126</longitude>
+				<latitude>19.19733199978693</latitude>
+				<altitude>0</altitude>
+				<heading>-1.687840855585652e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000403859587</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela9600</styleUrl>
+			<Point>
+				<coordinates>-99.14106000005126,19.19733199978693,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- JUANA DE ASBAJE</name>
+			<description>DOMICILIO:
+CALLE DE LA MESA S/N, PEDREGAL DE SANTA URSULA XITLA, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.18063506942016</longitude>
+				<latitude>19.28119768605097</latitude>
+				<altitude>0</altitude>
+				<heading>-77.45373577398253</heading>
+				<tilt>0</tilt>
+				<range>971.8231398025482</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela1060</styleUrl>
+			<Point>
+				<coordinates>-99.18128262797765,19.27995674364878,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- TINEMI</name>
+			<description>DOMICILIO:
+JACARANDAS Y SABINO, BOSQUE DEL PEDREGAL, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.23701400042057</longitude>
+				<latitude>19.27257679652919</latitude>
+				<altitude>0</altitude>
+				<heading>4.097130507691689e-009</heading>
+				<tilt>0</tilt>
+				<range>750.349996941281</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela1040</styleUrl>
+			<Point>
+				<coordinates>-99.2374303425192,19.27159235767396,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- XOCHICONETL</name>
+			<description>DOMICILIO:
+AV. SIETE S/N, AMPLIACION MIGUEL HIDALGO, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.21270325567444</longitude>
+				<latitude>19.27347403299654</latitude>
+				<altitude>0</altitude>
+				<heading>-42.9658720476923</heading>
+				<tilt>0</tilt>
+				<range>834.2239957109566</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela41000</styleUrl>
+			<Point>
+				<coordinates>-99.21269140695129,19.2744109188883,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ESCUELA SECUNDARIA TECNICA 54</name>
+			<description>DOMICILIO:
+CALLE DILIGENCIAS Y VIOLETA CARRETERA FEDERAL A CU, SAN PEDRO MARTIR, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.16727535996871</longitude>
+				<latitude>19.27008673075787</latitude>
+				<altitude>0</altitude>
+				<heading>21.08662302062649</heading>
+				<tilt>0</tilt>
+				<range>752.5089937153556</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela870</styleUrl>
+			<Point>
+				<coordinates>-99.16900698492603,19.26918237927595,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL CON SERVICIO ASISTENCIAL
+- AJUSCO</name>
+			<description>DOMICILIO:
+CALLE DURAZNO Y PROLONGACION TIJERA, DOS DE OCTUBRE, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.23041900028535</longitude>
+				<latitude>19.27285299991099</latitude>
+				<altitude>0</altitude>
+				<heading>-17.14166717242423</heading>
+				<tilt>0</tilt>
+				<range>740.8076774253268</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_escuela2010</styleUrl>
+			<Point>
+				<coordinates>-99.23041900028534,19.27285299991099,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

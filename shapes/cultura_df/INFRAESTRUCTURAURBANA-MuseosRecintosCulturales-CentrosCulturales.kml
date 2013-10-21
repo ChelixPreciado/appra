@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>INFRAESTRUCTURAURBANA-MuseosRecintosCulturales-CentrosCulturales.kml</name>
+	<Style id="style515">
+		<IconStyle>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/centrocultural.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style521">
+		<IconStyle>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/centrocultural.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="style519">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style521</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style515</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Centros culturales</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>Centro Cultural José Marti</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<DIV dir="ltr"><FONT color="#666666"><FONT color="#666666"><STRONG>Direcciòn:</STRONG></FONT> Doctor Mora 1, Col. Centro, Delegaciòn Cuauhtémoc, CP 06050 México, Distrito Federal <BR><STRONG><FONT color="#666666">Teléfono:</FONT></STRONG> 1719 3000 Ext. 2102 y 1719 3028</FONT></DIV>]]></description>
+			<styleUrl>#style519</styleUrl>
+			<Point>
+				<coordinates>-99.146072,19.436852,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Centro Cultural Ollin Yoliztli</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<div style="color:rgb(102, 102, 102)" dir="ltr"><span style="font-weight:bold">Dirección: </span>Periférico Sur 5141, Col.  Isidro Fabela, Delegación Tlalpan, México, Distrito Federal<br><span style="font-weight:bold">Teléfono:</span> 5606 3901 y 5606 8558 ext. 106</div>]]></description>
+			<styleUrl>#style519</styleUrl>
+			<Point>
+				<coordinates>-99.17843600000001,19.303038,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Centro Cultural Xavier Villaurrutia</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<span style="color:rgb(102, 102, 102)"><span style="font-weight:bold">Dirección: </span>Glorieta del Metro Insurgentes, Local 1, Delegación Cuauhtémoc, México, Distrito Federal</span><br style="color:rgb(102, 102, 102)"><span style="color:rgb(102, 102, 102)"><span style="font-weight:bold">Teléfono: </span>5511 6922</span>]]></description>
+			<styleUrl>#style519</styleUrl>
+			<Point>
+				<coordinates>-99.162674,19.423231,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FARO de Oriente</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<DIV style="color:rgb(102,102,102)" dir="ltr"><SPAN style="font-weight:bold">Dirección:</SPAN> Calzada Ignacio Zaragoza s/n. Col. Fuentes de Zaragoza, Delegación Iztapalapa, México, Distrito Federal</DIV>
+<DIV style="color:rgb(102,102,102)" dir="ltr"><STRONG>Teléfono: </STRONG>5738 7440, 7538 7442 y 5738 7443<BR>&nbsp;</DIV>]]></description>
+			<styleUrl>#style519</styleUrl>
+			<Point>
+				<coordinates>-99.009438,19.369856,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FARO Tláhuac</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<div style="color:rgb(102, 102, 102)" dir="ltr"><span style="font-weight:bold">Dirección:</span> Av. La Turba s/n (interior bosque de Tláhuac), Col. Miguel Hidalgo, Delegación Tláhuac, , C.P. 13200, México, Distrito Federal<br><span style="font-weight:bold">Teléfono:</span> 2160 5471 </div>]]></description>
+			<styleUrl>#style519</styleUrl>
+			<Point>
+				<coordinates>-99.049561,19.287222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FARO de Milpa Alta</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<div dir="ltr"><span style="color:rgb(102, 102, 102)"><span style="font-weight:bold">Dirección:</span> Av. Dr. Gastón Melo No 40, Poblado de San Antonio Tecómitl CP 12100, Delegación Milpa Alta, México, Distrito Federal</span><br style="color:rgb(102, 102, 102)"><span style="color:rgb(102, 102, 102)"><span style="font-weight:bold">Teléfono: </span>5847 7590</span><br></div>]]></description>
+			<styleUrl>#style519</styleUrl>
+			<Point>
+				<coordinates>-98.993835,19.221684,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FARO Indios Verdes</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<div style="color:rgb(102, 102, 102)" dir="ltr"><span style="font-weight:bold">Dirección: </span>Av. Huitzilihuitl 51, Col. Santa Isabel Tola, Delegación Gustavo A. Madero, C. P. 07010, México, Distrito Federal<br><span style="font-weight:bold">Teléfono: </span>5781 6900</div>]]></description>
+			<styleUrl>#style519</styleUrl>
+			<Point>
+				<coordinates>-99.111504,19.503197,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Salón de Cabildos y Virreyes</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<div style="color:rgb(102, 102, 102)" dir="ltr"><span style="font-weight:bold">Dirección: </span>Antiguo Edificio del Ayuntamiento, 1er piso, Plaza de la Constitución s/n, Col. Centro Histórico, Delegación Cuauhtémoc,  México, Distrito Federal<br><span style="font-weight:bold">Teléfono:</span> 5345 8000 ext. 1652</div>]]></description>
+			<styleUrl>#style519</styleUrl>
+			<Point>
+				<coordinates>-99.134041,19.431875,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Orquesta Filarmónica de la Ciudad de México</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<div dir="ltr"><span style="color:rgb(102, 102, 102)"><span style="font-weight:bold">Dirección:</span> Periférico Sur 5141, Col.  Isidro Fabela, Delegación Tlalpan, México, Distrito Federal</span><br style="color:rgb(102, 102, 102)"><span style="color:rgb(102, 102, 102)"><span style="font-weight:bold"></span></span><br></div>]]></description>
+			<styleUrl>#style519</styleUrl>
+			<Point>
+				<coordinates>-99.17843600000001,19.303038,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

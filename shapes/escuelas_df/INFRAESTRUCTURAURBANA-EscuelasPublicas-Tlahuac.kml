@@ -1,0 +1,3055 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Escuelas_TLAHUAC.kmz</name>
+	<Style id="sh_ranger_station81">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station62">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station80</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station124">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station40">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station86</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station42">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station62">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station8">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station31">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station241">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station164</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station89">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station19">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station66">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station82">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station8">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station1">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station55">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station57">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station73">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station46">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station84">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station47</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station296</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station19">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station41">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station50">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station124</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station27</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station176">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station73</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station296">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station5">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station36">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station145">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station55">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station182</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station85</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station13">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin601">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin28212</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin24014</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station54">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station161">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station35</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station22</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station225">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station48">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station58">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station47">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station118">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station114">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station19">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station18</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station62</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station43">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station2">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station15">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station126">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station274">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station42</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station142</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station52">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station360">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station106</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station112</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station133">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station172">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station7">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station116">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station108">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station33">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station66</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station58</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station46">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station34">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station44">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station28">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station32</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station128">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station115">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station138</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station56">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station69</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station259</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station12">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station227">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station17">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station5">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station6">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station388">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station44</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station103</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station65">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station43</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station41</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station14">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station76</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station155">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station106">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station192</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station22">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station76">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station54</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station217">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station18">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station101</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station148</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station37</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station108</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station9">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station100">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station153">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station49</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station46</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station145">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station222</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station52">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station46</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station57</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station72">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station18">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station172</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station76</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station24">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station51">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station158">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station225</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station150">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station167</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station156">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station81">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station53">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station15">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station1">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station69">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station259">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station99</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station114</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station192">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station60">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station85">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station4">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station84">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station18">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station38">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station25</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station84</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station117">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station134</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station25">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station217</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station36</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station58">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station30">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station367">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station81</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station156</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station172">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station23">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin28212">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station174">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station53</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station19</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station108">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station167">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station33">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station386">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station89</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station43</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station34</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station34</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station83">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station181">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station49</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station62</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station52</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station103">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station92">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station31</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station23</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station35">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station24</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station65</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station6">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station3">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station64">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station28">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station11">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin24014">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station65">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station86">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station182">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station118">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station108</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station161</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station41">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station37">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station116</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station44">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station100">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station91">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station55</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station195">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station60</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station82</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station142">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station99">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station47">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station49">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station164">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station149">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station155</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station169">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station133</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station106">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station112">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station99">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station126</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station72</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station16">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station34">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station76">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station82">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station32">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station14">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station35">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station234">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station41</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station81</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station222">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station134">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station32">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station64</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station48</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station147">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station31</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station138">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station28</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station70</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station4">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station51</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station47</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station31">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station7">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station70">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station148">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station12">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station25">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station85">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station82</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station83</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station27">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station80">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station49">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station387">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station19</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station145</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station9">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station76">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station107">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station118</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station101">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station43">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station33</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station227</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station64">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station58</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station128</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>TLAHUAC</name>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- GABINO JIMENEZ JIMENEZ</name>
+			<description>DOMICILIO:
+TECNOLOGIA Y PEÑA ALTA S/N, JAIME TORRES BODET, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.00445393626347</longitude>
+				<latitude>19.23344378188613</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001453104874085604</heading>
+				<tilt>0</tilt>
+				<range>774.1476582041972</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.00331840365749,19.2337217724073,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- PROFR. MANUEL RAFAEL GUTIERREZ</name>
+			<description>DOMICILIO:
+DELEGACION TLAHUAC, MEXICO DF.MAR D L CRISIS Y MONTES APENINOS, SELENE,</description>
+			<LookAt>
+				<longitude>-99.0064652212339</longitude>
+				<latitude>19.2898107383642</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0002363319331465313</heading>
+				<tilt>0</tilt>
+				<range>840.1304573644303</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.00567526170292,19.28948029816998,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- RAFAEL RAMIREZ CASTAÑEDA</name>
+			<description>DOMICILIO:
+ALDAMA Y CONCEPCION S/N, PUEBLO STA CATARINA YECAHUIZOTL, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-98.96937486859588</longitude>
+				<latitude>19.31253935772385</latitude>
+				<altitude>0</altitude>
+				<heading>20.72614994637354</heading>
+				<tilt>0</tilt>
+				<range>806.8133970190476</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-98.96685289667305,19.31067132867263,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- YECAHUIZOTL</name>
+			<description>DOMICILIO:
+C 6 ENTRE 9 Y 13 BARRIO S MIGUEL, PUEBLO STA CATARINA YECAHUIZOTL DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-98.96938904663364</longitude>
+				<latitude>19.30949383527981</latitude>
+				<altitude>0</altitude>
+				<heading>-15.31007812423149</heading>
+				<tilt>0</tilt>
+				<range>901.0501854645139</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-98.97199562992242,19.30805218852867,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- CHANTICO</name>
+			<description>DOMICILIO:
+FFCC. RAFAEL ATLIXCO S/N, SANTIAGO ZAPOTITLAN, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.03667124526054</longitude>
+				<latitude>19.30473993177413</latitude>
+				<altitude>0</altitude>
+				<heading>0.001425549813517906</heading>
+				<tilt>0</tilt>
+				<range>1157.769932855555</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.03659700356123,19.30302220910273,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL CON SERVICIO ASISTENCIAL
+- JOSE TRINIDAD SAN MIGUEL PINEDA</name>
+			<description>DOMICILIO:
+CALMECAC S/N BARRIO SANTA CRUZ, SAN ANDRES MIXQUIC, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-98.95459661285176</longitude>
+				<latitude>19.22488002343743</latitude>
+				<altitude>0</altitude>
+				<heading>0.01663086117905294</heading>
+				<tilt>0</tilt>
+				<range>1836.067521022458</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-98.95182406852459,19.22521225266934,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- PLAN DE AYALA</name>
+			<description>DOMICILIO:
+VICENTE GUERRERO NO 8, SAN FRANCISCO TLALTENCO, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.01752199994915</longitude>
+				<latitude>19.29451700000951</latitude>
+				<altitude>0</altitude>
+				<heading>1.680644850618841e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000627912359</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.01752199994914,19.29451700000951,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- ALEMANIA PATRIA AMIGA</name>
+			<description>DOMICILIO:
+AMADO CAMACHO S/N, SANTIAGO ZAPOTITLAN, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.02716142294806</longitude>
+				<latitude>19.294542572231</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001225922675163396</heading>
+				<tilt>0</tilt>
+				<range>620.5663544760514</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.02855296044847,19.29417441529489,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- NUEVO MILENIO</name>
+			<description>DOMICILIO:
+GUILLERMO PRIETO S/N, MIGUEL HIDALGO, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.03965400000286</longitude>
+				<latitude>19.28190699996609</latitude>
+				<altitude>0</altitude>
+				<heading>-9.66093484494543e-013</heading>
+				<tilt>0</tilt>
+				<range>1463.469256605639</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.03965400000286,19.28190699996609,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- REPUBLICA DE BRASIL</name>
+			<description>DOMICILIO:
+FELIPE JARDINES S/N ESQUINA AZUCENA, QUIAHUATLA, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.00438984294354</longitude>
+				<latitude>19.25838350383223</latitude>
+				<altitude>0</altitude>
+				<heading>-2.084202914016994</heading>
+				<tilt>0</tilt>
+				<range>999.8295825681167</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.00445434807865,19.25908708891946,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- TLACAELEL</name>
+			<description>DOMICILIO:
+GITANA Y MANTARRAYA, LA NOPALERA, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.05634846802377</longitude>
+				<latitude>19.29540773468282</latitude>
+				<altitude>0</altitude>
+				<heading>34.48488133401607</heading>
+				<tilt>0</tilt>
+				<range>721.869140046995</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.05723700838206,19.29525992240431,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- PROFR. URBANO LAVIN ROMAN</name>
+			<description>DOMICILIO:
+NARDO Y RAFAEL VARGAS, MIGUEL HIDALGO, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.05165259456057</longitude>
+				<latitude>19.29583808421973</latitude>
+				<altitude>0</altitude>
+				<heading>37.64165713785001</heading>
+				<tilt>0</tilt>
+				<range>793.1328843840498</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.04925757162133,19.29406434495637,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- DR. JAIME TORRES BODET</name>
+			<description>DOMICILIO:
+NARDO Y FLOR DE LIZ S/N, MIGUEL HIDALGO, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.04941348346334</longitude>
+				<latitude>19.29222389326693</latitude>
+				<altitude>0</altitude>
+				<heading>-40.0040176540706</heading>
+				<tilt>0</tilt>
+				<range>688.8410603512924</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.0506851109178,19.29197694204725,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL CON SERVICIO ASISTENCIAL
+- PABLO NERUDA</name>
+			<description>DOMICILIO:
+MAR DE LAS CRISIS ESQUINA MONTES CARPATO, SELENE, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.00684695461214</longitude>
+				<latitude>19.28878848575315</latitude>
+				<altitude>0</altitude>
+				<heading>-61.12953845845238</heading>
+				<tilt>0</tilt>
+				<range>1156.90352613221</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.00672131748159,19.28972717260672,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- JOSE CLEMENTE OROZCO</name>
+			<description>DOMICILIO:
+MANUEL M. LOPEZ Y CECILIO ACOSTA, ZAPOTITLA, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.03693299974296</longitude>
+				<latitude>19.31140999989357</latitude>
+				<altitude>0</altitude>
+				<heading>8.499873358477174e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.00009490599</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.03693299974297,19.31140999989357,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- LINAJE AZTECA</name>
+			<description>DOMICILIO:
+SOR JUANA INES DE LA CRUZ S/N, VILLA CENTROAMERICA Y DEL CARIBE, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.0536859997556</longitude>
+				<latitude>19.28132099975169</latitude>
+				<altitude>0</altitude>
+				<heading>8.069186497673496e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000611382168</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.0536859997556,19.28132099975169,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- ANICETO CASTELLANOS URRUTIA</name>
+			<description>DOMICILIO:
+ROSAS S/N Y GUILLERMO PRIETO, MIGUEL HIDALGO, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.04115449140781</longitude>
+				<latitude>19.28186142414842</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001198464388855275</heading>
+				<tilt>0</tilt>
+				<range>1027.669554171613</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.03855223142035,19.28220275182756,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- DANIEL COSIO VILLEGAS</name>
+			<description>DOMICILIO:
+AV CECILIO ACOSTA S/N, SANTIAGO ZAPOTITLAN, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.03693299988109</longitude>
+				<latitude>19.31140999995332</latitude>
+				<altitude>0</altitude>
+				<heading>29.03790190819859</heading>
+				<tilt>0</tilt>
+				<range>740.2122597635721</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.0365678495202,19.31103952003306,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- YAXCHE</name>
+			<description>DOMICILIO:
+GITANA ESQ. MORELOS, LA NOPALERA, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.05147223868114</longitude>
+				<latitude>19.2975584344896</latitude>
+				<altitude>0</altitude>
+				<heading>32.5406600638256</heading>
+				<tilt>0</tilt>
+				<range>1208.204364644533</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.05484573485423,19.29842002875865,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL CON SERVICIO ASISTENCIAL
+- TEPEYOLOTLI</name>
+			<description>DOMICILIO:
+ZOYATE NARDO Y AMAPA, AGRICOLA METROPOLITANA, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.05301634514736</longitude>
+				<latitude>19.29038480395743</latitude>
+				<altitude>0</altitude>
+				<heading>-44.07352831865227</heading>
+				<tilt>0</tilt>
+				<range>909.4255782416351</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.05225736430519,19.28958557670926,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- BRIGIDA GARCIA DE JUAREZ</name>
+			<description>DOMICILIO:
+JOSE LUGO GUERRERO Y LA TURBA S/N, GRANJAS CABRERA, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.06251495098169</longitude>
+				<latitude>19.2967432082045</latitude>
+				<altitude>0</altitude>
+				<heading>-13.51047213434283</heading>
+				<tilt>0</tilt>
+				<range>721.6814270044938</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.06251495098169,19.2967432082045,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- YECAHUIZOTL</name>
+			<description>DOMICILIO:
+AVENIDA SANTA CATARINA Y MARIANO HGO, PUEBLO STA CATARINA YECAHUIZOTL, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-98.96968800606535</longitude>
+				<latitude>19.30976888951814</latitude>
+				<altitude>0</altitude>
+				<heading>22.34381335230158</heading>
+				<tilt>0</tilt>
+				<range>921.0241926382074</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-98.96992314239709,19.30921676684551,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- MIXQUIC</name>
+			<description>DOMICILIO:
+JOSEFA ORTIZ DE DOMINGUEZ NO 15, SAN ANDRES MIXQUIC, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-98.96348638124636</longitude>
+				<latitude>19.22391813490136</latitude>
+				<altitude>0</altitude>
+				<heading>-55.59651422453377</heading>
+				<tilt>0</tilt>
+				<range>868.7265548917653</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-98.9634173953479,19.22466402543101,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- TUTUL-XIU</name>
+			<description>DOMICILIO:
+RAMON CARDONA NO 8, SANTA CECILIA, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.00634500020362</longitude>
+				<latitude>19.28096500008294</latitude>
+				<altitude>0</altitude>
+				<heading>-6.724646763018313e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000176922256</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.00634500020364,19.28096500008294,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- ANA MARIA GALLAGA</name>
+			<description>DOMICILIO:
+GREGORIO ALLEGRI, MIGUEL HIDALGO, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.04855699999618</longitude>
+				<latitude>19.2970580000402</latitude>
+				<altitude>0</altitude>
+				<heading>38.09106041583412</heading>
+				<tilt>0</tilt>
+				<range>740.5185316278138</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.04769172125415,19.29627597875827,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ATENDER A PREESCOLAR CON PROBLEMAS LEVES EN SU DESARROLLO
+- CAPEP TLAHUAC 2</name>
+			<description>DOMICILIO:
+LEANDRO VALLE ESQ LANGOSTA, VILLA CENTROAMERICANA I, -UNIDAD HA, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.05837188301994</longitude>
+				<latitude>19.28096642471</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001459998372719595</heading>
+				<tilt>0</tilt>
+				<range>724.619527209128</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.059541034476,19.28023346898932,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- IXTAYOPAN</name>
+			<description>DOMICILIO:
+CUAUHTEMOC S/N, PUEBLO SAN JUAN IXTAYOPAN, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-98.99481493596881</longitude>
+				<latitude>19.23829858816233</latitude>
+				<altitude>0</altitude>
+				<heading>0.0001390565908054667</heading>
+				<tilt>0</tilt>
+				<range>1074.813495087224</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-98.99466965901134,19.23837340423141,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- TLAHUAC</name>
+			<description>DOMICILIO:
+CALLE DE LA TURBA NO 198 B, GRANJAS CABRERA, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.06269699990449</longitude>
+				<latitude>19.29739299994187</latitude>
+				<altitude>0</altitude>
+				<heading>3.154990973211253e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000370012095</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.06269699990449,19.29739299994187,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- POPOL VUH</name>
+			<description>DOMICILIO: 
+EDUCACION TECNOLOGICA S/N, JAIME TORRES BODET, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-98.9981629455975</longitude>
+				<latitude>19.23211491059743</latitude>
+				<altitude>0</altitude>
+				<heading>0.0004707111355206377</heading>
+				<tilt>0</tilt>
+				<range>731.6719174299204</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-98.99824360223168,19.23182722159619,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- SOR JUANA INES DE LA CRUZ</name>
+			<description>DOMICILIO:
+CERRADA PROLONGACION BENITO JUAREZ S/N, EL ROSARIO EL ALTO IXTAYOPAN, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.00511924517167</longitude>
+				<latitude>19.23739452856738</latitude>
+				<altitude>0</altitude>
+				<heading>-4.23987051921963</heading>
+				<tilt>0</tilt>
+				<range>759.5360745876599</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.00733104137481,19.23903176071224,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- MAESTRO FELIX JIMENEZ NAJERA</name>
+			<description>DOMICILIO:
+PROLG MIGUEL NEGRETE S/N, BARRIO GUADALUPE, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.03693399976785</longitude>
+				<latitude>19.30385999984041</latitude>
+				<altitude>0</altitude>
+				<heading>7.674837474105539e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.00068908477</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.03693399976785,19.30385999984041,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- PROFR. TOMAS FREGOSO</name>
+			<description>DOMICILIO:
+CALMECAC NO 1, STA CRUZ MIXQUIC, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-98.9518732442226</longitude>
+				<latitude>19.22569731301722</latitude>
+				<altitude>0</altitude>
+				<heading>4.453605764476677</heading>
+				<tilt>0</tilt>
+				<range>1046.03492903428</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-98.95190674336313,19.2248211778901,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL CON SERVICIO ASISTENCIAL
+- AYAQUEMETL</name>
+			<description>DOMICILIO:
+MORELOS ESQ MONTERREY, EMILIANO ZAPATA 2A SECCION, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-98.97007988890046</longitude>
+				<latitude>19.20858585630953</latitude>
+				<altitude>0</altitude>
+				<heading>42.46664983494731</heading>
+				<tilt>0</tilt>
+				<range>567.0164750206038</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-98.96875149592161,19.20777234495046,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- ROBERTO MEDELLIN</name>
+			<description>DOMICILIO:
+AV EMILIANO ZAPATA NO 30, PUEBLO SAN NICOLAS TETELCO, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-98.97226399994446</longitude>
+				<latitude>19.21782000018176</latitude>
+				<altitude>0</altitude>
+				<heading>1.827785261570046e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000081095851</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-98.97226399994445,19.21782000018176,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- PROFRA. CARMEN ARROYO DE LA PARRA</name>
+			<description>DOMICILIO:
+ZOYATE S/N, AGRICOLA METROPOLITANA, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.05233999980226</longitude>
+				<latitude>19.28970799974498</latitude>
+				<altitude>0</altitude>
+				<heading>-9.83847255333891</heading>
+				<tilt>0</tilt>
+				<range>955.9568077928157</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.05233999980226,19.28970799974498,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- TLAMACHKALI</name>
+			<description>DOMICILIO:
+PONCIANO ARRIAGA S/N, LA NOPALERA, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.04307900007608</longitude>
+				<latitude>19.3037880002019</latitude>
+				<altitude>0</altitude>
+				<heading>-2.519953474123544e-011</heading>
+				<tilt>0</tilt>
+				<range>740.2652879466207</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.04307900007608,19.3037880002019,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- PROFR. RENE AVILES ROJAS</name>
+			<description>DOMICILIO:
+CALLE GITANA S/N, DEL MAR, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.05987299995365</longitude>
+				<latitude>19.29218000037497</latitude>
+				<altitude>0</altitude>
+				<heading>1.531158780590055e-011</heading>
+				<tilt>0</tilt>
+				<range>1237.030171733909</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.05987299995367,19.29218000037497,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- FRANCISCO HERNANDEZ DE CORDOBA</name>
+			<description>DOMCILIO:
+EMILIANO ZAPATA NO 10, PUEBLO SAN JUAN IXTAYOPAN, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-98.99543339926861</longitude>
+				<latitude>19.24275082919187</latitude>
+				<altitude>0</altitude>
+				<heading>-15.38572951320351</heading>
+				<tilt>0</tilt>
+				<range>702.6534872300287</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-98.9943748287904,19.24337370024264,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- MA. MAGDALENA PACHECO BLANCO</name>
+			<description>DOMICILIO:
+CALLE DE LA TURBA NO 198, GRANJAS CABRERA, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.06361100017021</longitude>
+				<latitude>19.30511600022778</latitude>
+				<altitude>0</altitude>
+				<heading>-5.629502272323387e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000234332061</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.06361100017023,19.30511600022778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- JUAN JOSE ARREOLA</name>
+			<description>DOMICILIO:
+AV. SANTA CRUZ Y ALTA TENSION, ARBOLEDAS, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.05090533569286</longitude>
+				<latitude>19.30991061582554</latitude>
+				<altitude>0</altitude>
+				<heading>0.000929898733819333</heading>
+				<tilt>0</tilt>
+				<range>1510.610455627582</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.04790797289918,19.30991054498357,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- YOACALLI</name>
+			<description>DOMICILIO:
+MAR DE LOS VAPORES Y CRATER KEPLER, AMPLIACION SELENE, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-98.99772347806589</longitude>
+				<latitude>19.28544962653692</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0006620376790548558</heading>
+				<tilt>0</tilt>
+				<range>673.8153627376966</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-98.99691167951103,19.28544963346575,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- DR. JOSE I. GALICIA</name>
+			<description>DOMICILIO:
+LA CENICIENTA S/N, MIGUEL HIDALGO, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.04743199991106</longitude>
+				<latitude>19.2874720001369</latitude>
+				<altitude>0</altitude>
+				<heading>2.936407352727674e-011</heading>
+				<tilt>0</tilt>
+				<range>692.5424310119405</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.04743199991106,19.2874720001369,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- JAIME SABINES</name>
+			<description>DOMICILIO:
+AV FFCC SN RAFAEL ATLIXCO  3490, SANTIAGO ZAPOTITLAN, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.0210210000014</longitude>
+				<latitude>19.2954620000336</latitude>
+				<altitude>0</altitude>
+				<heading>-4.73107508867698e-013</heading>
+				<tilt>0</tilt>
+				<range>1000.000518818554</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.0210210000014,19.2954620000336,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- TIERRA Y LIBERTAD</name>
+			<description>DOMICILIO:
+J.ROSAS, AGUSTIN LARA Y PONIENTE NO 10, SAN JOSE , DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-98.99489594428653</longitude>
+				<latitude>19.27723569426509</latitude>
+				<altitude>0</altitude>
+				<heading>16.42939967454378</heading>
+				<tilt>0</tilt>
+				<range>700.1402736975721</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-98.99613050957697,19.27670587885941,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- PROFR. MANUEL S. HIDALGO CASTRO</name>
+			<description>DOMICILIO:
+AV FERROCARRIL SN RAFAEL ATLIXCO, SANTIAGO ZAPOTITLAN, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.04052295256351</longitude>
+				<latitude>19.30508541456505</latitude>
+				<altitude>0</altitude>
+				<heading>38.00747780470428</heading>
+				<tilt>0</tilt>
+				<range>1156.012662152633</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.03849440246017,19.30331124293286,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- LUIS PENICHE VALLADO</name>
+			<description>AV CECILIO ACOSTA S/N, ZAPOTITLA, AV CECILIO ACOSTA S/N	ZAPOTITLA
+DOMICILIO:</description>
+			<LookAt>
+				<longitude>-99.03962091587965</longitude>
+				<latitude>19.31230266856943</latitude>
+				<altitude>0</altitude>
+				<heading>36.58603489997063</heading>
+				<tilt>0</tilt>
+				<range>738.7225356288319</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.03787653959955,19.31199743780637,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- JULIO DE LA FUENTE</name>
+			<description>DOMICILIO:
+CALLE SIRENA S/N, DEL MAR, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.06035557511258</longitude>
+				<latitude>19.28684191512138</latitude>
+				<altitude>0</altitude>
+				<heading>-1.219225880205521e-011</heading>
+				<tilt>0</tilt>
+				<range>733.9021106301036</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.05983542850301,19.28632658510565,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SECUNDARIA GENERAL
+- FRANCISCO MONTERDE</name>
+			<description>DOMICILIO:
+ALVARO OBREGON Y JUAN ESCUTIA, PUEBLO SAN JUAN IXTAYOPAN, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-98.99268486033425</longitude>
+				<latitude>19.24301236884133</latitude>
+				<altitude>0</altitude>
+				<heading>-66.75247537798043</heading>
+				<tilt>0</tilt>
+				<range>1027.272840640572</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-98.99337738142845,19.24146568088413,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- ARBOLEDAS</name>
+			<description>DOMICILIO:
+SANTA CRUZ ESQ ALTA TENSION, ARBOLEDAS, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.04772036871917</longitude>
+				<latitude>19.31015686748408</latitude>
+				<altitude>0</altitude>
+				<heading>35.59936225578966</heading>
+				<tilt>0</tilt>
+				<range>1005.918763345108</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.04796639675128,19.31029962678644,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- CITLALI</name>
+			<description>DOMICILIO:
+AV. TLAHUAC KM. 22.5, SANTIAGO ZAPOTITLAN, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.04344799997024</longitude>
+				<latitude>19.29958000013131</latitude>
+				<altitude>0</altitude>
+				<heading>9.829106673727814e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.000557896159</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.04344799997023,19.29958000013131,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ESCUELA SECUNDARIA TECNICA 116</name>
+			<description>DOMICILIO:
+CALLE MONTES PIRINEOS ESQUINA MAR DE LA CRISIS, SAN FRANCISCO TLALTENCO, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.00830199979474</longitude>
+				<latitude>19.28897599991462</latitude>
+				<altitude>0</altitude>
+				<heading>6.780863067013181e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000481512287</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.00830199979474,19.28897599991462,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- MARIA DE LOS ANGELES QUINTANAR Y ALVA</name>
+			<description>DOMICILIO:
+AMADOR SALAZAR Y EMILIANO ZAPATA, PUEBLO SAN NICOLAS TETELCO, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-98.97317799988234</longitude>
+				<latitude>19.21628599991209</latitude>
+				<altitude>0</altitude>
+				<heading>3.867196680257972e-011</heading>
+				<tilt>0</tilt>
+				<range>851.8291798891338</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-98.97325318402362,19.21614400995314,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SECUNDARIA GENERAL
+- JUAN JOSE ARREOLA ZUÑIGA</name>
+			<description>DOMICILIO:
+U HAB VILLA CENTROAMERICANA, VILLA CENTROAMERICA Y DEL CARIBE, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.05462223784322</longitude>
+				<latitude>19.28207690187967</latitude>
+				<altitude>0</altitude>
+				<heading>9.808015589492658</heading>
+				<tilt>0</tilt>
+				<range>1063.78148401189</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.05620007966449,19.28251098371237,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- TATOKKE</name>
+			<description>DOMICILIO:
+3A CDA. BUENA SUERTE NO 228, LOS OLIVOS, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.05265300002706</longitude>
+				<latitude>19.31023700043229</latitude>
+				<altitude>0</altitude>
+				<heading>-8.962803092364191e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.000416793296</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.05265300002706,19.31023700043229,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SECUNDARIA GENERAL
+- JUAN RULFO</name>
+			<description>DOMCILIO:
+MANUEL M LOPEZ Y FERROCARRIL, ZAPOTITLA, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.04199694208943</longitude>
+				<latitude>19.30600261584344</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0002645743607716751</heading>
+				<tilt>0</tilt>
+				<range>723.0757253536509</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.04172777071354,19.30510503557322,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ESCUELA SECUNDARIA TECNICA 108</name>
+			<description>DOMICILIO:
+BELLAS ARTES S/N, LA ESTACION, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.04454900034419</longitude>
+				<latitude>19.31114900050148</latitude>
+				<altitude>0</altitude>
+				<heading>-1.138093905974738e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000136580616</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.04454900034418,19.31114900050148,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- TLAHUAC</name>
+			<description>DOMICILIO:
+AVENIDA HIDALGO Y CUITLAHUAC S/N, BARRIO SAN MATEO, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.00401395438611</longitude>
+				<latitude>19.26936239185739</latitude>
+				<altitude>0</altitude>
+				<heading>15.61253274525292</heading>
+				<tilt>2.819575950826124</tilt>
+				<range>828.3387423181598</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.00460067627715,19.26942653838742,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ESCUELA SECUNDARIA TECNICA 102</name>
+			<description>DOMICILIO:
+GUADALAJARA ESQ. PUEBLA S/N, EX HDA SAN NICOLAS TOLENTINO, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-98.96830297756256</longitude>
+				<latitude>19.20940131474887</latitude>
+				<altitude>0</altitude>
+				<heading>34.4733624750624</heading>
+				<tilt>0</tilt>
+				<range>886.8918751510291</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-98.96880256817273,19.20937327204339,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- JUAN E. HERNANDEZ Y DAVALOS</name>
+			<description>DOMICILIO:
+MIGUEL NEGRETE S/N, PUEBLO SAN JUAN IXTAYOPAN, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-98.99555299984682</longitude>
+				<latitude>19.24576200006599</latitude>
+				<altitude>0</altitude>
+				<heading>5.048653473621113e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000495505328</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-98.99555299984684,19.24576200006599,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>INTERVENCION TEMPRANA, PREESCOLAR, PRIMARIA Y CAPACITACION LABORAL ESPECIAL
+- CENTRO DE ATENCION MULTIPLE No. 66</name>
+			<description>DOMICILIO:
+AV  RAFAEL DEL CASTILLO Y AV  CHALCO, LA MAGDALENA, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.0001773435561</longitude>
+				<latitude>19.26713862412887</latitude>
+				<altitude>0</altitude>
+				<heading>15.34763976174194</heading>
+				<tilt>0</tilt>
+				<range>624.1777325868521</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-98.99944102935716,19.2659909358458,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ESCUELA SECUNDARIA TECNICA 95</name>
+			<description>DOMICILIO:
+CALLE 6 ENTRE CALLE 9 Y CALLE 11, PUEBLO STA CATARINA YECAHUIZOTL, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-98.97286281439483</longitude>
+				<latitude>19.30828864064036</latitude>
+				<altitude>0</altitude>
+				<heading>14.75410973664425</heading>
+				<tilt>0</tilt>
+				<range>707.7287475544589</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-98.97226457223937,19.3069256597475,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ESCUELA SECUNDARIA TECNICA 80</name>
+			<description>DOMICILIO:
+CALLE MUZIO CLEMENTE ESQ. ERNANI S/N, MIGUEL HIDALGO, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.04738800003993</longitude>
+				<latitude>19.29386000022319</latitude>
+				<altitude>0</altitude>
+				<heading>-6.887491162709246e-012</heading>
+				<tilt>0</tilt>
+				<range>999.9925827481782</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.04738800003993,19.29386000022319,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SECUNDARIA FEDERAL</name>
+			<description>DOMICILIO:
+AV CANAL DE CHALCO Y AV HEBERTO CASTILLO, TLAHUAC, DELEGACION TLAHUAC, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.0511293115316</longitude>
+				<latitude>19.27807089610131</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0001092161070049373</heading>
+				<tilt>0</tilt>
+				<range>788.4867483310485</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.05084626827485,19.27790506525801,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
