@@ -1,0 +1,1620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Oficinas de Información Pública </name>
+  <description><![CDATA[Listado de las Oficinas de Información Pública de la Administración Pública del Gobierno del Distrito Federal.]]></description>
+  <Style id="style31">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style53">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style37">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style35">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style29">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style74">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style43">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style54">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style48">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style75">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style100">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style94">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style63">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style95">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style107">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style101">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style104">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style46">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style87">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style26">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style98">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style61">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style71">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style25">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style102">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style65">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style58">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style27">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style67">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style68">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style81">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style32">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style41">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style84">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style85">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style88">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style28">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style69">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style83">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style42">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style33">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style103">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style64">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style56">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style73">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style38">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style30">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style90">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style97">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style82">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style39">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style52">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style72">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style105">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style86">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style59">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style96">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style50">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style79">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style76">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style91">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style44">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style47">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style70">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style77">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style36">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style55">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style106">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style49">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style92">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style57">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style45">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style99">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style60">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style51">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style66">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style34">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style93">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style80">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style24">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style89">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style78">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style40">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style62">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Oficina de Información Pública - Oficialía Mayor</name>
+    <description><![CDATA[<div dir="ltr"><span style="color:rgb(204, 0, 0);font-weight:bold">Lic. María Guadalupe Barajas Guzmán</span><br><span style="color:rgb(102, 102, 102)">Directora Ejecutiva de Información Pública</span><br><span style="color:rgb(204, 0, 0);font-weight:bold">Dirección:</span> <span style="color:rgb(102, 102, 102)">Plaza de la Constitución No. 1, Primer Piso, Col. Centro, Delegación Cuauhtémoc</span><br><span style="color:rgb(204, 0, 0);font-weight:bold">Correo electrónico:</span> <span style="color:rgb(102, 102, 102)">oip.om@df.gob.mx</span><br><span style="color:rgb(204, 0, 0);font-weight:bold">Tel.:</span><span style="color:rgb(204, 0, 0)"> </span><span style="color:rgb(102, 102, 102)">5345-8000 Ext. 1384</span><br>&nbsp;</div>]]></description>
+    <styleUrl>#style31</styleUrl>
+    <Point>
+      <coordinates>-99.132835,19.431789,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Procuraduría Social del Distrito Federal</name>
+    <description><![CDATA[<div dir="ltr"><span style="color:rgb(153,0,0);font-weight:bold">Responsable de la Oficina de Información Pública:</span><br><font color="#666666"><span style="color:rgb(102,102,102)">Lic. </span>Fernando González Muñoz</font></div>
+<div dir="ltr"><span style="color:rgb(102,102,102)"></span><span style="color:rgb(153,0,0);font-weight:bold">Dirección:</span>&nbsp;<span style="color:rgb(102,102,102)">Ignacio L. Vallarta No. 13, 7o&nbsp;Piso, Col. Tabacalera, Delegación Cuauhtémoc, C.P. 06030</span><br><span style="color:rgb(153,0,0);font-weight:bold">correo electrónico: </span><span style="color:rgb(102,102,102)"><a target="_blank">oip_prosoc@df.gob.mx</a></span></div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>-99.155762,19.434725,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - SEDEREC</name>
+    <description><![CDATA[<div dir="ltr"><span style="font-weight:bold;color:rgb(153, 0, 0)">Responsable de la Oficina de Información Pública</span><br><span style="color:rgb(102, 102, 102)">Pablo Herrera Romero</span><br><span style="font-weight:bold;color:rgb(153, 0, 0)">Dirección:</span> <span style="color:rgb(102, 102, 102)">Jalapa No. 15,  4° Piso, Col. Roma, Delegación Cuauhtémoc, C.P. 06700</span><br><span style="font-weight:bold;color:rgb(153, 0, 0)">Tels.:</span><span style="color:rgb(102, 102, 102)">55 14 96 65, 55 14 97 32</span><br><span style="font-weight:bold;color:rgb(153, 0, 0)">Correo electrónico:</span><span style="color:rgb(153, 0, 0)"> </span><span style="color:rgb(102, 102, 102)">lotus@df.gob.mx, sederec@df.gob.mx</span></div>]]></description>
+    <styleUrl>#style53</styleUrl>
+    <Point>
+      <coordinates>-99.162331,19.422787,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - S. de Gobierno</name>
+    <description><![CDATA[<div dir="ltr"><span style="font-weight:bold;color:rgb(153, 0, 0)">Responsable de la Oficina de Información Pública:</span><br><span style="color:rgb(102, 102, 102)">Lic. Luis Ángel Pereda Lara</span><br><span style="font-weight:bold;color:rgb(153, 0, 0)">Dirección:</span><span style="color:rgb(102, 102, 102)">Sn. Antonio Abad No. 122 7º  Piso, Col. Tránsito C.P. 06820 Del. Cuauhtémoc</span><br><span style="font-weight:bold;color:rgb(153, 0, 0)">Correo electrónico:</span><span style="color:rgb(102, 102, 102)">oip_secgob@df.gob.mx </span><br><span style="font-weight:bold;color:rgb(153, 0, 0)">Tels.:</span><span style="color:rgb(102, 102, 102)">5740-3525 Ext. 16, 5740-3715 Ext. 25</span><br></div>]]></description>
+    <styleUrl>#style37</styleUrl>
+    <Point>
+      <coordinates>-99.134338,19.416563,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Secretaría de Obras</name>
+    <description><![CDATA[<div dir="ltr"><span style="color:rgb(153, 0, 0);font-weight:bold">Encargado de la Oficina de Información Pública:</span><br><span style="color:rgb(102, 102, 102)">Lic. Rodrigo Sánchez Martínez</span><br><span style="color:rgb(153, 0, 0);font-weight:bold">Dirección:</span><span style="color:rgb(102, 102, 102)">Plaza de la Constitución y Pino Suárez No. 1, Segundo Piso Col. Centro, Del. Cuauhtémoc, C.P. 06068</span><br><span style="color:rgb(153, 0, 0);font-weight:bold">Tels.:</span> <span style="color:rgb(102, 102, 102)">53 45 82 35 / 53 45 80 00 ext 1575</span><br><span style="color:rgb(153, 0, 0);font-weight:bold">Correo electrónico:</span><span style="color:rgb(102, 102, 102)">oip_obras@df.gob.mx</span></div>]]></description>
+    <styleUrl>#style35</styleUrl>
+    <Point>
+      <coordinates>-99.132744,19.431778,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - SETRAVI</name>
+    <description><![CDATA[<div dir="ltr"><span style="font-weight:bold;color:rgb(153, 0, 0)">Encargada de la Oficina de Información Pública</span><br><span style="color:rgb(102, 102, 102)">Lizette Prado Ordoñez</span><br><span style="color:rgb(153, 0, 0);font-weight:bold">Dirección:</span><span style="color:rgb(102, 102, 102)">Av. Álvaro Obregón 263, P.B., Col. Roma, Del. Cuauhtémoc.</span><br><span style="font-weight:bold;color:rgb(153, 0, 0)">Tel.:</span><span style="color:rgb(102, 102, 102)">52084972	</span><br><span style="font-weight:bold;color:rgb(153, 0, 0)">Correo Electrónico:</span><span style="color:rgb(102, 102, 102)">oipstv@df.gob.mx</span></div>]]></description>
+    <styleUrl>#style29</styleUrl>
+    <Point>
+      <coordinates>-99.167122,19.416918,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - STyFE</name>
+    <description><![CDATA[<div dir="ltr"><span style="color:rgb(153, 0, 0);font-weight:bold">Responsable de la Oficina de Información Pública:</span><br><span style="color:rgb(102, 102, 102)">Lic. José Lamberto González Ruíz</span><br><span style="color:rgb(153, 0, 0);font-weight:bold">Dirección:</span> <span style="color:rgb(102, 102, 102)">José María Izazaga 89 5° piso, Colonia Centro, Delegación Cuauhtémoc, C.P. 06090</span><br><span style="color:rgb(153, 0, 0);font-weight:bold">Tel.:</span> <span style="color:rgb(102, 102, 102)">57091708 Ext. 109</span><br><span style="color:rgb(153, 0, 0);font-weight:bold">Correo electrónico: </span><span style="color:rgb(102, 102, 102)">jlgonzalez@df.gob.mx</span><br>&nbsp;</div>]]></description>
+    <styleUrl>#style74</styleUrl>
+    <Point>
+      <coordinates>-99.136375,19.426125,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Fideicomiso del Centro Histórico</name>
+    <description><![CDATA[<div dir="ltr"><span style="color:rgb(153, 0, 0);font-weight:bold">Encargada de la OIP:</span><br><span style="color:rgb(102, 102, 102)">Anabelí Contreras Julián</span><br><span style="color:rgb(153, 0, 0);font-weight:bold">Dirección:</span> <span style="color:rgb(102, 102, 102)">Netzahualcóyotl Núm. 120, piso 16, Col. Centro, Del. Cuauhtémoc C.P. 06080.</span><br><span style="color:rgb(153, 0, 0);font-weight:bold">Tel.:</span> <span style="color:rgb(102, 102, 102)">5709-6974, 5709-8005 Ext. 24</span><br><span style="color:rgb(153, 0, 0);font-weight:bold">Correo electrónico:</span> <span style="color:rgb(102, 102, 102)">oip_fch@df.gob.mx</span><br><span style="color:rgb(153, 0, 0);font-weight:bold">Horario de la OIP: </span><span style="color:rgb(102, 102, 102)">de 9:00 a 15:00 Hrs.</span></div>]]></description>
+    <styleUrl>#style43</styleUrl>
+    <Point>
+      <coordinates>-99.136528,19.425295,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Heroico Cuerpo de Bomberos</name>
+    <description><![CDATA[<div dir="ltr"><span style="color:rgb(153, 0, 0);font-weight:bold">Responsable de la OIP:</span><br><span style="color:rgb(102, 102, 102)">Araceli Ortiz García</span><br><span style="font-weight:bold;color:rgb(153, 0, 0)">Dirección:</span> <span style="color:rgb(102, 102, 102)">Av. San Antonio Abad N°. 122, 6° Piso, Col. Transito, Deleg. Cuauhtémoc, C.P. 06820</span><br><span style="font-weight:bold;color:rgb(153, 0, 0)">Tel.:</span> <span style="color:rgb(102, 102, 102)">5741-3755</span><br><span style="font-weight:bold;color:rgb(153, 0, 0)">Correo electrónico: </span><span style="color:rgb(102, 102, 102)">oip_bomberos@df.gob.mx</span></div>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>-99.134338,19.416452,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - D. Xochimilco</name>
+    <description><![CDATA[<div dir="ltr"><span style="color:rgb(153, 0, 0);font-weight:bold">Titular de la Oficina de Información Pública:</span><br><span style="color:rgb(102, 102, 102)">Lic. Fabiola Mata Alvarado</span></div><div dir="ltr"><span style="color:rgb(102, 102, 102)"></span><span style="color:rgb(153, 0, 0);font-weight:bold">Dirección:</span> <span style="color:rgb(102, 102, 102)">Guadalupe I. Ramírez No. 4, planta baja, Barrio El Rosario, C.P. 16070. Centro Histórico de Xochimilco. </span><br><span style="color:rgb(153, 0, 0);font-weight:bold">Tel.:</span><span style="color:rgb(102, 102, 102)"> 5334-0600 ext. 3832</span><br><span style="color:rgb(153, 0, 0);font-weight:bold">Correo electrónico: </span><span style="color:rgb(102, 102, 102)">inf_publica@xochimilco.df.gob.mx</span></div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-99.104660,19.263700,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Instituto de las Mujeres del Distrito Federal</name>
+    <description><![CDATA[<div dir="ltr"><span style="font-weight:bold;color:rgb(204, 0, 0)">Narciso Iván Ibarra Carrillo</span><br><span style="color:rgb(102, 102, 102)">Responsable de la Oficina de Información Pública</span><br><span style="font-weight:bold;color:rgb(204, 0, 0)">Dirección:</span> <span style="color:rgb(102, 102, 102)">Calle de Tacuba número 76, 5o. piso, Colonia Centro, Delegación Cuauhtémoc, C.P.06010.</span><br><span style="font-weight:bold;color:rgb(204, 0, 0)">Tel. </span><span style="color:rgb(102, 102, 102)">5512-2836, 5512-2792 Ext. 112</span><br><span style="font-weight:bold;color:rgb(204, 0, 0)">Horario</span> <span style="color:rgb(102, 102, 102)">de 9:00 a 15:00 hrs.</span><br><span style="color:rgb(102, 102, 102)">iibarrac@df.gob.mx</span><br></div>]]></description>
+    <styleUrl>#style54</styleUrl>
+    <Point>
+      <coordinates>-99.135231,19.435299,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública de la Dirección General de Asuntos Agrarios</name>
+    <description><![CDATA[<div dir="ltr"><span style="color:rgb(204, 0, 0);font-weight:bold">Lic. Luis Ángel Pereda Lara</span><br><span style="color:rgb(102, 102, 102)">Encargado de la OIP</span><br style="color:rgb(102, 102, 102)"><span style="color:rgb(102, 102, 102)"><span style="color:rgb(204, 0, 0);font-weight:bold">Dirección: </span>Plaza de la Constitución, No. 1 Colonia Centro. Delegación Cuauhtémoc C.P. 06068</span><br><span style="color:rgb(204, 0, 0);font-weight:bold">Tel.</span><span style="font-weight:bold"> </span><span style="color:rgb(102, 102, 102)">5345-8000 ext. 1639, 5345-8131 y 5345-8132</span><br><span style="color:rgb(204, 0, 0);font-weight:bold">Correo electrónico: </span><span style="color:rgb(102, 102, 102)">oip@sg.df.gob.mx</span><br><br>&nbsp;</div>]]></description>
+    <styleUrl>#style48</styleUrl>
+    <Point>
+      <coordinates>-99.132790,19.431789,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública de la Jefatura de Gobierno</name>
+    <description><![CDATA[<div dir="ltr"><span style="font-weight:bold;color:rgb(204, 0, 0)">Lic. Adolfo Andrade Martínez</span><br><span style="color:rgb(102, 102, 102)">Dirección de Información Pública</span><br><span style="font-weight:bold;color:rgb(204, 0, 0)">Dirección:</span> <span style="color:rgb(102, 102, 102)">Plaza de la Constitución, No. 2, segundo piso, oficina 213, Col. Centro, Delegación Cuauhtémoc</span><br><span style="font-weight:bold;color:rgb(204, 0, 0)">Correo electrónico: </span><span style="color:rgb(102, 102, 102)">oip@jefatura.df.gob.mx</span><br><span style="font-weight:bold;color:rgb(204, 0, 0)">Tel:</span> <span style="color:rgb(102, 102, 102)">5345-8000 Ext. 1529</span><br><br>&nbsp;</div>]]></description>
+    <styleUrl>#style75</styleUrl>
+    <Point>
+      <coordinates>-99.134163,19.431883,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública del Fondo para el Desarrollo Social de la Ciudad de México (FONDESO)</name>
+    <description><![CDATA[<DIV dir="ltr"><SPAN style="color:rgb(204,0,0);font-weight:bold">Lic. María de Lourdes Tlapanco Martínez</SPAN><BR><SPAN style="color:rgb(102,102,102)">Encargada de la OIP</SPAN><BR><SPAN style="color:rgb(204,0,0);font-weight:bold">Dirección:</SPAN><SPAN style="font-weight:bold"> </SPAN><SPAN style="color:rgb(102,102,102)">Tepozteco, No. 36, 2º. Piso, Col. Narvarte, C.P. 03020</SPAN><BR><SPAN style="color:rgb(204,0,0);font-weight:bold">Teléfono: </SPAN><SPAN style="color:rgb(102,102,102)">9180 0786</SPAN><BR><SPAN style="color:rgb(204,0,0);font-weight:bold">Correo electrónico: </SPAN><SPAN style="color:rgb(102,102,102)">oip_fondeso@df.gob.mx</SPAN><BR><BR><br>&nbsp;</div>]]></description>
+    <styleUrl>#style100</styleUrl>
+    <Point>
+      <coordinates>-99.150146,19.391830,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública de Servicios Metropolitanos S.A. de C.V.</name>
+    <description><![CDATA[<DIV dir="ltr"><SPAN style="color:rgb(204,0,0);font-weight:bold">Lic. Ingrid Pantoja Ruíz </SPAN><BR><SPAN style="color:rgb(102,102,102)">Responsable de la Oficina de Información Pública </SPAN><BR><SPAN style="color:rgb(204,0,0);font-weight:bold">Dirección: </SPAN><SPAN style="color:rgb(102,102,102)"><FONT color="#666666">Calle Olivo No. 39, Colonia Florida, Delegación Álvaro Obregón, C.P. 01030, México, D.F.</FONT></SPAN></DIV>
+<DIV dir="ltr"><SPAN style="color:rgb(102,102,102)"></SPAN><SPAN style="color:rgb(204,0,0);font-weight:bold">Tel:</SPAN> <SPAN style="color:rgb(102,102,102)"><FONT color="#666666">56.61.62 83 &nbsp; Ext. 142</FONT></SPAN></DIV>
+<DIV dir="ltr"><SPAN style="color:rgb(102,102,102)"></SPAN><SPAN style="color:rgb(204,0,0);font-weight:bold">Correo electrónico: </SPAN><SPAN style="color:rgb(102,102,102)">oip_servimet@df.gob.mx </SPAN><BR><BR>&nbsp;</DIV>]]></description>
+    <styleUrl>#style94</styleUrl>
+    <Point>
+      <coordinates>-99.183884,19.354612,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública de la Contraloría General</name>
+    <description><![CDATA[<div dir="ltr"><span style="font-weight:bold;color:rgb(204, 0, 0)">María Inés Muñoz Gordillo</span><br><span style="color:rgb(102, 102, 102)">Responsable&nbsp; de la OIP</span><br><span style="color:rgb(102, 102, 102)"><span style="font-weight:bold;color:rgb(204, 0, 0)">Dirección:</span> Av. Tlaxcoaque #8, Edificio Juana de Arco, Col. Centro,</span> <span style="color:rgb(102, 102, 102)">Delg. Cuauhtémoc, C.P. 06090, México, D.F.</span><br><span style="font-size:10pt;font-weight:bold;color:rgb(204, 0, 0)">Horario</span><span style="font-size:10pt"> </span><span style="font-size:10pt;color:rgb(102, 102, 102)">de 9:00 a 15:00 hrs.</span><br><span style="color:rgb(102, 102, 102)">oip@contraloriadf.gob.mx </span><br>&nbsp;</div>]]></description>
+    <styleUrl>#style63</styleUrl>
+    <Point>
+      <coordinates>-99.134148,19.423252,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública de la Consejería Jurídica</name>
+    <description><![CDATA[<div dir="ltr"><span style="font-weight:bold;color:rgb(204, 0, 0)">Lic. Bertha Tapia Labarreri</span><br><span style="color:rgb(102, 102, 102)">Encargada de la OIP</span><br><span style="font-weight:bold;color:rgb(204, 0, 0)">Dirección:</span> <span style="color:rgb(102, 102, 102)">Candelaria de los Patos s/n Col. 10 de mayo Del. Venustiano Carranza, México, D.F., C.P. 15290.</span><br><span style="font-weight:bold;color:rgb(204, 0, 0)">Tel. </span><span style="color:rgb(102, 102, 102)">55225140 ext. 112</span><br><span style="font-weight:bold;color:rgb(204, 0, 0)">Horario de Atención:</span> <span style="color:rgb(102, 102, 102)">9:00 a 15:00 horas</span><br><span style="font-weight:bold;color:rgb(204, 0, 0)">Correo electrónico:</span><br><span style="color:rgb(102, 102, 102)">oip_cjsl@df.gob.mx</span><br><br></div>]]></description>
+    <styleUrl>#style95</styleUrl>
+    <Point>
+      <coordinates>-99.120659,19.429106,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública de la Junta de Conciliación y Arbitraje</name>
+    <description><![CDATA[<div dir="ltr"><span style="font-weight:bold;color:rgb(204, 0, 0)">Guillermo Cantellano Galicia</span><br><span style="color:rgb(102, 102, 102)">Responsable de la Oficina de Información Pública</span><br><span style="font-weight:bold;color:rgb(204, 0, 0)">Dirección: </span><span style="color:rgb(102, 102, 102)">Dr. Rio de la Loza No. 68, segundo piso, Col Doctores, c.p. 06720 México, D.F.</span><br><span style="font-weight:bold;color:rgb(204, 0, 0)">Horario de atención:</span><span style="color:rgb(102, 102, 102)"> Lunes a Jueves 9:00 a 15:00 y 17:00 a 19:00; Viernes 9:00 a 15:00 Hrs.</span><br><span style="font-weight:bold;color:rgb(204, 0, 0)">Correo electrónico: </span><span style="color:rgb(102, 102, 102)">guillermo.cantellano@jlca.df.gob.mx</span><br><br></div>]]></description>
+    <styleUrl>#style107</styleUrl>
+    <Point>
+      <coordinates>-99.145378,19.424906,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública de la Procuraduría General de Justicia del D.F.</name>
+    <description><![CDATA[<div dir="ltr"><span style="font-weight:bold;color:rgb(204, 0, 0)">Encargado de la Oficina de Información Pública</span><br><span style="color:rgb(102, 102, 102)">Lic. Sergio Salazar Rojas</span><br><span style="font-weight:bold;color:rgb(204, 0, 0)">Dirección: </span><span style="color:rgb(102, 102, 102)">General Gabriel Hernández No. 56, 5to Piso, ala Sur. Col. Doctores, C.P. 06720. Del. Cuauhtémoc, México, D.F.</span><br><span style="color:rgb(204, 0, 0)"><span style="font-weight:bold">Teléfonos</span>: </span><span style="color:rgb(102, 102, 102)">5345-5200 y 11003</span><br><span style="font-weight:bold;color:rgb(204, 0, 0)">Correo electrónico:</span> <span style="color:rgb(102, 102, 102)">oip@pgjdf.gob.mx</span></div>]]></description>
+    <styleUrl>#style101</styleUrl>
+    <Point>
+      <coordinates>-99.147545,19.424984,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública de la Secretaria de Cultura</name>
+    <description><![CDATA[<div dir="ltr"><span style="font-weight:bold;color:rgb(204, 0, 0)">Lic. Miguel Ángel Hernández Sánchez </span><br><span style="color:rgb(102, 102, 102)">Encargado de la Oficina de Información</span><br><span style="font-weight:bold;color:rgb(204, 0, 0)">Dirección:</span> <span style="color:rgb(102, 102, 102)">Av. de La Paz No. 26, 5° Piso, Col. Chimalistac, C.P. 01070, Del. Álvaro Obregón</span><br><span style="font-weight:bold;color:rgb(204, 0, 0)">Horario de atención:</span> <span style="color:rgb(102, 102, 102)">de 9:00 a 15:00 horas. </span><br><span style="font-weight:bold;color:rgb(204, 0, 0)">Tel: </span><span style="color:rgb(102, 102, 102)">1719 3000 ext. 1519</span><br><span style="font-weight:bold;color:rgb(204, 0, 0)">Correo electrónico: </span><span style="color:rgb(102, 102, 102)">oip@cultura.df.gob.mx, mghernandez@cultura.df.gob.mx</span><br></div>]]></description>
+    <styleUrl>#style104</styleUrl>
+    <Point>
+      <coordinates>-99.187904,19.347227,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oificina de Información Pública de la Secretaría de Desarrollo Económico</name>
+    <description><![CDATA[<div dir="ltr"><span style="font-weight:bold;color:rgb(204, 0, 0)">Guillermo Antonio Martínez Arroyo</span><br><span style="color:rgb(102, 102, 102)">Responsable de la Oficina de Información Pública y Atención Ciudadana</span><br><span style="font-weight:bold;color:rgb(204, 0, 0)">Dirección: </span><span style="color:rgb(102, 102, 102)">Av. Cuauhtémoc 899 1planta Baja. Col. Del Valle Benito Juárez C.P. 03110</span><br style="color:rgb(102, 102, 102)"><span style="color:rgb(102, 102, 102)">México, D.F.</span><br><span style="font-weight:bold;color:rgb(204, 0, 0)">Teléfono:</span> <span style="color:rgb(102, 102, 102)">55238889 Ext. 213</span><br><span style="font-weight:bold;color:rgb(204, 0, 0)">Correo electrónico: </span><span style="color:rgb(102, 102, 102)">oip_sedeco@gdf.gob.mx</span><br style="color:rgb(102, 102, 102)"><br></div>]]></description>
+    <styleUrl>#style46</styleUrl>
+    <Point>
+      <coordinates>-99.157196,19.386145,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública de la Secretaría de Desarrollo Social</name>
+    <description><![CDATA[<div dir="ltr"><span style="color:rgb(204, 0, 0);font-weight:bold">Rocío Aguilar Solache</span><br><span style="color:rgb(102, 102, 102)">Responsable de la Oficina de Información Pública </span><br><span style="color:rgb(204, 0, 0);font-weight:bold">Dirección: </span><span style="color:rgb(102, 102, 102)">Plaza de la Constitución No.1, Tercer Piso, Col. Centro, Delegación Cuauhtémoc, C.P. 06068.</span><br><span style="color:rgb(204, 0, 0);font-weight:bold">Tel.</span> <span style="color:rgb(102, 102, 102)">5345-8252</span><br> <span style="color:rgb(204, 0, 0);font-weight:bold">Correo electrónico: </span><span style="color:rgb(102, 102, 102)">oip_sds@hotmail.com</span><br>&nbsp;</div>]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>-99.132927,19.431805,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública de la Secretaría de Desarrollo Urbano y Vivienda</name>
+    <description><![CDATA[<div dir="ltr"><span style="font-weight:bold;color:rgb(204, 0, 0)">Juan Baltazar Bernal Rodríguez</span><br><span style="color:rgb(102, 102, 102)">Responsable de la Oficina de Información Pública</span><br><span style="font-weight:bold;color:rgb(204, 0, 0)">Dirección:</span> <span style="color:rgb(102, 102, 102)">Avenida Insurgentes Centro No. 149, Piso 15. Col. San Rafael, Del. Cuauhtémoc, CP 06470 México D.F.</span><br><span style="font-weight:bold;color:rgb(204, 0, 0)">Teléfono</span>: <span style="color:rgb(102, 102, 102)">5130 2100 ext. 2223</span><br><span style="font-weight:bold;color:rgb(204, 0, 0)">Horario de Atención:</span> <span style="color:rgb(102, 102, 102)">10:00 a 14:00 horas de lunes a viernes</span><br><span style="font-weight:bold;color:rgb(204, 0, 0)">Correo electrónico: </span><span style="color:rgb(102, 102, 102)">oip_seduvi@df.gob.mx</span><br></div>]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>-99.159119,19.432543,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública . Secretaría de Educación </name>
+    <description><![CDATA[<div dir="ltr"><span style="font-weight:bold;color:rgb(204, 0, 0)">Lic. Alejandro Pérez Santos</span><br><span style="color:rgb(102, 102, 102)">Responsable de la Oficina de Información Pública</span><br><span style="font-weight:bold;color:rgb(204, 0, 0)">Domicilio:</span> <span style="color:rgb(102, 102, 102)">Av. Chapultepec #49 Colonia Centro, Delegación Cuauhtémoc, C.P. 06010 </span><br><span style="font-weight:bold;color:rgb(204, 0, 0)">Tel. </span><span style="color:rgb(102, 102, 102)">55 46 44 62 ext. 1017 </span><br><span style="font-weight:bold;color:rgb(204, 0, 0)">Correo electrónico: </span><br><span style="color:rgb(102, 102, 102)">oip-se@educacion.df.gob.mx </span><br style="color:rgb(102, 102, 102)"><span style="color:rgb(102, 102, 102)">oip.educacion.df@gmail.com </span><br></div>]]></description>
+    <styleUrl>#style87</styleUrl>
+    <Point>
+      <coordinates>-99.151703,19.426708,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública de la Secretaría de Finanzas</name>
+    <description><![CDATA[<div dir="ltr"><span style="color:rgb(204, 0, 0);font-weight:bold">Lic. Jennifer Krystel Castillo Madrid</span><br><span style="color:rgb(102, 102, 102)">Responsable de la Oficina de Información Pública</span><br><span style="color:rgb(204, 0, 0);font-weight:bold">Dirección: </span><span style="color:rgb(102, 102, 102)">Dr. Lavista No. 144, Acceso 1, primer Piso.  Col. Doctores, Del. Cuauhtémoc. C.P. 06720</span><br><span style="color:rgb(204, 0, 0);font-weight:bold">Tel. </span><span style="color:rgb(102, 102, 102)">5134-2500, 5124-2600 Ext. 1386</span><br><span style="color:rgb(204, 0, 0);font-weight:bold">Horario:</span> <span style="color:rgb(102, 102, 102)">De 9:00 a 15:00 hrs.</span><br><span style="color:rgb(204, 0, 0);font-weight:bold">Correo electrónico: </span><span style="color:rgb(102, 102, 102)">oip@finanzas.df.gob.mx </span><br>&nbsp;</div>]]></description>
+    <styleUrl>#style26</styleUrl>
+    <Point>
+      <coordinates>-99.149818,19.423834,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - LOCATEL (Desarrollo Social)</name>
+    <description><![CDATA[<div dir="ltr"><font color="#333333"><font color="#990000"><strong>Lic. Rocío Aguilar Solache</strong> </font><br>Responsable de la OIP </font></div>
+<div dir="ltr"><font color="#333333"><font color="#990000"><strong>Dirección:</strong><br></font>Plaza de la Constitución N° 1, 3er piso Col. Centro Delegación Cuauhtémoc <br><strong><font color="#990000">Tel.</font></strong> 53458252 y 53458000 ext. 8252</font></div>
+<div dir="ltr"><font color="#333333"><strong><font color="#990000">Correo Electrónico:</font></strong>&nbsp;<br>rocio_as@sds.df.gob.mx <br></font></div>]]></description>
+    <styleUrl>#style98</styleUrl>
+    <Point>
+      <coordinates>-99.132881,19.431793,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Fideicomiso Público Ciudad Digital</name>
+    <description><![CDATA[<DIV style="line-height:12.75pt;margin:0cm 0cm 10pt"><SPAN><FONT color="#990000"><STRONG><FONT>Responsable de la Oficina de Información Pública:</FONT><BR></STRONG></FONT><FONT color="#333333">Lic. Juan José Rivera Castellanos<BR></FONT></SPAN><SPAN style="color:#5c6667;font-size:10pt"><FONT color="#990000"><STRONG>Dirección:</STRONG></FONT> </SPAN><SPAN style="color:#5c6667;font-size:10pt"><FONT color="#333333">Río Nazas, Núm. 34, planta baja, Col. Cuauhtémoc, Del. Cuauhtémoc C.P. 06500.<BR></FONT></SPAN><SPAN style="color:#5c6667;font-size:10pt"><STRONG><FONT color="#990000">Tel.</FONT></STRONG> <FONT color="#333333">5566-2322 ext. 9508<BR></FONT><STRONG><FONT color="#990000">Correo Electrónico:</FONT></STRONG> <A href="mailto:ciudaddigital@df.gob.mx" target="_blank"><FONT color="#333333">ciudaddigital@df.gob.mx</FONT></A><BR></SPAN><SPAN style="line-height:115%;font-size:11pt"><A href="http://www.ciudaddigital.df.gob.mx/transparencia.html" target="_blank"><SPAN style="line-height:115%;color:#5c6667;font-size:10pt"><FONT color="#333333">http://www.ciudaddigital.df.gob.mx/transparencia.html</FONT></SPAN></A></SPAN></DIV>]]></description>
+    <styleUrl>#style61</styleUrl>
+    <Point>
+      <coordinates>-99.166389,19.432573,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Metrobús</name>
+    <description><![CDATA[<div dir="ltr"><b><font color="#990000">Lic. Juan Manuel Gómez Rodríguez</font></b><br><font color="#333333">Responsable de la OIP</font></div><div dir="ltr"><b><font color="#990000">Dirección:</font></b><br><font color="#333333">Avenida Cuauhtémoc 16, 5° piso colonia Doctores, Delegación Cuauhtémoc, México, D.F., C.P. 06720.</font><br><b><font color="#990000">Tel. </font></b><font color="#333333">57 61 68 70 ó 57 61 68 60 extensión 113&nbsp;</font></div><div dir="ltr"><b><font color="#990000">Correo Electrónico:</font></b><br><font color="#333333">oip@metrobus.df.gob.mx </font><br>&nbsp;</div>]]></description>
+    <styleUrl>#style71</styleUrl>
+    <Point>
+      <coordinates>-99.153725,19.424881,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Fondo de Ambiental Público del DF</name>
+    <description><![CDATA[<span style="color:rgb(170, 3, 20);line-height:115%;font-size:10pt"><font color="#990000"><strong><font>Responsable de la Oficina de Información Pública:</font><br></strong></font><font color="#333333">Lic. Francisco Javier Fuentes Armenta</font></span><span style="color:rgb(92, 102, 103);line-height:115%;font-size:10pt"><br><font color="#990000"><strong>Dirección:</strong></font> <font color="#333333">Pedro Antonio de los Santos esq. Av. Constituyentes,<br>1ª. Sección del Bosque de Chapultepec (Puerta de Acceso A-4 “Las Flores”),<br>Col. San Miguel Chapultepec, Deleg. Miguel Hidalgo,<span>&nbsp;</span> C.P. 11850 <br>Tel 5271-1939.<br></font><strong><font color="#990000">Correo Electrónico:</font></strong> <font color="#333333">oip@sma.df.gob.mx<span>&nbsp;</span> <br></font></span><span style="line-height:115%;font-size:11pt"><a href="http://www.sma.df.gob.mx/transparencia/" target="_blank"><span style="color:rgb(92, 102, 103);line-height:115%;font-size:10pt"><font color="#333333">http://www.sma.df.gob.mx/transparencia/</font></span></a></span>]]></description>
+    <styleUrl>#style25</styleUrl>
+    <Point>
+      <coordinates>-99.180862,19.416883,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Planta de Asfalto del Distrito Federal</name>
+    <description><![CDATA[<div dir="ltr"><b><font color="#990000">Dr. Salvador Corona Zarza</font></b><br><font color="#333333">Responsable de la OIP</font><br><b><font color="#990000">Dirección:</font></b><br><font color="#333333">Subdirector de Enlace Administrativo</font><br><font color="#333333">Av. Iman N°263, Col. Ajusco, C.P. 04300, Delegación Coyoacán.</font><br><font color="#333333">México, D.F.</font><br><b><font color="#990000">Tel.</font></b><font color="#333333"> 5618-7997 ext.2300</font><br><b><font color="#990000">Correo Electrónico:</font></b><br><font color="#333333">oipasfaltodf@df.gob.mx</font><br>&nbsp;</div>]]></description>
+    <styleUrl>#style102</styleUrl>
+    <Point>
+      <coordinates>-99.166023,19.309383,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Fideicomiso Público del Fondo de Apoyo a la Procuración de Justicia del Distrito Federal</name>
+    <description><![CDATA[<SPAN><FONT color="#990000"><STRONG>Responsable de la Oficina de Información Pública:</STRONG></FONT><SPAN><BR></SPAN><FONT color="#333333">Lic. Sulma Eunice Campos Mata<BR></FONT></SPAN><SPAN style="line-height:115%;color:#5c6667;font-size:10pt"><FONT color="#990000"><STRONG>Dirección:</STRONG></FONT> <FONT color="#333333">Dr. Lucio N° 220, 3° Piso, Col. Doctores, C.P. 06720,<SPAN>&nbsp;</SPAN>Del. Cuauhtémoc, México, D.F.<BR>Tel. 52426139<BR><FONT color="#990000"><STRONG>Correo Electrónico:</STRONG></FONT> <A target="_blank"></A>fapjus@gmail.com<BR></FONT></SPAN><SPAN style="line-height:115%;font-size:11pt"><A href="http://www.pgjdf.gob.mx/" target="_blank"><SPAN style="line-height:115%;color:#5c6667;font-size:10pt;text-decoration:none"><FONT color="#333333">http://www.pgjdf.gob.mx/</FONT></SPAN></A></SPAN>]]></description>
+    <styleUrl>#style65</styleUrl>
+    <Point>
+      <coordinates>-99.152748,19.416323,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Procuraduría Ambiental y del Ordenamiento Territorial del D.F. </name>
+    <description><![CDATA[<div dir="ltr"><font color="#990000"><b><span style="color:rgb(0, 0, 0);font-family:arial, sans-serif;font-weight:normal"><b><span style="font-size:10pt;color:rgb(170, 3, 20)">Lic. Edna Marta San Juan Valenzuela</span><span style="font-size:10pt;color:rgb(92, 102, 103)"><br>Responsable de la OIP</span></b><div><b><span style="font-size:10pt;font-family:Arial, sans-serif"></span></b><span style="font-size:10pt;font-family:Arial, sans-serif"><b><font color="#990000">Dirección:</font><br></b><font color="#5C6667">Av. Medellín # 202, planta baja, Col. Roma Sur, C.P. 06700, Del. Cuauhtémoc, México D.F.</font><br><strong><span style="font-family:Arial, sans-serif"><font color="#990000">Tel</font><font color="#5C6667">.</font></span></strong><font color="#5C6667">&nbsp;5265-0780 ext. 1501</font></span></div><div><span style="font-size:10pt;font-family:Arial, sans-serif"><b><font color="#990000">Correo Electrónico:</font></b><br><font color="#5C6667">transparencia@paot.org.mx</font></span></div></span></b></font></div>]]></description>
+    <styleUrl>#style58</styleUrl>
+    <Point>
+      <coordinates>-99.164566,19.411739,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Fondo de Seguridad Pública del Distrito Federal (FOSEGDF)</name>
+    <description><![CDATA[<DIV><SPAN><STRONG><FONT color="#990000">Responsable de la Oficina de Información Pública:</FONT></STRONG></SPAN><SPAN style="line-height:115%;color:#5c6667;font-size:10pt"><FONT color="#990000"> <BR></FONT><FONT color="#333333"><SPAN><FONT color="#990000" size="2"><FONT color="#333333">Lic. Francisco Javier Rodríguez</FONT> <STRONG>García</STRONG></FONT></SPAN><FONT color="#990000"><STRONG>Dirección:</STRONG></FONT> Gabriel Hernández No. 56, P.B.,<SPAN>&nbsp;</SPAN>esquina Doctor Río de la Loza Col. Doctores,<BR>Del. Cuauhtémoc C.P. 06720<BR><STRONG><FONT color="#990000">Tel.</FONT></STRONG> 5345 5190 y&nbsp;5345 5567<SPAN>&nbsp;<BR><STRONG><FONT color="#990000">Correo Electrónico:</FONT></STRONG> </SPAN></FONT></SPAN><SPAN style="line-height:115%;font-size:11pt"><A href="mailto:oip.fosegdf@yahoo.com.mx" target="_blank"><SPAN style="line-height:115%;color:#5c6667;font-size:10pt"><FONT color="#333333">oip.fosegdf@yahoo.com.mx</FONT></SPAN></A></SPAN><SPAN style="line-height:115%;color:#5c6667;font-size:10pt"><BR></SPAN><SPAN style="line-height:115%;font-size:11pt"><A href="http://www.pgjdf.gob.mx/" target="_blank"><SPAN style="line-height:115%;color:#5c6667;font-size:10pt;text-decoration:none"><FONT color="#333333">http://www.pgjdf.gob.mx</FONT></SPAN></A></SPAN></DIV>]]></description>
+    <styleUrl>#style27</styleUrl>
+    <Point>
+      <coordinates>-99.147804,19.424208,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Fondo para la Atención y Apoyo a las Víctimas del Delito</name>
+    <description><![CDATA[<DIV style="line-height:14.25pt;margin:7.5pt 0cm"><SPAN><FONT color="#333333"><SPAN style="color:#5c6667;font-size:10pt"><FONT color="#990000"><STRONG>Responsable de la Oficina de Información Pública:</STRONG></FONT></SPAN><SPAN style="color:#5c6667;font-size:10pt"><BR></SPAN>Lic. Sulma Eunice Campos Mata</FONT><BR></SPAN><SPAN style="color:#5c6667;font-size:10pt"><FONT color="#333333"><STRONG><FONT color="#990000">Dirección:</FONT></STRONG> Doctor Lucio&nbsp;No.&nbsp;220 Planta Baja esquina Doctor Río de la Loza Col. Doctores<BR>Del. Cuauhtémoc C.P. 06720<BR><STRONG><FONT color="#990000">Tel.</FONT></STRONG> 5242&nbsp;6131 y 5242 6139<BR><STRONG><FONT color="#990000">Correo Electrónico: <BR></FONT></STRONG><A href="mailto:faavid@pgjdf.gob.mx" target="_blank">faavid@pgjdf.gob.mx</A><BR><A href="http://www.pgjdf.gob.mx/" target="_blank">http://www.pgjdf.gob.mx</A></FONT></SPAN></DIV>]]></description>
+    <styleUrl>#style67</styleUrl>
+    <Point>
+      <coordinates>-99.152748,19.416321,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Servicio de Transportes Eléctricos</name>
+    <description><![CDATA[<span style="font-family:arial, sans-serif"><b><span style="font-size:10pt;color:rgb(170, 3, 20)">Lic. Víctor Hugo Flores Velázquez<br></span></b><b><span style="font-size:10pt;color:rgb(92, 102, 103)">Responsable de la OIP</span></b><div><b><span style="font-size:10pt;font-family:Arial, sans-serif"></span></b><span style="font-size:10pt;font-family:Arial, sans-serif"><b><font color="#990000">Dirección:</font><br></b><font color="#5C6667">Municipio Libre 402 Ote, Primer Piso, Colonia San Andrés Tetepilco, C.P. 09440,</font><span style="color:rgb(92, 102, 103)">&nbsp;&nbsp;</span><font color="#5C6667">Iztapalapa, D.F</font><br><b><font color="#990000">Tel.</font></b><font color="#5C6667">&nbsp;2595 0000 extensión 370</font></span></div><div><span style="font-size:10pt;font-family:Arial, sans-serif"><b><font color="#990000">Correo Electrónico:</font></b><br><span style="color:rgb(92, 102, 103)">oip_ste@ste.df.gob.mx</span></span></div></span>]]></description>
+    <styleUrl>#style68</styleUrl>
+    <Point>
+      <coordinates>-99.133377,19.366671,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Sistema de Aguas de la Ciudad de México</name>
+    <description><![CDATA[<span style="font-family:arial, sans-serif"><div dir="ltr"><b><font color="#990000">Ing. Bernardo Hurtado Mejía</font></b><br><font color="#333333">Responsable de la OIP</font></div><div dir="ltr"><b><font color="#990000">Dirección:</font></b><br><font color="#333333">Avenida José María Izazaga, No. 89, Piso 16 (también por la Calle Nezahualcóyotl, No. 120).</font><br><b><font color="#990000">Tel.</font></b><font color="#333333">&nbsp;5728-0068</font></div><div dir="ltr"><b><font color="#990000">Correo Electrónico:</font></b><br><font color="#333333">Horario de atención de 9:00 a 15:00 y de 16:00 a 18:00 horas de Lunes a Viernes</font><br><font color="#333333">oip@sacm.sma.df.gob.mx</font></div></span>]]></description>
+    <styleUrl>#style81</styleUrl>
+    <Point>
+      <coordinates>-99.136444,19.425913,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Instituto de Formación Profesional</name>
+    <description><![CDATA[<DIV style="margin:0cm 0cm 0pt"><SPAN><FONT color="#990000"><STRONG>Responsable de la Oficina de Información Pública:<BR></STRONG></FONT><FONT color="#333333"><SPAN style="color:#aa0314;font-size:10pt"><FONT color="#333333">Dra. Beatriz Eugenia Ramírez Saavedra</FONT><SPAN><FONT color="#333333">&nbsp;<BR></FONT></SPAN></SPAN><STRONG><FONT color="#990000">Dirección:</FONT></STRONG> 4° y 5° Cerrada de Av. Jardín s/n, Col. Ampliación Cosmopolita, Delegación Azcapotzalco C.P. 02920<BR><STRONG><FONT color="#990000">Tel.</FONT></STRONG> 5345 – 5922<BR><STRONG><SPAN style="font-weight:normal"><STRONG><FONT color="#990000">Horario de atención:</FONT></STRONG> </SPAN></STRONG>Lunes a viernes de 09:00 a 15:00 y de 17:00 a 19:00 hrs.<BR><STRONG><FONT color="#990000">Correo Electrónico: </FONT></STRONG></FONT></SPAN></DIV>
+<DIV style="margin:0cm 0cm 0pt"><A href="mailto:bramirezs@pgjdf.gob.mx" target="_blank"><SPAN style="color:#5c6667;font-size:10pt"><FONT color="#333333">bramirezs@pgjdf.gob.mx</FONT></SPAN></A><SPAN style="line-height:115%;font-size:11pt"><BR><A href="http://www.ifp.pgjdf.gob.mx/transparencia.php" target="_blank"><SPAN style="line-height:115%;color:#5c6667;font-size:10pt"><FONT color="#333333">http://www.ifp.pgjdf.gob.mx/transparencia.php</FONT></SPAN></A></SPAN></DIV>]]></description>
+    <styleUrl>#style32</styleUrl>
+    <Point>
+      <coordinates>-99.159264,19.468016,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Sistema de Radio y Televisión Digital del Gobierno del Distrito Federal </name>
+    <description><![CDATA[<p style="font-family:arial"><b><span style="font-size:10pt;line-height:14px;color:rgb(170, 3, 20)">C.P. Rafael Márquez de la Paz<br></span></b><span><b><span style="font-size:10pt;line-height:14px;color:rgb(92, 102, 103)">Responsable de la Oficina de Información Pública</span></b></span></p></p><p style="font-family:arial, sans-serif"></p></p><p style="font-family:arial, sans-serif"></p></p><p style="font-family:arial, sans-serif"></p></p><p style="font-family:arial, sans-serif"></p></p><p style="font-family:arial, sans-serif"></p></p><p style="font-family:arial, sans-serif"></p></p><p style="font-family:arial, sans-serif"></p></p><p style="font-family:arial"><b><span style="color:rgb(170, 3, 20)">Dirección:</span></b><b><span style="font-size:10pt;line-height:14px;color:rgb(170, 3, 20)"></span></b></p></p><p style="font-family:arial, sans-serif"></p></p><p style="font-family:arial, sans-serif"></p></p><p style="font-family:arial, sans-serif"></p></p><p style="font-family:arial, sans-serif"></p></p><p style="font-family:arial, sans-serif"></p></p><p style="font-family:arial, sans-serif"></p></p><p style="font-family:arial, sans-serif"></p></p><p style="font-family:arial"><span style="font-size:10pt;line-height:14px;color:rgb(92, 102, 103)">Plaza de la Constitución No. 2 tercer piso, oficina 330, Col. Centro, C.P. 06068, Delegación Cuauhtémoc.<br></span><b><span style="font-size:10pt;line-height:14px;color:rgb(170, 3, 20)">Tel.</span></b><b><span style="font-size:10pt;line-height:14px;color:rgb(92, 102, 103)">&nbsp;</span></b><span style="font-size:10pt;line-height:14px;color:rgb(92, 102, 103)">5345-8000&nbsp;<span>Ext.<b>&nbsp;</b></span>1506</span></p></p><p style="font-family:arial, sans-serif"></p></p><p style="font-family:arial, sans-serif"></p></p><p style="font-family:arial, sans-serif"></p></p><p style="font-family:arial, sans-serif"></p></p><p style="font-family:arial, sans-serif"></p></p><p style="font-family:arial, sans-serif"></p></p><p style="font-family:arial, sans-serif"></p></p><p style="font-family:arial"><b><span style="color:rgb(170, 3, 20)">Correo Electrónico:</span></b></p></p><p style="font-family:arial"><b><span style="color:rgb(170, 3, 20)"></span></b><span style="font-family:Arial, sans-serif;color:rgb(92, 102, 103)">oipradioytvgdf@df.gob.mx</span></p></p>]]></description>
+    <styleUrl>#style41</styleUrl>
+    <Point>
+      <coordinates>-99.134140,19.431854,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Instituto para la Atención de los Adultos Mayores en el Distrito Federal</name>
+    <description><![CDATA[<DIV dir="ltr"><FONT><FONT color="#333333"><STRONG><FONT color="#990000">Responsable de la Oficina de Información Pública: <BR></FONT></STRONG>C. Alma Mireya Navarro Cruz <BR><STRONG><FONT color="#990000">Dirección:</FONT></STRONG> Calle Venustiano Carranza No. 49, Col. Centro, Del. Cuauhtémoc C.P. 06000, México, D.F. <BR><FONT color="#990000"><STRONG>Tels.</STRONG></FONT> 5512 1380 <BR><STRONG><FONT color="#990000">Correo Electrónico: </FONT></STRONG>acercate.gdf.adultomayor@gmail.com <BR>http://www.adultomayor.df.gob.mx/</FONT></FONT></DIV>]]></description>
+    <styleUrl>#style84</styleUrl>
+    <Point>
+      <coordinates>-99.137772,19.431444,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Sistema de Transporte Colectivo Metro </name>
+    <description><![CDATA[<span style="font-family:arial, sans-serif"><font color="#990000"><b>Lic. Jorge Salvador Anaya Rosell&nbsp;</b></font><br><font color="#333333">Encargado de la Oficina de Información Pública</font><br><font color="#990000"><b>Dirección:</b></font><br><font color="#333333">Av. Arcos de Belén No. 13, 4o. Piso, esquina con Aranda, Col. Centro, C.P. 06070, Deleg. Cuauhtémoc&nbsp;</font><br><font color="#990000"><b>Tel.</b></font><font color="#333333">&nbsp;5709.1133 Ext. 1862</font><br><font color="#990000"><b>Correo Electrónico:</b></font><br><font color="#333333">oiptransparenciastc@metro.df.gob.mx</font><br><font color="#333333">Horario de atención: de 9:00 a 15:00 horas.</font><br>&nbsp;</span>]]></description>
+    <styleUrl>#style85</styleUrl>
+    <Point>
+      <coordinates>-99.143349,19.427006,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Instituto Técnico de Formación Policial</name>
+    <description><![CDATA[<DIV><SPAN style="line-height:115%;color:#5c6667;font-size:10pt"><FONT color="#990000"><STRONG>Responsable de la Oficina de Información Pública:</STRONG></FONT></SPAN><SPAN><SPAN style="line-height:115%;color:#5c6667;font-size:10pt"><BR></SPAN><FONT color="#333333">Lic. Evelyn Gisel Álvarez Arestegui<BR></FONT></SPAN><SPAN><SPAN style="line-height:115%;color:#5c6667;font-size:10pt"><FONT color="#333333"><STRONG><FONT color="#990000">Dirección:</FONT></STRONG> Calzada Desierto de los Leones No. 5715</FONT></SPAN></SPAN><SPAN style="line-height:115%;color:#5c6667;font-size:10pt"><FONT color="#333333"> <SPAN>Col. Olivar de los Padres</SPAN> <SPAN>Delegación Álvaro Obregón<BR></SPAN>C<SPAN>. P. 01780</SPAN><BR><SPAN><STRONG><FONT color="#990000">Tels.</FONT></STRONG> 5490 2922, 5490 2908, 5490 2909 <STRONG><FONT color="#990000">Fax</FONT></STRONG> 5585 2906</SPAN><BR></FONT><SPAN><FONT color="#333333"><STRONG><FONT color="#990000">Correo Electrónico:</FONT></STRONG> <A target="_blank"></A>itfpinfopub01@ssp.df.gob.mx<BR></FONT></SPAN></SPAN><SPAN style="line-height:115%;font-size:11pt"><A href="http://portal.ssp.df.gob.mx/Portal/Organizacion/ITFP/" target="_blank"><SPAN style="line-height:115%;color:#5c6667;font-size:10pt;text-decoration:none"><FONT color="#333333">http://portal.ssp.df.gob.mx/Portal/Organizacion/ITFP/</FONT></SPAN></A></SPAN></DIV>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-99.248924,19.336632,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Sistema para el Desarrollo Integral de la Familia del Distrito Federal </name>
+    <description><![CDATA[<span style="font-family:arial, sans-serif"><b><font color="#990000">Armando Rodríguez Romero</font></b>&nbsp;<br>Responsable de la Oficina de Información Pública&nbsp;<br><font color="#990000"><b>Dirección:</b></font><br>Av. San Francisco # 1374 5º Piso, Col. Tlacoquemécatl del Valle, Benito Juárez, C.P. 03200&nbsp;<br><b><font color="#990000">Tel.</font></b>55591919 ext. 1120 y 1111, 56040127 ext. 3001<br><b><font color="#990000">Correo Electrónico:</font></b><br>oip@dif.df.gob.mx</span>]]></description>
+    <styleUrl>#style88</styleUrl>
+    <Point>
+      <coordinates>-99.174194,19.378330,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Instituto de Verificación Administrativa del Distrito Federal</name>
+    <description><![CDATA[<DIV dir="ltr"><FONT color="#333333"><STRONG><FONT color="#990000">Responsable de la Oficina de Información Pública: <BR></FONT></STRONG>Lic. Pedro Arturo Aragón García <BR><STRONG><FONT color="#990000">Dirección:</FONT></STRONG> Carolina N° 132, 8° Piso, Col. Noche Buena, C.P. 03720, Del. Benito Juárez, México, D.F. <BR><STRONG><FONT color="#990000">Tel.</FONT></STRONG> 1209 7392<BR><STRONG><FONT color="#990000">Correo Electrónico:&nbsp;<BR></FONT></STRONG></FONT><A href="mailto:oip.ireonveadf@df.gob.mx" target="_blank"><FONT color="#333333">oip.ireonveadf@df.gob.mx</FONT></A><FONT color="#333333"> <BR>http://www.inveadf.df.gob.mx</FONT></DIV>]]></description>
+    <styleUrl>#style28</styleUrl>
+    <Point>
+      <coordinates>-99.178467,19.381153,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Autoridad del Centro Histórico </name>
+    <description><![CDATA[<span style="font-family:arial, sans-serif"><b><font color="#990000">María de la Luz Hernández Rodríguez.</font></b><br><font color="#333333">Responsable de la Oficina de Información Pública</font><br><b><font color="#990000">Dirección:</font></b><br><font color="#333333">República de Argentina N° 8, Co l. Centro, Del. Cuauhtémoc, C.P. 06010.</font><br><b><font color="#990000">Tel.</font></b><font color="#333333">57 04 82 00 Fax 216</font><br><font color="#333333">Horario de Atención: 9:00 a 15:00 hrs.</font><br><b><font color="#990000">Correo Electrónico:</font></b><br><font color="#333333">oipach@df.gob.mx *En esta dirección de correo se reciben solicitudes de información pública.</font><br><font color="#333333">http://www.autoridadcentrohistorico.df.gob.mx/noticias/transparencia.html</font></span>]]></description>
+    <styleUrl>#style69</styleUrl>
+    <Point>
+      <coordinates>-99.132011,19.435005,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Autoridad del Espacio Público del Distrito Federal </name>
+    <description><![CDATA[<span style="font-family:arial, sans-serif"><b><font color="#990000">Lic. Mauricio Gabriel Vega López</font></b><br><font color="#333333">Responsable de la OIP&nbsp;</font><br><b><font color="#990000">Dirección:</font></b><br><font color="#333333">Vito Alessio Robles No. 114-A, Col. Florida Del. Álvaro Obregón C.P. 01030</font><br><font color="#333333">México D.F.</font><br><b><font color="#990000">Tel.</font></b><font color="#333333">&nbsp;5662 4870 y 5661 2645 Ext. 117</font><br><b><font color="#990000">Correo Electrónico:</font></b><br><font color="#333333">oip_aep@yahoo.com</font><br><font color="#333333">http://201.134.137.8/aep/transparencia/transparencia.php</font></span>]]></description>
+    <styleUrl>#style83</styleUrl>
+    <Point>
+      <coordinates>-99.182411,19.351559,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Junta de Asistencia Privada del D.F. (JAPDF)</name>
+    <description><![CDATA[<DIV style="line-height:12.75pt;margin:0cm 0cm 10pt"><SPAN><FONT color="#333333"><FONT color="#990000"><STRONG>Responsable de la Oficina de Información Pública:<BR></STRONG></FONT>Lic. Emma Cecilia Negrete Guerra</FONT><SPAN><BR></SPAN></SPAN><SPAN><SPAN style="color:#5c6667;font-size:10pt"><FONT color="#333333"><STRONG><FONT color="#990000">Dirección:</FONT></STRONG> Calderón de la Barca No. 92, colonia Polanco,&nbsp;Delegación Miguel Hidalgo, C.P. 11560, en México, D.F. <BR><STRONG><FONT color="#990000">Tel:</FONT></STRONG> 5279-7292<BR><STRONG><FONT color="#990000">Correo Electrónico: <BR></FONT></STRONG></FONT></SPAN></SPAN><A href="mailto:enegrete@jap.org.mx" target="_blank"><SPAN style="color:#5c6667;font-size:10pt"><FONT color="#333333">enegrete@jap.org.mx</FONT></SPAN></A><SPAN style="line-height:115%;font-size:11pt"><BR><A href="http://www.jap.org.mx/index.php?option=com_content&amp;task=view&amp;id=189&amp;Itemid=549" target="_blank"><SPAN style="line-height:115%;color:#5c6667;font-size:10pt"><FONT color="#333333">http://www.jap.org.mx/index.php?option=com_content&amp;task=view&amp;id=189&amp;Itemid=549</FONT></SPAN></A></SPAN></DIV>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>-99.199219,19.431419,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Calidad de Vida, Progreso y Desarrollo para la Ciudad de México S.A. de C.V. </name>
+    <description><![CDATA[<span style="font-family:arial, sans-serif"><b><font color="#990000">Lic. José Antonio Tomasena Larruy</font></b><br><font color="#333333">Responsable de la OIP</font><br><b><font color="#990000">Dirección:</font></b><br><font color="#333333">Av. Paseo de la Reforma N° 373, 20° Piso, Col. Cuauhtémoc, C.P. 06500, Del. Cuauhtémoc, México, D.F.</font><br><b><font color="#990000">Tel</font></b><font color="#333333">.5201 7390 Ext.103</font><br><b><font color="#990000">Correo Electrónico:</font></b><br><font color="#333333">atomasena@capitalencrecimiento.com&nbsp;</font><br><font color="#333333">http://www.calidaddevidadf.com.mx</font></span>]]></description>
+    <styleUrl>#style42</styleUrl>
+    <Point>
+      <coordinates>-99.169624,19.426508,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Comisión de Filmaciones de la Ciudad de México </name>
+    <description><![CDATA[<span style="font-family:arial, sans-serif"><b><font color="#990000">C. Gabriela Sierra Mejía</font></b><br><font color="#333333">Responsable de la OIP&nbsp;</font><br><b><font color="#990000">Dirección:</font></b><br><font color="#333333">Av. La Paz N° 26, P.B., Col. Chimalistac, C.P. 01070, Del. Álvaro Obregón,&nbsp;</font><br><font color="#333333">México, D.F.</font><br><b><font color="#990000">Tel.</font></b><font color="#333333">1719 3000 Ext.1008</font><br><b><font color="#990000">Correo Electrónico:</font></b><br><font color="#333333">oip_cfcm@cultura.df.gob.mx</font><br><font color="#333333">http://cfilma.cultura.df.gob.mx</font></span>]]></description>
+    <styleUrl>#style33</styleUrl>
+    <Point>
+      <coordinates>-99.185806,19.347982,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Escuela de Administración Pública del Distrito Federal </name>
+    <description><![CDATA[<span style="font-family:arial, sans-serif"><b><font color="#990000">C. Belén Sánchez&nbsp;</font></b><br><font color="#333333">Responsable de la OIP</font><br><b><font color="#990000">Dirección:</font></b><br><font color="#333333">Calle Tacuba No. 4, Col. Centro Histórico, C.P. 06010, Del. Cuauhtémoc, México, D.F.</font><br><b><font color="#990000">Tel.</font></b><font color="#333333">5130 5570 Ext.5312</font><br><b><font color="#990000">Correo Electrónico:</font></b><br><font color="#333333">oieap@df.gob.mx</font><br><font color="#333333">http://www.escueladeadministracionpublica.df.gob.mx/</font></span>]]></description>
+    <styleUrl>#style103</styleUrl>
+    <Point>
+      <coordinates>-99.140305,19.436087,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Fideicomiso de Recuperación Crediticia Fidere </name>
+    <description><![CDATA[<span style="font-family:arial, sans-serif"><b><font color="#990000">Lic. Elisa Lugo Ipiña</font></b><br><font color="#333333">Responsable de la OIP</font><br><b><font color="#990000">Dirección:</font></b><br><font color="#333333">Izazaga No. 89 Piso 11, Col. Centro Delegación Cuauhtémoc, C.P. 06080</font><br><b><font color="#990000">Tel.</font></b><font color="#333333">5709-1227, 5709-1418, 5709-1611, 5709-1617 Ext. 251, 282</font><br><b><font color="#990000">Correo Electrónico:</font></b><br><font color="#333333">oip@fidere3.df.gob.mx</font><br><font color="#333333">http://www.fidere3.df.gob.mx/transparencia/transparencia_fidere.php</font></span>]]></description>
+    <styleUrl>#style64</styleUrl>
+    <Point>
+      <coordinates>-99.136467,19.426182,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Fideicomiso Educación Garantizada </name>
+    <description><![CDATA[<span style="font-family:arial, sans-serif"><b><font color="#990000">Carlos Miguel Villalpando Mejía&nbsp;</font></b><br><font color="#333333">Responsable de la OIP</font><br><b><font color="#990000">Dirección:</font></b><br><font color="#333333">Av. Ejército Nacional, No. 359, Cuarto Piso, Col. Granada, C.P. 11520, Delegación Miguel Hidalgo</font><br><b><font color="#990000">Tel.&nbsp;</font></b><font color="#333333">11.02.17.30 ext. 4014, 4015 y 4070</font><br><b><font color="#990000">Correo Electrónico:</font></b><br><font color="#333333">oip_fidegar@df.gob.mx&nbsp;</font><br><font color="#333333">http://www.fideicomisoed.df.gob.mx/index.php?option=com_content&amp;view=article&amp;id=53:art14xii&amp;catid=36&amp;Itemid=62</font></span>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>-99.185448,19.437866,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Museo de Arte Popular </name>
+    <description><![CDATA[<span style="font-family:arial, sans-serif"><b><font color="#990000">Luis Armando Haza Remus</font></b><br><font color="#333333">Responsable de la OIP&nbsp;</font><br><b><font color="#990000">Dirección:</font></b><br><font color="#333333">Revillagigedo #11 entrada por Independencia, Mezanine Primer Piso Centro Histórico, México, D.F. C.P. 06050.</font><br><b><font color="#990000">Tel.</font></b><font color="#333333">5510-2201 Ext. 118</font><br><b><font color="#990000">Correo Electrónico:</font></b><br><font color="#333333">lhazar@df.gob.mx</font><br><font color="#333333">http://www.map.df.gob.mx/index.php/Transparencia/transparencia.php</font></span>]]></description>
+    <styleUrl>#style56</styleUrl>
+    <Point>
+      <coordinates>-99.146332,19.433739,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Museo del Estanquillo </name>
+    <description><![CDATA[<span style="font-family:arial, sans-serif"><b><font color="#990000">Enrique Jiménez Cordero</font></b>&nbsp;<br><font color="#333333">Responsable de la OIP</font><br><b><font color="#990000">Dirección:</font></b><br><font color="#333333">Isabel la Católica No. 26, 3er piso, Col. Centro C.P. 06010, Delegación Cuauhtémoc</font><br><font color="#333333">Tel.5521-3052 ext. 110 y 111</font><br><b><font color="#990000">Correo Electrónico:</font></b><br><font color="#333333">enrique@museodelestanquillo.com - A través de esta dirección puede enviar una solicitud de información pública-&nbsp;</font><br><font color="#333333">http://www.museodelestanquillo.com</font></span>]]></description>
+    <styleUrl>#style73</styleUrl>
+    <Point>
+      <coordinates>-99.136230,19.433250,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Fideicomiso para el Fondo de Promoción para el Financiamiento del Transporte Público </name>
+    <description><![CDATA[<span style="font-family:arial, sans-serif"><b><font color="#990000">Mateo Noé Figueroa Vega</font></b><br><font color="#333333">Responsable de la OIP</font><br><b><font color="#990000">Dirección:</font></b><br><font color="#333333">Av. Álvaro Obregón 263, Col. Roma, Del. Cuauhtémoc.</font><br><b><font color="#990000">Tel.</font></b><font color="#333333">5533-3031</font><br><b><font color="#990000">Correo Electrónico:</font></b><br><font color="#333333">oipstv@df.gob.mx</font><br><font color="#333333">http://www.transparencia.df.gob.mx/wb/Transparencia/fideicomiso_par_el_fondo_de_promocion_para_el_fina</font></span>]]></description>
+    <styleUrl>#style38</styleUrl>
+    <Point>
+      <coordinates>-99.167297,19.416925,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Fideicomiso para el Mejoramiento de las Vías de Comunicación del Distrito Federal (FIMEVIC) </name>
+    <description><![CDATA[<SPAN style="font-family:arial, sans-serif"><B><FONT color="#990000">Ing. José Pablo Guevara Moreno</FONT></B><BR><FONT color="#333333">Responsable de la OIP</FONT><BR><B><FONT color="#990000">Dirección:</FONT></B><BR><FONT color="#333333">Av. Ribera de San Cosme No. 75 2º Piso, Col. Santa María la Ribera, Delegación Cuauhtémoc, C.P. 06400</FONT><BR><FONT color="#333333">Horario de Atención: Lunes a Viernes de 10:00 a 15:00 horas</FONT><BR><B><FONT color="#990000">Correo Electrónico:</FONT></B><BR><FONT color="#333333">oip_fimevic@df.gob.mx&nbsp;</FONT><BR><FONT color="#333333">http://www.fimevic.df.gob.mx/ofai.htm</FONT></SPAN>]]></description>
+    <styleUrl>#style30</styleUrl>
+    <Point>
+      <coordinates>-99.160690,19.442078,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Policía Bancaria e Industrial</name>
+    <description><![CDATA[<DIV dir="ltr"><FONT color="#333333"><STRONG><FONT color="#990000">Responsable de la Oficina de Información Pública: <BR></FONT></STRONG>Lic. Salvador Mendoza Ham <BR><STRONG><FONT color="#990000">Dirección:</FONT></STRONG> Poniente 128, N° 177, planta baja Col. Nueva Vallejo Deleg. Gustavo A. Madero <BR><STRONG><FONT color="#990000">Tel.</FONT></STRONG> 5587 7966 ext. 3013 <BR><STRONG><FONT color="#990000">Correo Electrónico:</FONT></STRONG> info.pbi@ssp.df.gob.mx <BR>http://www.policiabancaria.df.gob.mx/</FONT></DIV>]]></description>
+    <styleUrl>#style90</styleUrl>
+    <Point>
+      <coordinates>-99.145309,19.487139,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Proyecto Metro del Distrito Federal</name>
+    <description><![CDATA[<div><span><font color="#990000"><strong>Responsable de la Oficina de Información Pública:</strong></font><span style="color:rgb(92, 102, 103);line-height:115%;font-size:10pt"><br></span><font color="#333333">Lic. Rosa Estela García Wheleer</font></span></div>
+<div><span></span><span style="color:rgb(92, 102, 103);line-height:115%;font-size:10pt"><font><font color="#333333"><span><strong><font color="#990000">Dirección:</font></strong> Av. Universidad N° 800, P. B.</span><span>&nbsp;</span><span>Col.Santa Cruz Atoyac ,</span><span>&nbsp;</span><span>C.P. 03310, Del. Benito Juárez,</span><span>&nbsp;</span> <span>México, D.F.</span><br></font></font><font color="#333333"><span><strong><font color="#990000">Tel.</font></strong> 5688 8556<br><span style="padding:0cm;border:1pt windowtext"><strong><font color="#990000">Correo Electrónico:</font></strong> <a target="_blank"></a>oip@proyectometro.df.gob.mx</span></span><br></font></span><span style="line-height:115%;font-size:11pt"><a href="http://www.proyectometro.df.gob.mx/" target="_blank"><span style="color:rgb(92, 102, 103);line-height:115%;font-size:10pt;text-decoration:none"><font color="#333333">http://www.proyectometro.df.gob.mx/</font></span></a></span></div>]]></description>
+    <styleUrl>#style97</styleUrl>
+    <Point>
+      <coordinates>-99.164131,19.371449,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Red de Transporte de Pasajeros</name>
+    <description><![CDATA[<SPAN><STRONG><FONT color="#990000">Responsable de la Oficina de Información Pública:</FONT></STRONG></SPAN><SPAN><SPAN style="line-height:115%;color:#5c6667;font-size:10pt"><BR><FONT><FONT color="#333333"><SPAN><FONT>C. Judith Concepción Coronel Morales<BR></FONT></SPAN><STRONG><FONT color="#990000">Dirección:</FONT></STRONG> Serapio Rendón No.114</FONT></FONT></SPAN></SPAN><SPAN style="line-height:115%;color:#5c6667;font-size:10pt"><FONT color="#333333"> <SPAN>Col. San Rafael</SPAN> <SPAN>Del. Cuauhtémoc, C.P. 06470</SPAN><BR><SPAN><STRONG><FONT color="#990000">Tel.</FONT></STRONG> 5705 4177 ext. 2717, 2811</SPAN><BR></FONT><SPAN><FONT color="#333333"><STRONG><FONT color="#990000">Correo Electrónico:</FONT></STRONG> <A target="_blank"></A>oip@rtp.gob.mx<BR></FONT></SPAN></SPAN><SPAN style="line-height:115%;font-size:11pt"><A href="http://www.rtp.gob.mx/" target="_blank"><SPAN style="line-height:115%;color:#5c6667;font-size:10pt;text-decoration:none"><FONT color="#333333">http://www.rtp.gob.mx</FONT></SPAN></A></SPAN>]]></description>
+    <styleUrl>#style82</styleUrl>
+    <Point>
+      <coordinates>-99.160645,19.434170,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Asamblea Legislativa del Distrito Federal</name>
+    <description><![CDATA[<SPAN><FONT color="#990000"><STRONG>Responsable de la Oficina de Información Pública:</STRONG></FONT><SPAN><SPAN style="line-height:115%;color:#5c6667;font-size:10pt"><BR></SPAN></SPAN><FONT color="#333333">Lic. Ramón Verazaluce Osorio<BR></FONT></SPAN><SPAN><SPAN style="line-height:115%;color:#5c6667;font-size:10pt"><FONT color="#333333"><STRONG><FONT color="#990000">Dirección:</FONT></STRONG> Gante No. 15, 3er. Piso,&nbsp; Col. Centro Histórico</FONT></SPAN></SPAN><FONT color="#333333"><SPAN style="line-height:115%;color:#5c6667;font-size:10pt"> <SPAN>Del. Cuauhtémoc </SPAN><SPAN>&nbsp;</SPAN>C.P. 06010<BR><STRONG><FONT color="#990000">Tel.</FONT></STRONG> 51301980 Ext. 3316 y<SPAN>&nbsp;</SPAN> 5521 9610<BR><STRONG><FONT color="#990000">Correo Electrónico:</FONT></STRONG> <A target="_blank"></A>infopublica@asambleadf.gob.mx<BR></SPAN><SPAN style="line-height:115%;font-size:11pt"><A href="http://www.asambleadf.gob.mx/" target="_blank"><SPAN style="line-height:115%;color:#5c6667;font-size:10pt">http://www.asambleadf.gob.mx</SPAN></A></SPAN></FONT>]]></description>
+    <styleUrl>#style39</styleUrl>
+    <Point>
+      <coordinates>-99.139725,19.431700,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Contaduría Mayor de Hacienda de la Asamblea Legislativa del D.F.</name>
+    <description><![CDATA[<DIV dir="ltr"><FONT color="#333333"><STRONG><FONT color="#990000">Responsable de la Oficina de Información Pública: <BR></FONT></STRONG>Lic. José Manuel Román Alfaro <BR><STRONG><FONT color="#990000">Dirección:</FONT></STRONG> Av. 20 de Noviembre Nº 700 Col. Barrio San Marcos Del. Xochimilco C.P. 16050 <BR><STRONG><FONT color="#990000">Tel.</FONT></STRONG> 5624 5212 Directo 5624 5442 <BR><STRONG><FONT color="#990000">Correo Electrónico:</FONT></STRONG> infopubli@cmhaldf.gob.mx <BR>http://www.cmhaldf.gob.mx/</FONT></DIV>]]></description>
+    <styleUrl>#style52</styleUrl>
+    <Point>
+      <coordinates>-99.114388,19.262367,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Tribunal Superior de Justicia del Distrito Federal</name>
+    <description><![CDATA[<DIV><SPAN><FONT color="#990000"><STRONG>Responsable de la Oficina de Información Pública:</STRONG></FONT><SPAN><BR></SPAN><FONT color="#333333">Mtro. René González de la Vega<BR></FONT></SPAN><FONT size="+0"><FONT color="#333333"><SPAN><SPAN style="line-height:115%;color:#5c6667;font-size:10pt"><STRONG><FONT color="#990000">Dirección:</FONT></STRONG> <FONT color="#333333">Niños Héroes No.132 P.B. Edificio Principal</FONT></SPAN></SPAN><SPAN><SPAN style="line-height:115%;color:#5c6667;font-size:10pt"><FONT color="#333333">&nbsp;</FONT></SPAN></SPAN></FONT></FONT><SPAN style="line-height:115%;color:#5c6667;font-size:10pt"><FONT color="#333333"> <SPAN>Col. Doctores</SPAN><BR><SPAN>Del. Cuauhtémoc<SPAN>&nbsp; </SPAN></SPAN>C.P. 06720<BR><STRONG><FONT color="#990000">Tel.</FONT></STRONG> 5134 1330<BR><STRONG><FONT color="#990000">Correo Electrónico: <BR></FONT></STRONG></FONT><U><FONT color="#333333">oip@tsjdf.gob.mx<BR></FONT></U></SPAN><SPAN style="line-height:115%;font-size:11pt"><A href="http://www.tsjdf.gob.mx/" target="_blank"><SPAN style="line-height:115%;color:#5c6667;font-size:10pt"><FONT color="#333333">http://www.tsjdf.gob.mx/</FONT></SPAN></A></SPAN></DIV>]]></description>
+    <styleUrl>#style72</styleUrl>
+    <Point>
+      <coordinates>-99.150093,19.421391,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Consejo de la Judicatura del Distrito Federal</name>
+    <description><![CDATA[<DIV dir="ltr"><FONT color="#333333"><FONT color="#990000"><STRONG>Responsable de la Oficina de Información Pública: <BR></STRONG></FONT>Lic. Xóchitl Buendía Sánchez <BR><STRONG><FONT color="#990000">Dirección:</FONT></STRONG> Av. Juárez No. 8, piso 17, Col. Centro. C.P. 06010 Del Cuauhtémoc México D.F. <BR><STRONG><FONT color="#990000">Tel.</FONT></STRONG> 5130 4977 Conmutador 5130 4700 Ext. 4137 <BR><STRONG><FONT color="#990000">Correo Electrónico:</FONT></STRONG> oipacceso@cjdf.gob.mx <BR>http://www.cjdf.gob.mx </FONT></DIV>]]></description>
+    <styleUrl>#style105</styleUrl>
+    <Point>
+      <coordinates>-99.144188,19.434713,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Comisión de los Derechos Humanos del D.F.</name>
+    <description><![CDATA[<DIV dir="ltr"><FONT color="#333333"><STRONG><FONT color="#990000">Responsable de la Oficina de Información Pública :<BR></FONT></STRONG>Lic. Víctor Morales Noble <BR><STRONG><FONT color="#990000">Dirección:</FONT></STRONG> Av. Universidad N°1449, Col. Florida Pueblo de Axotla, <BR>C.P. 01030, Del. Álvaro Obregón, México, D.F. <BR><STRONG><FONT color="#990000">Tel.</FONT></STRONG> 5229 5600 <BR><STRONG><FONT color="#990000">Correo Electrónico:</FONT></STRONG> <A target="_blank"></A>transparencia@ms.cdhdf.org.mx <BR>cdhdf_transparencia@hotmail.com <BR>http://www.cdhdf.org.mx</FONT></DIV>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>-99.174599,19.355076,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Instituto de Acceso a la Información Pública del D.F.</name>
+    <description><![CDATA[<DIV dir="ltr"><STRONG><FONT color="#990000">Responsable de la Oficina de Información Pública:<BR></FONT></STRONG>Lic. Leopoldo Alejandro Cruz Vásquez<BR><STRONG><FONT color="#990000">Dirección:</FONT></STRONG> La Morena 865 Local 1, <BR>Col. Narvarte Del. Benito Juárez <BR>C.P. 03020 <BR><STRONG><FONT color="#990000">Tels.</FONT></STRONG> 5636 2136 y 5636 2120 ext. 124 <BR><STRONG><FONT color="#990000">Fax</FONT></STRONG> 5639 2051 <BR><STRONG><FONT color="#990000">Correo Electrónico:</FONT></STRONG> <A target="_blank"></A><A href="mailto:oip@infodf.org.mx" target="_blank">oip@infodf.org.mx</A><BR>http://www.infodf.org.mx</DIV>]]></description>
+    <styleUrl>#style86</styleUrl>
+    <Point>
+      <coordinates>-99.156067,19.398108,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Policía Auxiliar</name>
+    <description><![CDATA[<DIV dir="ltr"><STRONG><FONT color="#990000">Responsable de la Oficina de Información Pública: <BR></FONT></STRONG>Lic. Francisco Javier Arellano del Toro: <BR><STRONG><FONT color="#990000">Dirección:</FONT></STRONG> Insurgentes Norte N° 202, 2° Piso, Col. Santa María la Ribera, Deleg. Cuauhtémoc, C.P. 06400 <BR><STRONG><FONT color="#990000">Tels:</FONT></STRONG> 5547 5720 Exts. 225 y 230 <BR><STRONG><FONT color="#990000">Correo Electrónico:</FONT></STRONG> farellano@pa.df.gob.mx y policiaauxiliaroip@pa.df.gob.mx <BR>http://pa.ssp.df.gob.mx/potpa/potpa.htm</DIV>]]></description>
+    <styleUrl>#style59</styleUrl>
+    <Point>
+      <coordinates>-99.152061,19.453560,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Instituto de Vivienda (INVI)</name>
+    <description><![CDATA[<DIV dir="ltr"><FONT color="#333333"><FONT color="#990000"><STRONG>Lic. María Catalina López Escobedo</STRONG> <BR></FONT>Responsable de la Oficina de Información Pública <BR><STRONG><FONT color="#990000">Dirección:</FONT></STRONG> Calle Canela No. 660, Planta Baja<BR>Colonia Granjas México,<BR>Delegación Iztacalco<BR>C.P. 08400, México, D.F. <BR><STRONG><FONT color="#990000">Tel.:</FONT></STRONG> 5141-0300 Ext: 5204 <BR><STRONG><FONT color="#990000">Correo:</FONT></STRONG> </FONT><A href="mailto:oip_invi@df.gob.mx" target="_blank"><FONT color="#333333">oip_invi@df.gob.mx</FONT></A></DIV>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>-99.090103,19.396688,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Secretaría de Salud</name>
+    <description><![CDATA[<div dir="ltr"><b><font color="#cc0000">Lic. Alejandra Araceli Aguirre Sosa</font></b><br><font color="#666666">Encargado de la Oficina de Información Pública</font><br><b><font color="#cc0000">Dirección:</font></b> <font color="#666666">Xocongo 225, Col. Tránsito, Deleg. Cuauhtémoc. C.P. 06820, D.F.</font><br><b><font color="#cc0000">Teléfonos:</font></b> <font color="#666666">5132 1200 Ext. 1014 y 1801</font><br><b><font color="#cc0000">Correo electrónico</font></b>: <font color="#666666">oip@salud.df.gob.mx</font><br>&nbsp;</div>]]></description>
+    <styleUrl>#style96</styleUrl>
+    <Point>
+      <coordinates>-99.131256,19.421831,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - D. Miguel Hidalgo</name>
+    <description><![CDATA[<div><strong><font color="#990000">Responsable de la Oficina de Información Pública<br></font></strong>Lic. César Manuel Vallarta Paredes<br><strong><font color="#990000">Dirección:</font></strong> Avenida Parque Lira No. 94, colonia Ampliación Daniel Garza, México, Distrito Federal.<br><strong><font color="#990000">Tel:</font></strong> 2623-0042 y 2623-0043<br>Horario de las 8:00 a las 18:00 hrs.<br><strong><font color="#990000">Correo electrónico:</font></strong> </div>
+<div><a target="_blank">oip@miguelhidalgo.gob.mx</a></div>]]></description>
+    <styleUrl>#style50</styleUrl>
+    <Point>
+      <coordinates>-99.189705,19.407528,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - D. Tlahuac</name>
+    <description><![CDATA[<div><font color="#333333"><strong><font color="#990000">Responsable de la Oficina de Información Pública<br></font></strong>Lic. Arturo Jaime López.</font></div><div><font color="#333333"><strong><font color="#990000">Dirección:</font></strong> Av. Tláhuac s/n, Esq. Nicolás Bravo Col. La Asunción Edificio Delegacional 1er. Piso<br><strong><font color="#990000">Tel:</font></strong> 58 62 32 50 58 42 55 03 Ext.1121<br><strong><font color="#990000">Correo electrónico: <br></font></strong></font><a target="_blank"><font color="#333333">oip@tlahuac.df.gob.mx</font></a></div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-99.005280,19.270426,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Secretaría de Protección Civil </name>
+    <description><![CDATA[<font color="#990000"><b>Encargado de la Oficina de Información Pública</b></font><br><font color="#333333">Lic. Jorge Soto Domínguez.</font><br><font color="#333333">Director Jurídico</font><br><b><font color="#990000">Dirección:</font></b><font color="#333333">&nbsp;Av. Patriotismo # 671 Colonia San Juan C.P. 03730, Delegación Benito Juárez.</font><br><b><font color="#990000">Tel:</font></b><font color="#333333">&nbsp;5482-5600 Ext. 427</font><br><b><font color="#990000">Correo Electrónico:</font></b><font color="#333333">&nbsp;jsotod@df.gob.mx</font>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>-99.185127,19.380392,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Central de Abasto de la Ciudad de México</name>
+    <description><![CDATA[<div dir="ltr"><b><font color="#990000">Encargado de la Oficina de Información Pública</font></b><br><font color="#333333">Lic. Virginia Valencia Parra</font><br><font color="#990000"><b>Dirección:</b> </font><font color="#333333">Canal de Rio Churubusco S/N Esquina Canal de Apatlaco Colonia Central de Abastos,  C.P. 09040 Delegación Iztapalapa, México  D.F.</font><br><b><font color="#990000">Tels:</font></b><font color="#333333">5694 3514, 5694 0683, 5600 7844, 5694 4899 - 103</font><br><b><font color="#990000">Correo Electrónico: </font></b><font color="#333333">oip@ficeda.com.mx  </font></div>]]></description>
+    <styleUrl>#style79</styleUrl>
+    <Point>
+      <coordinates>-99.095009,19.371630,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - S. Medio Ambiente</name>
+    <description><![CDATA[<div dir="ltr"><font color="#990000"><strong>Lic. Francisco Javier Fuentes Armenta<br></strong></font><font color="#666666">Encargado de la Oficina de Información Pública<br></font><strong><font color="#990000">Dirección:</font> </strong><font color="#666666">Pedro Antonio de los Santos esq. Av. Constituyentes, 1ª. Sección del Bosque de Chapultepec (Puerta de Acceso A-4 "Las Flores"), Col. San Miguel Chapultepec, Deleg. Miguel</font> <font color="#666666">Hidalgo, C.P. 11850<br></font><strong><font color="#990000">Tel:</font></strong> <font color="#666666">5271-1939<br></font><strong><font color="#990000">Correo:</font></strong> oip@sma.df.gob.mx </div>]]></description>
+    <styleUrl>#style76</styleUrl>
+    <Point>
+      <coordinates>-99.180901,19.416868,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - S. Seguridad Pública</name>
+    <description><![CDATA[<div dir="ltr"><strong><font color="#990000">Lic. Adriana Flores Mijangos <br></font></strong><font color="#666666">Encargada de despacho de la Oficina de Información Pública<br></font><strong><font color="#990000">Dirección:</font></strong> <font color="#666666">Av. José María Izazaga No. 89 10° Piso, Col. Centro, Delegación Cuauhtémoc, C. P. 06080, México D. F.<br></font><strong><font color="#990000">Tel:</font></strong> <font color="#666666">5716 7700 Exts. 7801, 7773 y 7112<br></font><strong><font color="#990000">Correo:</font></strong> <font color="#666666">informacionpublica@ssp.df.gob.mx</font> </div>]]></description>
+    <styleUrl>#style91</styleUrl>
+    <Point>
+      <coordinates>-99.136452,19.426094,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - S. Turismo</name>
+    <description><![CDATA[<div dir="ltr"><strong><font color="#990000">Lic. Ricardo Colina Rubio <br></font></strong><font color="#666666">Encargado de la Oficina de Información Pública<br></font><strong><font color="#990000">Dirección:</font></strong><font color="#666666"> Av. Nuevo León No. 56 - 7° Piso Col. Hipódromo Condesa, Cuauhtémoc D.F. 06100 México D.F.<br></font><strong><font color="#990000">Tel:</font></strong> <font color="#666666">5212-0259 al 62 Ext. 2701</font><br><strong><font color="#990000">Horario de atención:</font></strong> <font color="#666666">de 9:00 a 15:00 y de 17:00 a 19:00 hrs.</font> <br><strong><font color="#990000">Correo:</font></strong> <font color="#666666">ricardocolina@mexicocity.gob.mx</font> </div>]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>-99.171326,19.413528,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - D. Álvaro Obregón</name>
+    <description><![CDATA[<div dir="ltr"><strong><font color="#990000">Areli Colín Hernández <br></font></strong><font color="#666666">Encargado de la Oficina de Información Pública <br></font><strong><font color="#990000">Dirección:</font></strong> <font color="#666666">Calle Canario Esq. Calle 10. Colonia Tolteca CP. 01150 Del. Álvaro Obregón <br></font><strong><font color="#990000">Tel:</font></strong> <font color="#666666">5276-6827<br></font><strong><font color="#990000">Correo:</font></strong> <font color="#666666">oip@dao.gob.mx oip.dao@gmail.com</font></div>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>-99.194717,19.389366,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - D. Azcapotzalco</name>
+    <description><![CDATA[<div dir="ltr"><strong><font color="#990000">Encargado de la Oficina de Información Pública<br></font></strong><font color="#666666">Lic. Yair Cortés Márquez <br></font><strong><font color="#990000">Dirección:</font></strong> <font color="#666666">Castilla Oriente y Av. 22 de Febrero s/n 2do.Piso Col. Azcapotzalco Centro. <br></font><strong><font color="#990000">Tel.</font></strong> <font color="#666666">53-54-99-94 Ext. 1299 <br></font><strong><font color="#990000">Correo electrónico:</font></strong> <font color="#666666">transparencia@df.gob.mx</font></div>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>-99.184364,19.484283,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - D. Benito Juárez</name>
+    <description><![CDATA[<div dir="ltr"><strong><font color="#990000">Encargado de la Oficina de Información Pública<br></font></strong><font color="#666666">Lic. Juana Torres Cid<br></font><strong><font color="#990000">Dirección:</font></strong>&nbsp;<font color="#666666">Av. División del Norte 1611, esq. Municipio Libre Col. Sta. Cruz Atoyac, C. P. 03100, México, D. F.</font><br><strong><font color="#990000">Tel.</font></strong>&nbsp;<font color="#666666">5422- 5598<br></font><strong><font color="#990000">Correo electrónico:</font></strong>&nbsp;<font color="#666666">juana.torres@dbj.gob.mx</font></div>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>-99.157227,19.371387,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - D. Coyoacán</name>
+    <description><![CDATA[<div dir="ltr"><strong><font color="#990000">Encargado de la Oficina de Información Pública<br></font></strong><font color="#666666">Lic. José M. Lucario Martínez<br></font><strong><font color="#990000">Dirección:</font></strong> <font color="#666666">Caballo Calco # 22 Barrio de la Concepción C.P 04020 Delegación Coyoacán<br></font><strong><font color="#990000">Tel.</font></strong> <font color="#666666">5484- 4500 ext. 3910 y 2401<br></font><strong><font color="#990000">Correo Electrónico:</font></strong> <font color="#666666">oipcoy@coyoacan.df.gob.mx</font></div>]]></description>
+    <styleUrl>#style44</styleUrl>
+    <Point>
+      <coordinates>-99.162376,19.350060,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - D. Cuauhtémoc</name>
+    <description><![CDATA[<div dir="ltr"><strong><font color="#990000">Responsable de la Oficina de Información Pública<br></font></strong><font color="#666666">Rafael del Castillo Rodríguez<br></font><strong><font color="#990000">Dirección:</font></strong> <font color="#666666">Edificio delegacional 2do. Piso. Aldama y Mina s/n Col. Buenavista<br></font><strong><font color="#990000">Tel.</font></strong> <font color="#666666">5140-3107, 5140-3108, 5140-3109</font><br><strong><font color="#990000">Correo electrónico:</font></strong> <font color="#666666">oip_cuauhtemoc@df.gob.mx</font></div>]]></description>
+    <styleUrl>#style47</styleUrl>
+    <Point>
+      <coordinates>-99.152374,19.440878,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - D. Cuajimalpa de Morelos</name>
+    <description><![CDATA[<div dir="ltr"><strong><font color="#990000">Responsable de la Oficina de Información Pública <br></font></strong><font color="#666666">Lic. Mariana Tietzsch Escalante<br></font><strong><font color="#990000">Dirección:</font></strong> <font color="#666666">Av. México con esquina Av. Guillermo prieto, edificio Vicente Guerrero, P.B. Col Cuajimalpa Centro. C.P. 05000<br></font><font color="#666666">Delegación Cuajimalpa de Morelos<br></font><font color="#990000"><strong>Tel:</strong></font> <font color="#666666">58- 14-11-00 Ext. 2103	<br></font><strong><font color="#990000">Correo electrónico:</font></strong> <font color="#666666">oipcuajimalpa@live.com.mx, oip@cuajimalpa.df.gob.mx</font></div>]]></description>
+    <styleUrl>#style70</styleUrl>
+    <Point>
+      <coordinates>-99.299072,19.358507,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - D. Gustavo A, Madero</name>
+    <description><![CDATA[<div dir="ltr"><strong><font color="#990000">Titular de la Oficina de Información Pública <br></font></strong><font color="#666666">C. Armando Morales Jarquin<br></font><strong><font color="#990000">Dirección:</font></strong> <font color="#666666">Av. 5 de Febrero y Vicente Villada, Col. Villa Gustavo A. Madero, Delegación Gustavo A. Madero, C. P. 07050. Lobby Edificio Delegacional. <br></font><strong><font color="#990000">Tel.</font></strong> <font color="#666666">51.18.28.00 Ext. 2317<br></font><strong><font color="#990000">Correo electrónico:</font></strong> <font color="#666666">oip_gam@hotmail.com <br></font><strong><font color="#990000">Atención:</font></strong> <font color="#666666">de 09:00 Hrs. a 18:00 Hrs </font></div>]]></description>
+    <styleUrl>#style77</styleUrl>
+    <Point>
+      <coordinates>-99.113495,19.482912,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - D. Iztacalco</name>
+    <description><![CDATA[<div dir="ltr"><strong><font color="#990000">Lic. Yesenia Karina Arvizu Mendoza<br></font></strong><font color="#666666">Responsable de la Oficina de Información Pública<br></font><strong><font color="#990000">Dirección:</font></strong> <font color="#666666">Av. Té esquina Río Churubusco, Col. Gabriel Ramos Millán, a un costado de las Oficinas de Licencias y Control Vehicular.<br></font><strong><font color="#990000">Tel:</font></strong> <font color="#666666">56 54 31 33 ext 2334<br></font><strong><font color="#990000">Horario de Atención:</font></strong><font color="#666666"> Lunes a Viernes de 09:00 a 15:00 hrs.</font><br><strong><font color="#990000">Correo electrónico:</font></strong> <font color="#666666">oipiztacalco@iztacalco.df.gob.mx</font></div>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-99.097176,19.396456,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - D. Iztapalapa</name>
+    <description><![CDATA[<div dir="ltr"><strong><font color="#990000">Responsable de la Oficina de Información Pública<br></font></strong><font color="#666666">Lic. Julio César Fonseca Ortega</font> <br><strong><font color="#990000">Dirección:</font></strong> <font color="#666666">Aldama N° 63, esquina Ayuntamiento, Barrio San Lucas; C.P. 09000 México D.F. Delegación Iztapalapa. <br></font><strong><font color="#990000">Tels.</font></strong> <font color="#666666">5445 1053 y 5804 4140 ext. 1314</font> <br><strong><font color="#990000">Correo electrónico:</font></strong> <font color="#666666">iztapalapatransparente@hotmail.com</font> <br><strong><font color="#990000">Horario de Atención:</font></strong> <font color="#666666">9:00 - 15:00 hrs., de Lunes a Viernes</font> </div>]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>-99.093575,19.360163,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - D. La Magdalena C.</name>
+    <description><![CDATA[<div dir="ltr"><strong><font color="#990000">Encargado de la OIP <br></font></strong><font color="#666666">Lic. Omar Martínez Serrano <br></font><strong><font color="#990000">Dirección:</font></strong> <font color="#666666">Río Blanco No. 9 Esq. José Moreno Salido, Col. Barranca Seca, C.P. 10580 <br></font><strong><font color="#990000">Tel.</font></strong> <font color="#666666">5449-6071, 5449-6120 y 5449-6000 ext. 1214 <br></font><strong><font color="#990000">Correo electrónico:</font></strong> <font color="#666666">oip_mcontreras@df.gob.mx</font> </div>]]></description>
+    <styleUrl>#style36</styleUrl>
+    <Point>
+      <coordinates>-99.241386,19.305073,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - D. Milpa Alta.</name>
+    <description><![CDATA[<div dir="ltr"><strong><font color="#990000">Responsable de la Oficina de Información Pública <br></font></strong><font color="#666666">Profr. Juan Procoro Ramos Nieto</font> <br><strong><font color="#990000">Dirección:</font></strong><font color="#666666"> Av. México, esq. Constitución s/n 1ª piso. Delegación .Milpa Alta <br></font><strong><font color="#990000">Tel.:</font></strong> <font color="#666666">58-62-31-50 Ext.2003</font> <br><strong><font color="#990000">Correo electrónico:<br></font></strong><font color="#666666">ramosj@milpa-alta.df.gob.mx</font> </div>]]></description>
+    <styleUrl>#style55</styleUrl>
+    <Point>
+      <coordinates>-99.023834,19.191477,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - D. Tlalpan</name>
+    <description><![CDATA[<div dir="ltr"><strong><font color="#990000">J.U.D de Transparencia y Acceso a la Información Pública<br></font></strong><font color="#666666">C. Ricardo Argudín Ramírez&nbsp;<br></font><strong><font color="#990000">Dirección:</font></strong>&nbsp;<font color="#666666">Plaza de la Constitución No.1, Planta Alta. Col. Centro de Tlalpan&nbsp;<br></font><strong><font color="#990000">Tel.</font></strong>&nbsp;<font color="#666666">55 73 08 25&nbsp;<br></font><strong><font color="#990000">Correo electrónico:<br></font></strong><font color="#666666">oip@tlalpan.gob.mx</font></div>]]></description>
+    <styleUrl>#style106</styleUrl>
+    <Point>
+      <coordinates>-99.166771,19.288271,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - D. V. Carranza</name>
+    <description><![CDATA[<div dir="ltr"><strong><font color="#990000">Responsable de la OIP. <br></font></strong><font color="#666666">Bertha Andrea Ramos Rojas <br></font><strong><font color="#990000">Dirección:</font></strong> <font color="#666666">Av. Francisco del Paso y Troncoso, No. 219, Col. Jardín Balbuena, C.P. 15900, México, D.F.<br></font><strong><font color="#990000">Tels.</font></strong><font color="#666666"> 5552-1232, 5768-9029 y 5768-2977.<br></font><strong><font color="#990000">Correo electrónico: <br></font></strong><font color="#666666">oip_vcarranza@df.gob.mx (Por este medio puedes ingresar solicitudes de Acceso a la Información). <br></font><strong><font color="#990000">Horario de atención:</font></strong> <font color="#666666">Lunes a viernes de 9:00 a 17:00 hrs. </font></div>]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>-99.112442,19.419291,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - IEDF</name>
+    <description><![CDATA[<div dir="ltr"><strong><font color="#990000">Lic. José Jacinto Díaz Careaga<br></font></strong><font color="#666666">Responsable de la Oficina de Información Pública<br></font><strong><font color="#990000">Dirección:</font></strong> <font color="#666666">Huizaches No. 25<br>Col. Rancho los Colorines<br>Del. Tlalpan<br>C.P 14386<br></font><strong><font color="#990000">Tel.</font></strong> <font color="#666666">5483 3800 Ext. 4725<br></font><strong><font color="#990000">Correo electrónico:</font></strong> <font color="#666666">oficinadeinformacionpublica@iedf.org.mx<br>http://www.iedf.org.mx/</font></div>]]></description>
+    <styleUrl>#style49</styleUrl>
+    <Point>
+      <coordinates>-99.137871,19.289555,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Tribunal de lo Contencioso Administrativo del D.F.</name>
+    <description><![CDATA[<div dir="ltr"><strong><font color="#990000">C. María Elena Rodríguez Martínez&nbsp;<br></font></strong><font color="#666666">Responsable de la Oficina de Información Pública<br></font><strong><font color="#990000">Dirección:</font></strong>&nbsp;<font color="#666666">Insurgentes Sur 825, 3er. Piso Col. Nápoles Del. Benito Juárez. C.P. 03840<br></font><strong><font color="#990000">Teléfonos:</font></strong>&nbsp;<font color="#666666">5002 0102 directo. 5002 0100 Ext. 1102<br></font><strong><font color="#990000">Correo electrónico:</font></strong><font color="#666666">&nbsp;transparencia@tcadf.gob.mx<br>http://www.tcadf.gob.mx</font></div>]]></description>
+    <styleUrl>#style92</styleUrl>
+    <Point>
+      <coordinates>-99.174217,19.388962,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Tribunal Electoral del D.F.</name>
+    <description><![CDATA[<div dir="ltr"><strong><font color="#990000">Lic. Iveth Morales Leal<br></font></strong><font color="#666666">Responsable de la Oficina de Información Pública<br></font><strong><font color="#990000">Dirección:</font></strong> <font color="#666666">Magdalena No. 21, Colonia Del Valle, Del. Benito Juárez<br>C.P. 03100,<br></font><strong><font color="#990000">Tel.</font></strong> <font color="#666666">5340 4600 Ext. 1224 y 1222<br></font><strong><font color="#990000">Correo electrónico:</font></strong> <font color="#666666">transparencia@tedf.org.mx<br>http://www.tedf.org.mx</font></div>]]></description>
+    <styleUrl>#style57</styleUrl>
+    <Point>
+      <coordinates>-99.170212,19.397114,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - UACM</name>
+    <description><![CDATA[<div dir="ltr"><strong><font color="#990000">Mtra. Ma. Teresa Palao Mendoza<br></font></strong><font color="#666666">Responsable de la Oficina de Información Pública<br></font><strong><font color="#990000">Dirección:</font></strong> <font color="#666666">Av. Fray Servando Teresa de Mier N° 92, 4° Piso, Col. Centro, Del. Cuauhtémoc, C.P. 06080, México, D.F.<br></font><strong><font color="#990000">Tels.</font></strong> <font color="#666666">5761 9720, 5134 9804 Ext. 11601, 11602 y 11605<br></font><strong><font color="#990000">Correo electrónico:</font></strong> <font color="#666666">oipuacm@uacm.edu.mx<br>http://www.uacm.edu.mx/</font></div>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>-99.138611,19.424391,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Agencia de Protección Sanitaria</name>
+    <description><![CDATA[<div dir="ltr"><strong><font color="#990000">Lic. Adriana Hernández Ávlia <br></font></strong><font color="#666666">Responsable de la OIP <br></font><strong><font color="#990000">Dirección: <br></font></strong><font color="#666666">Xocongo 225 5 Piso, Colonia Tránsito Delegación Cuauhtémoc C. P. 06820 México, D. F. <br></font><strong><font color="#990000">Tel.</font></strong> <strong><font color="#666666">5132-1200 ext.1682 <br></font><font color="#990000">Correo Electrónico:</font></strong> <br><font color="#666666">ahernandeza@df.gob.mx y oip-aps@df.gob.mx</font></div>]]></description>
+    <styleUrl>#style45</styleUrl>
+    <Point>
+      <coordinates>-99.131203,19.421835,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - CAPREPA</name>
+    <description><![CDATA[<div dir="ltr"><strong><font color="#990000">Encargado de la OIP <br></font></strong><font color="#666666">Lic. Yair Bravo Ceja <br></font><strong><font color="#990000">Dirección:</font></strong> <font color="#666666">Mosqueta 140, Col. Guerrero, C.P.06300, México D.F. <br></font><strong><font color="#990000">Tel.-</font></strong> <font color="#666666">5535 7709</font> <br><strong><font color="#990000">Horario de atención</font></strong> <font color="#666666">de 9.00 a 15.00 de Lunes a Viernes<br></font><strong><font color="#990000">Correo electrónico:<br></font></strong><font color="#666666">yairbravoc@caprepa.df.gob.mx</font></div>]]></description>
+    <styleUrl>#style99</styleUrl>
+    <Point>
+      <coordinates>-99.144966,19.444859,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - CAPREPOL</name>
+    <description><![CDATA[<div dir="ltr"><strong><font color="#990000">Responsable de la OIP <br></font></strong><font color="#666666">Lic. Celia Patricia Cabrera Ramírez <br></font><strong><font color="#990000">Dirección:</font></strong> <font color="#666666">Pedro Moreno No. 216, Interior 131 Col. Guerrero C.P. 06300</font> <br><strong><font color="#990000">Tel.</font></strong> <font color="#666666">51 41 08 04 Ext. 1251 y 1252 <br></font><strong><font color="#990000">Horario de atención</font></strong><font color="#666666"> de 9.00 a 15.00 de Lunes a Viernes <br></font><strong><font color="#990000">Correo electrónico:</font></strong> <font color="#666666">oipcaprepol@gmail.com</font></div>]]></description>
+    <styleUrl>#style60</styleUrl>
+    <Point>
+      <coordinates>-99.150330,19.443085,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - CAPTRALIR</name>
+    <description><![CDATA[<div dir="ltr"><strong><font color="#990000">Responsable de la Oficina de Información Pública <br></font></strong><font color="#666666">Lic. Enrique García Calleja</font> <br><strong><font color="#990000">Domicilio Oficial</font></strong> <font color="#666666">Castilla 186, Col Álamos. Primer Piso C.P. 03400. Del. Benito Juárez <br></font><strong><font color="#990000">Tel.</font></strong> <font color="#666666">5590 5011, 56 96 98 69 y 56 96 98 70 ext. 116 <br></font><strong><font color="#990000">Correo electrónico:</font></strong> <font color="#666666">oip_captralir@df.gob.mx</font> </div>]]></description>
+    <styleUrl>#style51</styleUrl>
+    <Point>
+      <coordinates>-99.143005,19.395620,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - CETRAM</name>
+    <description><![CDATA[<div dir="ltr"><strong><font color="#990000">Lic. Adán Erik Castro Lara<br></font></strong><font color="#666666">Responsable de la Oficina de Información Pública<br></font><strong><font color="#990000">Dirección:</font></strong> <font color="#666666">Av. Universidad 790 Esq. Municipio Libre, Col.Santa Cruz Atoyac, Del.Benito Juárez<br></font><strong><font color="#990000">Tel:</font></strong> <font color="#666666">5604-5956 / 5604-5650 <br></font><strong><font color="#990000">Correo electrónico:</font></strong> <font color="#666666">cetram_infodf@om.df.gob.mx y eecastro@om.df.gob.mx</font></div>]]></description>
+    <styleUrl>#style66</styleUrl>
+    <Point>
+      <coordinates>-99.163925,19.371449,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Evalúa DF</name>
+    <description><![CDATA[<div dir="ltr"><strong><font color="#990000">Lic. Alba Peña Robles <br></font></strong><font color="#666666">Responsable de la Oficina de Información Pública <br></font><strong><font color="#990000">Dirección:</font></strong> <font color="#666666">Calle Alfonso Esparza Oteo No. 160, Col. Guadalupe Inn Del. Álvaro Obregón C.P. 01020 México D.F( Planta Baja )</font> <br><strong><font color="#990000">Tel:</font></strong> <font color="#666666">5663-1507 <br></font><strong><font color="#990000">Horario de Atención:</font></strong> <font color="#666666">9:00 a 15:00 horas<br></font><strong><font color="#990000">Correo:</font></strong> <font color="#666666">albaprobles@df.gob.mx y apenar@df.gob.mx</font></div>]]></description>
+    <styleUrl>#style34</styleUrl>
+    <Point>
+      <coordinates>-99.186096,19.354094,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - COMISA</name>
+    <description><![CDATA[<div dir="ltr"><strong><font color="#990000">Responsable de la Oficina de Información Pública<br></font></strong><font color="#666666">Tania González García<br></font><strong><font color="#990000">Dirección:</font></strong> <font color="#666666">General Victoriano Zepeda N° 22, Col. Observatorio, cp. 11860. Del. Miguel Hidalgo<br></font><strong><font color="#990000">Tel.:</font></strong> <font color="#666666">2636-4854 y 5516-8586 Ext.272<br></font><strong><font color="#990000">Correo Electrónico:</font></strong> <font color="#666666">informacionpublica@comisagdf.com.mx</font></div>]]></description>
+    <styleUrl>#style93</styleUrl>
+    <Point>
+      <coordinates>-99.193474,19.405073,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - FICAX</name>
+    <description><![CDATA[<div dir="ltr"><strong><font color="#990000">Ana Margarita Elia Ruíz Salazar<br></font></strong><font color="#666666">Responsable de la Oficina de Información Pública</font><br><strong><font color="#990000">Dirección:</font></strong> <font color="#666666">Doctor Lavista Núm. 144, Acceso Uno, 1er Piso, Col. de los Doctores, Delegación Cuauhtémoc, C.P. 06720 <br></font><strong><font color="#990000">Teléfono:</font></strong> <font color="#666666">5134-2500, ext. 1702<br></font><strong><font color="#990000">Correo electrónico:</font></strong> <font color="#666666">oip_ficax@df.gob.mx</font></div>]]></description>
+    <styleUrl>#style80</styleUrl>
+    <Point>
+      <coordinates>-99.149925,19.423855,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - FONDECO</name>
+    <description><![CDATA[<div dir="ltr"><strong><font color="#990000">Miriam Montoya Ojeda<br></font></strong><font color="#666666">Encargada de la Oficina de Información Pública<br></font><strong><font color="#990000">Dirección:</font></strong> <font color="#666666">Xocongo 225, 1er piso, Colonia Transito, C.P. 06820, Delegación Cuauhtémoc.<br></font><strong><font color="#990000">Teléfono:</font></strong> <font color="#666666">57401404 ext. 251<br></font><strong><font color="#990000">Horario de atención:</font></strong> <font color="#666666">9:00am-15:00pm, de lunes a viernes.<br></font><font color="#990000">Correo electrónico:</font> <font color="#666666">miriammo@df.gob.mx</font></div>]]></description>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>-99.131149,19.421837,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Fondo Mixto de Promoción Turística</name>
+    <description><![CDATA[<div dir="ltr"><strong><font color="#990000">Ariadna Camacho Contreras</font></strong> <br><font color="#666666">Responsable de la Oficina de Información Pública.<br></font><strong><font color="#990000">Domicilio:</font></strong> <font color="#666666">Av. Nuevo León No. 56 - 10 ° Piso Col. Hipódromo Condesa, Cuauhtémoc D.F. 06100 México D.F.<br></font><strong><font color="#990000">Tel.</font></strong> <font color="#666666">5211-2558 <br></font><strong><font color="#990000">Horario de atención personal</font></strong> <font color="#666666">de 9:00 a 15:00 hrs.<br></font><strong><font color="#990000">Correo electrónico:</font></strong> <font color="#666666">ariadna.camacho@fmpt.df.gob.mx</font></div>]]></description>
+    <styleUrl>#style89</styleUrl>
+    <Point>
+      <coordinates>-99.171272,19.413534,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - ICYT</name>
+    <description><![CDATA[<div dir="ltr"><strong><font color="#990000">Lic. Paola Virginia Simental Franco</font></strong><br><font color="#666666">Responsable de la Oficina de Información Pública<br></font><strong><font color="#990000">Dirección:<br></font></strong><font color="#666666">República de Chile No. 6, Col. Centro, C.P. 06010, Del. Cuauhtémoc, México D.F<br></font><strong><font color="#990000">Tel:</font></strong> <font color="#666666">55 12 10 12 Ext. 213<br></font><strong><font color="#990000">email:<br></font></strong><font color="#666666">psimental@icyt.df.gob.mx, paolavsf@gmail.com</font></div>]]></description>
+    <styleUrl>#style78</styleUrl>
+    <Point>
+      <coordinates>-99.136002,19.435827,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - IEMS</name>
+    <description><![CDATA[<div dir="ltr"><strong><font color="#990000">C. Enrique Belmont Vicente</font></strong><br><font color="#666666">Encargado de la Oficina de Información Pública<br></font><strong><font color="#990000">Dirección:<br></font></strong><font color="#666666">San Lorenzo 290, Piso 1, Col. Del Valle, Del. Benito Juárez<br></font><strong><font color="#990000">Tel:</font></strong> <font color="#666666">5636-2514<br></font><strong><font color="#990000">Correo Electrónico:<br></font></strong><font color="#666666">oip_iems@df.gob.mx</font></div>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>-99.171738,19.374254,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - INJUVE</name>
+    <description><![CDATA[<div dir="ltr"><strong><font color="#990000">Arq. Javier Hidalgo Ponce <br></font></strong><font color="#666666">Responsable de la OIP<br></font><font color="#990000"><strong>Dirección<br></strong></font><font color="#666666">Calzada México-Tacuba No. 235 1er. piso en la Colonia Un Hogar para Nosotros Del. Miguel Hidalgo<br></font><strong><font color="#990000">Tel.</font></strong> <font color="#666666">5341 7690<br></font><strong><font color="#990000">Correo Electrónico:<br></font></strong><font color="#666666">oip_ijdf@df.gob.mx</font></div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-99.171761,19.449339,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - Instituto del Deporte</name>
+    <description><![CDATA[<div dir="ltr"><strong><font color="#990000">Juan Carlos Mendoza Martínez</font></strong> <br><font color="#666666">Responsable de la Oficina de Información Pública<br></font><strong><font color="#990000">Dirección.<br></font></strong><font color="#666666">Av. División del Norte 2333 Col. General Anaya Del. Benito Juárez C.P. 03340<br></font><strong><font color="#990000">Tel.</font></strong> <font color="#666666">56-04-88-02<br></font><strong><font color="#990000">Horario de Atención:</font></strong> <font color="#666666">09:00 a 15:00 horas<br></font><strong><font color="#990000">Correo Electrónico:<br></font></strong><font color="#666666">oip_iddf@df.gob.mx</font> </div>]]></description>
+    <styleUrl>#style40</styleUrl>
+    <Point>
+      <coordinates>-99.154015,19.358978,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - ILIFEDF</name>
+    <description><![CDATA[<div dir="ltr"><strong><font color="#990000">Javier Fernández Carballo<br></font></strong><font color="#666666">Responsable de la Oficina de Información Pública<br></font><strong><font color="#990000">Dirección:</font></strong> <font color="#666666">Jalapa # 15 Piso 10, Col. Roma, Delegación Cuauhtémoc, C.P. 06700<br></font><strong><font color="#990000">Tel.</font></strong> <font color="#666666">51-34-07-70 ext. 1902<br></font><strong><strong><font color="#990000">Correo:</font></strong> <font color="#666666">ilifed</font></strong><font color="#666666">.oip@gmail.com</font><br><font color="#666666">(mediante el cuál también se reciben solicitudes de información pública)</font></div>]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>-99.162399,19.422781,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oficina de Información Pública - INDEPEDI</name>
+    <description><![CDATA[<div dir="ltr"><strong><font color="#990000">C. Karla Alejandra Garduño Juárez</font></strong> <br><font color="#666666">Responsable operativa de la Oficina de Información Pública. <br></font><strong><font color="#990000">Dirección:</font></strong> <font color="#666666">Av. Chapultepec No. 49, 1er Piso, Colonia Centro, Del. Cuauhtémoc. <br></font><strong><font color="#990000">Teléfono:</font></strong> <font color="#666666">5134-0770, ext. 1115 y 1116</font> <br><strong><font color="#990000">Correo electrónico:</font></strong> <font color="#666666">k_alexgar@hotmail.com</font></div>]]></description>
+    <styleUrl>#style62</styleUrl>
+    <Point>
+      <coordinates>-99.151756,19.426670,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

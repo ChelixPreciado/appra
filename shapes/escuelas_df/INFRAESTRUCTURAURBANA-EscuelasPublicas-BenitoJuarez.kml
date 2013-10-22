@@ -1,0 +1,3807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Escuelas_BENITO JUAREZ.kmz</name>
+	<StyleMap id="msn_ranger_station683">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station16010</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station2190</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station3540">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station442">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station911</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station37110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station1060">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station15000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station2170">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station13120">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station2180">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station229">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station8720">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station30300">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station50010">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station6100">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station15310">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station06</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station7001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station3310">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station06">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station12610">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station7710</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station7620</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station621">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station244">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station4330">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station35010">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station2520">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station24000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station2014">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station4520">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station2430">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station2090">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station31010">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station20100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station5011</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station4040</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station56200">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station821">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station14030">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station110010">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station422">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station0020">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station2240</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station393</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station2161">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station4020">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station20120">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station12000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station12910</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station1931</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station1913">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station7620">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station14030">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station981">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station1900">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station6000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station24000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station3101">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station1761">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station1602">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station26000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station24000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station11100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station2601">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station2320">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station0020</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station26010</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station1211">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station2161</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station2014</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station2730">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station9510">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station41201</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station4602</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station13501">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station41300</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station14030</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station1313">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station415">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station2430</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station3302</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station11110">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station11000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station7000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station0020">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station7920">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station2601</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station1491</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station22000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station4210</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station21100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station351">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station1715</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station1682</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station48011">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station1551">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station13001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station2822</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station16310</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station4602">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2404">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station1771">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station621</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station1321</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station7140">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station7320">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station6121">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station7001">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station2502">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station41121">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station2180">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station433">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station2062</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station1913</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station9910">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station2240">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station8102">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station1931">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station881</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station110010</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station493">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station740</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station1912</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station31130">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station8130</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station17001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station2502">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station1991">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station13120</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station27010</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station7150">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station31600</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station3310</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin601">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2822</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2404</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station7130">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station1251">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station1550</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station4150</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station91100">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station1491">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station1032">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station2131</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station731</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station4701">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station1161">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station2822">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station7130">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station21100">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station6140">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station7000">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station6401">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station852">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station950">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station374">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station20120</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station4160</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station7710">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station852</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station1722</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station6401">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station186">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station2180</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station20021</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station751">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station1912">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station1880">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station37300</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station12310</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station1731">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station6401</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station4701</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station2190">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station41110">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station383</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station1802</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station9130">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station6502</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station751</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station27010">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station9000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station26000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station6100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station4160">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station10030">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station740">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station2230">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station1241">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station2730</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station1971</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station732">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station6911</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station3620</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station59010">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station41200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station229</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station2062">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station811">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station1571">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station4020</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station2021</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station1161">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station3601</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station504</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station393">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station4150">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station9410">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station8102</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station6401</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station2131">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station16310">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station5011">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station6000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station1791">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station8720</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station4520</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station31120">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station1571</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station10111</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station6610">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station10000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station23000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station14000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station1682">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station12910">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station3230">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station1550">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station6530">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station6330">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station3001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station1531</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station6001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station9910</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station48011</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station2511">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station3230</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station2170</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station1911">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station19110</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station2502</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station1802">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station17320">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station22000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station24000">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station26010">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station23000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station10010</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station25000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station6502">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station1715">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station642">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station2190</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station2180</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station3001">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station504">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station7710">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station4040">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station16010">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station7410">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station7320</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station1761</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station513">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station56200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station2240</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station3001">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station27000">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station2140">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station2170</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station3540</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station3501">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station2520</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station50010</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station10610">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station6121</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station040</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station6201">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station14000">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station37110">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station1931">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station23000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station383">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station4620</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station1060</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station20021">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station3100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station7130</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station4920</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station25000">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station2041">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station14030</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station3001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station2190">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station2020">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station31010</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station981</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station31600">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station403">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station14410">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station2502</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station6150</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin2822">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://serviciosurbanosdf.com/mapasobras/mapsicons/escuela.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station1113">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station821</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station6530</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station17001">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station10710">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station2090">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station422</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station7140</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station32011">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station17320</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station38020</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station1051">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station6610</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station4330</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station3302">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station8020">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station10710</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station2090</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station1321">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station41201">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station38020">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station1301">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station24000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station22000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station27000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station6911">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station911">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station3601">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station4920">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station881">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station8130">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station2920">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station930</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station6201</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station1114">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station1161</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station403</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station971">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station4711</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station244</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station3630">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station10510</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station950</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station16510">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station2230</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station811</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station10510">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station11710">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station10030</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station1301</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station30400">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station41121</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station2031</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station26000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station4620">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station2031">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station1841">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station27110">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station1841</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station91100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station4711">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station10111">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station2700">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station15000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station20000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station930">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station040">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station11100">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station37300">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station1371">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station35010</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station1602</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station20000">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station4210">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station731">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station4102">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station1313</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station3101</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station1571">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station2170">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station3102">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station30300</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station7130</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station41300">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station11000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station3620">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station1722">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station1531">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station41200">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station2021">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station19110">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station2240">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station383">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station716">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station1551</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station6140</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station10010">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station6150">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station1971">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station12310">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>BENITO JUAREZ</name>
+		<Placemark>
+			<name>SECUNDARIA GENERAL
+- CANADA</name>
+			<description>NUEVA YORK Y PROL FILADELFIA,NAPOLES</description>
+			<LookAt>
+				<longitude>-99.17646700005109</longitude>
+				<latitude>19.39352399987477</latitude>
+				<altitude>0</altitude>
+				<heading>-1.697183734962451e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000017285751</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.17814513966867,19.39376537589607,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- HEROES DE EL CARRIZAL</name>
+			<description>AV AMERICAS NO 155, MODERNA</description>
+			<LookAt>
+				<longitude>-99.13415600009149</longitude>
+				<latitude>19.39887000009278</latitude>
+				<altitude>0</altitude>
+				<heading>-3.03973562294172e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000120003989</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.13415600009149,19.39887000009278,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- CARLOS A. CARRILLO</name>
+			<description>MUNICIPIO LIBRE NO 1301, PORTALES</description>
+			<LookAt>
+				<longitude>-99.15069400006261</longitude>
+				<latitude>19.36927199988579</latitude>
+				<altitude>0</altitude>
+				<heading>-2.076941963929195e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000459665578</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.15069400006261,19.36927199988579,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- REINO UNIDO DE LA GRAN BRETAÑA</name>
+			<description>MARTIN MENDALDE NO 1321, DEL VALLE</description>
+			<LookAt>
+				<longitude>-99.16814199988552</longitude>
+				<latitude>19.3801189998986</latitude>
+				<altitude>0</altitude>
+				<heading>3.796946178731148e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000041570671</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.16814199988552,19.3801189998986,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SECUNDARIA GENERAL
+- MARIA ENRIQUETA CAMARILLO</name>
+			<description>ESPERANZA ESQ CUAUHTEMOC, NARVARTE</description>
+			<LookAt>
+				<longitude>-99.15571700016679</longitude>
+				<latitude>19.40005500032287</latitude>
+				<altitude>0</altitude>
+				<heading>-5.540406984308891e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000395294486</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.15571700016679,19.40005500032287,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- ENRIQUE FLORES MAGON</name>
+			<description>CALLE UNO NO 23, SAN PEDRO DE LOS PINOS</description>
+			<LookAt>
+				<longitude>-99.18524621072815</longitude>
+				<latitude>19.3935161990228</latitude>
+				<altitude>0</altitude>
+				<heading>0.001086614923782439</heading>
+				<tilt>0</tilt>
+				<range>1007.255711996256</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.18449557412386,19.3948665685253,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- LIC. EDUARDO NOVOA</name>
+			<description>RUMANIA NO 701,PORTALES</description>
+			<LookAt>
+				<longitude>-99.14670000013291</longitude>
+				<latitude>19.36448900019031</latitude>
+				<altitude>0</altitude>
+				<heading>-4.40741389290455e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000165099011</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.14670000013291,19.36448900019031,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SECUNDARIA GENERAL
+- EUGENIA LEON PUIG</name>
+			<description>ALTAMIRA NO 913, PORTALES</description>
+			<LookAt>
+				<longitude>-99.14118599999564</longitude>
+				<latitude>19.36135799994729</latitude>
+				<altitude>0</altitude>
+				<heading>1.439200993362241e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.000070844209</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.14118599999564,19.36135799994729,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL
+- TLACOQUEMECATL</name>
+			<description>DOCTOR VERTIZ NO 738,NARVARTE</description>
+			<LookAt>
+				<longitude>-99.15114600016341</longitude>
+				<latitude>19.39418900025015</latitude>
+				<altitude>0</altitude>
+				<heading>-5.428729758056003e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000058525493</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.15114600016342,19.39418900025015,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SECUNDARIA GENERAL
+- MIGUEL DE CERVANTES SAAVEDRA</name>
+			<description>ANAXAGORAS NO 324, NARVARTE</description>
+			<LookAt>
+				<longitude>-99.1568090002494</longitude>
+				<latitude>19.39651199998512</latitude>
+				<altitude>0</altitude>
+				<heading>-8.285026889744315e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000301546589</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.1568090002494,19.39651199998512,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SECUNDARIA GENERAL - PROFESOR CARLOS BENITEZ DELORME</name>
+			<description>DOMICILIO:
+RUMANIA NO 701, POSTAL, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.15793399987425</longitude>
+				<latitude>19.39945899998182</latitude>
+				<altitude>0</altitude>
+				<heading>4.176783921564928e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000367580864</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.15793399987425,19.39945899998182,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SECUNDARIA GENERAL - PROFESOR CARLOS BENITEZ DELORME</name>
+			<description>DOMICILIO:
+N H DE CHAPULTEPEC NO 101, POSTAL, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.11620799998021</longitude>
+				<latitude>19.37323399989878</latitude>
+				<altitude>0</altitude>
+				<heading>6.556713475837039e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.000460353437</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.11620799998021,19.37323399989878,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL - GENERAL ANAYA</name>
+			<description>DOMICILIO:
+EMILIO CARRANZA NO 39, ALBERT, EMILIO CARRANZA NO 39	ALBERT</description>
+			<LookAt>
+				<longitude>-99.13112899997033</longitude>
+				<latitude>19.37135700008324</latitude>
+				<altitude>0</altitude>
+				<heading>9.832684797744465e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.000325751636</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.13112899997033,19.37135700008324,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL - PEDRO MARIA ANAYA</name>
+			<description>DOMICILIO:
+ING PASCUAL ORTIZ RUBIO NO 25, SAN SIMON TICUMAN, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.14348527128226</longitude>
+				<latitude>19.37508148413768</latitude>
+				<altitude>0</altitude>
+				<heading>0.3620367926512623</heading>
+				<tilt>0.3458369159972612</tilt>
+				<range>968.1804270569653</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.14348527128226,19.37508148413768,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL - MARIA CURIE SKLODOWSKA</name>
+			<description>DOMICILIO:
+CALLE CARMEN 76 Y PRIM DE MAYO, NATIVITAS, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.13416332367208</longitude>
+				<latitude>19.38172144761967</latitude>
+				<altitude>0</altitude>
+				<heading>0.0003649431388684779</heading>
+				<tilt>0</tilt>
+				<range>523.6117982677246</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.13493672778446,19.38177714338829,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL - PROFR. PONCIANO RODRIGUEZ</name>
+			<description>DOMICILIO:
+MAYORAZGO NO 80, PUEBLO DE XOCO, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.16800499992606</longitude>
+				<latitude>19.36304400004736</latitude>
+				<altitude>0</altitude>
+				<heading>2.45177033313967e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000444348816</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.16800499992607,19.36304400004736,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL - D. I. F.</name>
+			<description>DOMICILIO:
+PROLG XOCHICALCO S/N, PORTALES, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.15396783286194</longitude>
+				<latitude>19.37537721519404</latitude>
+				<altitude>0</altitude>
+				<heading>0.0009968523397246448</heading>
+				<tilt>0</tilt>
+				<range>1245.432507274746</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.15692753374438,19.37475530777664,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL - SILVESTRE REVUELTAS</name>
+			<description>DOMICILIO:
+PRESIDENTES Y DR VERTIZ, PORTALES, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.15432804840079</longitude>
+				<latitude>19.36924440179032</latitude>
+				<altitude>0</altitude>
+				<heading>-0.00168871249406881</heading>
+				<tilt>0</tilt>
+				<range>758.1955563566255</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.15502144958248,19.36883249730696,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL - LIC. LUIS CABRERA</name>
+			<description>DOMICILIO:
+PROLG UXMAL NO 880, SANTA CRUZ ATOYAC, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.15885900004615</longitude>
+				<latitude>19.36980799997181</latitude>
+				<altitude>0</altitude>
+				<heading>-1.530244371119134e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000563194822</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.15885900004616,19.36980799997181,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL - MANUEL CERVANTES IMAZ</name>
+			<description>DOMICILIO:
+NATHAL PESADO NO 8, MIXCOAC, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.18990299988813</longitude>
+				<latitude>19.36881199989823</latitude>
+				<altitude>0</altitude>
+				<heading>3.709321897256826e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000122088247</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.18990299988813,19.36881199989823,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL - LIC. EDUARDO NOVOA</name>
+			<description>DOMICILIO:
+RUMANIA NO 703, PORTALES, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.14550770181765</longitude>
+				<latitude>19.37219887024981</latitude>
+				<altitude>0</altitude>
+				<heading>-1.649316387006425e-011</heading>
+				<tilt>0</tilt>
+				<range>1022.428189855394</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.14550770181765,19.37219887024981,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SECUNDARIA GENERAL - JOSEFA ORTIZ DE DOMINGUEZ</name>
+			<description>DOMICILIO:
+AV COYOACAN Y SAN BORJA, DEL VALLE, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.16699168309243</longitude>
+				<latitude>19.38468025476472</latitude>
+				<altitude>0</altitude>
+				<heading>14.70604589537703</heading>
+				<tilt>0</tilt>
+				<range>967.3659365665179</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.16808617672744,19.38466025838854,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>INTERVENCION TEMPRANA, PREESCOLAR, PRIMARIA Y CAPACITACION LABORAL ESPECIAL - CENTRO DE ATENCION MULTIPLE 88</name>
+			<description>DOMICILIO:
+MITLA Y SERAFIN OLARTE S/N, INDEPENDENCIA, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.15063266206991</longitude>
+				<latitude>19.38056463332736</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0004494699321727209</heading>
+				<tilt>0</tilt>
+				<range>329.4359058116896</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.15102819412455,19.38050365329715,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>INTERVENCION TEMPRANA, PREESCOLAR, PRIMARIA Y CAPACITACION LABORAL ESPECIAL - CENTRO DE ATENCION MULTIPLE 93</name>
+			<description>DOMICILIO:
+NUEVA JERSEY 17, NAPOLES, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.17567429783526</longitude>
+				<latitude>19.38970983388259</latitude>
+				<altitude>0</altitude>
+				<heading>0.0008834122024199767</heading>
+				<tilt>0</tilt>
+				<range>809.6470721530321</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.17806067612652,19.3907087254656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ESCUELA SECUNDARIA TECNICA 14</name>
+			<description>DOMICILIO:
+AV. COYOACAN Y ANGEL URRAZA, DEL VALLE, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.16838599951258</longitude>
+				<latitude>19.38344100012809</latitude>
+				<altitude>0</altitude>
+				<heading>1.617439277711456e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000115276436</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.16838599951258,19.38344100012809,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>INTERVENCION TEMPRANA, PREESCOLAR, PRIMARIA Y CAPACITACION LABORAL ESPECIAL - CENTRO DE ATENCION MULTIPLE 2</name>
+			<description>DOMICILIO:
+CASTILLA NO  148, ALAMOS, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.14226022644706</longitude>
+				<latitude>19.39835609449234</latitude>
+				<altitude>0</altitude>
+				<heading>0.0001722884959552069</heading>
+				<tilt>0</tilt>
+				<range>999.9069358816944</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.14274207373268,19.397658910193,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>INTERVENCION TEMPRANA, PREESCOLAR, PRIMARIA Y CAPACITACION LABORAL ESPECIAL - CENTRO DE ATENCION MULTIPLE 11</name>
+			<description>DOMICILIO:
+EMILIANO ZAPATA NO  300, SANTA CRUZ ATOYAC, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.15743600005661</longitude>
+				<latitude>19.36643699995048</latitude>
+				<altitude>0</altitude>
+				<heading>-1.875970664994219e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000409975267</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.15743600005662,19.36643699995048,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>INTERVENCION TEMPRANA, PREESCOLAR, PRIMARIA Y CAPACITACION LABORAL ESPECIAL - CENTRO DE ATENCION MULTIPLE 39</name>
+			<description>DOMICILIO:
+MORAS 634, DEL VALLE, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.17499600000316</longitude>
+				<latitude>19.36883599977815</latitude>
+				<altitude>0</altitude>
+				<heading>-1.064690679619912e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.000097421551</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.17499600000316,19.36883599977815,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TELESECUNDARIA 122</name>
+			<description>DOMICILIO:
+JUAN SANCHEZ AZCONA NUM 1705, DEL VALLE, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.16588200006601</longitude>
+				<latitude>19.37023600019393</latitude>
+				<altitude>0</altitude>
+				<heading>-2.193350265270759e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000422916933</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.16588200006601,19.37023600019393,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SECUNDARIA GENERAL - ENRIQUE C. OLIVARES</name>
+			<description>DOMICILIO:
+BALSAS NO 918 ESQ MIRAVALLE, MIRAVALLE, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.13834749475669</longitude>
+				<latitude>19.3594679577927</latitude>
+				<altitude>0</altitude>
+				<heading>0.0007480234808383865</heading>
+				<tilt>0</tilt>
+				<range>998.7302237216645</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.14041468658073,19.36046104218824,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SECUNDARIA PARA TRABAJADORES - MARIANO AZUELA</name>
+			<description>DOMICILIO:
+WISCONSIN 110, AMPLIACION NAPOLES, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.17754800001465</longitude>
+				<latitude>19.38516999993446</latitude>
+				<altitude>0</altitude>
+				<heading>-4.867838939979914e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.000062145875</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.17754800001465,19.38516999993446,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL - CHIPRE</name>
+			<description>DOMICILIO:
+PROLG CANARIAS NO 53, SAN SIMON TICUMAN, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.14595500019892</longitude>
+				<latitude>19.37429200028911</latitude>
+				<altitude>0</altitude>
+				<heading>-6.600207561106053e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000066131073</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.14595500019892,19.37429200028911,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SECUNDARIA GENERAL - LEOPOLDO AYALA</name>
+			<description>DOMICILIO:
+GOYA NO 34, INSURGENTES MIXCOAC, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.18587900010495</longitude>
+				<latitude>19.37403100005752</latitude>
+				<altitude>0</altitude>
+				<heading>-3.481872480598666e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000388739838</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.18587900010495,19.37403100005752,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SECUNDARIA GENERAL - TOMAS GARRIGUE MASARYK</name>
+			<description>DOMICILIO:
+AV PRIMERO DE MAYO NO 172 Y CALLE 4, SAN PEDRO DE LOS PINOS, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.18445215885922</longitude>
+				<latitude>19.39060460830009</latitude>
+				<altitude>0</altitude>
+				<heading>0.000870774291372003</heading>
+				<tilt>0</tilt>
+				<range>1002.64988802209</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.18738657950426,19.39067625639373,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TELESECUNDARIA 116</name>
+			<description>DOMICILIO:
+BOLIVAR Y EJE 6 SUR, INDEPENDENCIA, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.14542018993667</longitude>
+				<latitude>19.3793970719957</latitude>
+				<altitude>0</altitude>
+				<heading>0.0004505221441985373</heading>
+				<tilt>0</tilt>
+				<range>499.1948709756597</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.14675968626608,19.37901416695504,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SECUNDARIA PARA TRABAJADORES - MARIANO MIRANDA FONSECA</name>
+			<description>DOMICILIO:
+MITLA Y CUICUILCO, LETRAN VALLE, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.1506421121082</longitude>
+				<latitude>19.37460381628921</latitude>
+				<altitude>0</altitude>
+				<heading>0.0005354068168187565</heading>
+				<tilt>0</tilt>
+				<range>760.8732469941485</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.15210639756995,19.37563887352448,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SECUNDARIA PARA TRABAJADORES - CONSTITUYENTES DE 1917</name>
+			<description>DOMICILIO:
+CALZ TLALPAN Y MUNICIPIO LIBRE, PORTALES, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.14048000481711</longitude>
+				<latitude>19.36778287977892</latitude>
+				<altitude>0</altitude>
+				<heading>0.002929642218534042</heading>
+				<tilt>0</tilt>
+				<range>578.702725163289</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.14197451430982,19.36787162100852,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SECUNDARIA GENERAL - DR. MARTIN LUTHER KING</name>
+			<description>DOMICILIO:
+ELEUTERIO MENDEZ NO 53, SAN SIMON TICUMAN, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.14603500008248</longitude>
+				<latitude>19.37386499993491</latitude>
+				<altitude>0</altitude>
+				<heading>-2.738457580740087e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000105986955</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.14603500008248,19.37386499993491,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SECUNDARIA GENERAL - DIEGO RIVERA</name>
+			<description>DOMICILIO:
+CDA POPOCATEPETL NO 56, PUEBLO DE XOCO, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.16710926790071</longitude>
+				<latitude>19.36465721669221</latitude>
+				<altitude>0</altitude>
+				<heading>9.26734120311432e-012</heading>
+				<tilt>0</tilt>
+				<range>999.9916264879666</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.16710926790071,19.36465721669221,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL - PATRIMONIO NACIONAL</name>
+			<description>DOMICILIO:
+MAGDALENA NO 438, DEL VALLE, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.17196624816951</longitude>
+				<latitude>19.39031916766189</latitude>
+				<altitude>0</altitude>
+				<heading>2.224807048361799e-007</heading>
+				<tilt>0</tilt>
+				<range>1348.804305207182</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.17196624816951,19.39031916766189,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL - CENTRO URBANO PRESIDENTE ALEMAN</name>
+			<description>DOMICILIO:
+AV COYOACAN NO 1328, DEL VALLE, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.17058299999756</longitude>
+				<latitude>19.37311400005866</latitude>
+				<altitude>0</altitude>
+				<heading>7.740674956011833e-013</heading>
+				<tilt>0</tilt>
+				<range>1000.001077860258</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.17058299999756,19.37311400005866,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL - DOCTOR JESUS DIAZ DE LEON</name>
+			<description>DOMICILIO:
+LEONARDO DA VINCI NO 170,MIXCOAC, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.18875321198266</longitude>
+				<latitude>19.37891086130377</latitude>
+				<altitude>0</altitude>
+				<heading>0.000761987465233596</heading>
+				<tilt>0</tilt>
+				<range>1851.360305754462</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.19094796787012,19.37505367384538,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL - AMADO NERVO</name>
+			<description>DOMICILIO:
+BENVENUTO CELLINI NO 21, MIXCOAC, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.19040099999158</longitude>
+				<latitude>19.37620000014069</latitude>
+				<altitude>0</altitude>
+				<heading>2.787756178302772e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.00041240479</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.19040099999158,19.37620000014069,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL - INDEPENDENCIA</name>
+			<description>DOMICILIO:
+CAMPANA NO 57, MIXCOAC, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.18580284011331</longitude>
+				<latitude>19.37503020455108</latitude>
+				<altitude>0</altitude>
+				<heading>5.402266283646485</heading>
+				<tilt>6.83035830560218</tilt>
+				<range>910.1975124574509</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.18567067285837,19.37249843906303,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL - PROFR. FEDERICO HERRERA MARTINEZ</name>
+			<description>DOMICILIO:
+DONATELO NO 49, MIXCOAC, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.18509402656298</longitude>
+				<latitude>19.37482164052546</latitude>
+				<altitude>0</altitude>
+				<heading>0.0002102998748907007</heading>
+				<tilt>0</tilt>
+				<range>1000.68693412616</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.18560951792665,19.37480116581811,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL - HISPANO AMERICA</name>
+			<description>DOMICILIO:
+INDIANA NO 91, NAPOLES, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.17975400010555</longitude>
+				<latitude>19.38896300006456</latitude>
+				<altitude>0</altitude>
+				<heading>-3.504414661903539e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000661634387</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.17975400010555,19.38896300006456,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL - GENERAL FRANCISCO MENENDEZ</name>
+			<description>DOMICILIO:
+CALLE SIETE 54, SAN PEDRO DE LOS PINOS, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.18452300009132</longitude>
+				<latitude>19.39239000012597</latitude>
+				<altitude>0</altitude>
+				<heading>-3.033851596781012e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000070033626</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.1845230000913,19.39239000012597,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL - TLACOQUEMECATL</name>
+			<description>DOMICILIO:
+PATRICIO SANZ NO 1415, TLACOQUEMECATL DEL VALLE, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.17433100008475</longitude>
+				<latitude>19.37528200022841</latitude>
+				<altitude>0</altitude>
+				<heading>-2.813836726690773e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000128171905</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.17433100008475,19.37528200022841,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL CON SERVICIO DE INTERNADO - JERTRUDIS BOCANEGRA DE LAZO DE LA VEGA</name>
+			<description>DOMICILIO:
+ADOLFO PRIETO 1128, DEL VALLE, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.16946499993263</longitude>
+				<latitude>19.38427799981439</latitude>
+				<altitude>0</altitude>
+				<heading>2.235969698002371e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000294035822</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.16946499993263,19.38427799981439,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL - VALENTIN GOMEZ FARIAS</name>
+			<description>DOMICILIO:
+DONATELLO NO 43, MIXCOAC, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.18572799993751</longitude>
+				<latitude>19.374922999852</latitude>
+				<altitude>0</altitude>
+				<heading>2.073483110713103e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000522685666</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.18572799993751,19.374922999852,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL - LUIS GONZALEZ OBREGON</name>
+			<description>DOMICILIO:
+ENRIQUE REXAMEN 8, NARVARTE, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.15845200003916</longitude>
+				<latitude>19.40268200007878</latitude>
+				<altitude>0</altitude>
+				<heading>-1.303272037663194e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000172307123</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.15845200003916,19.40268200007878,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL - SECRETARIA DE PROGRAMACION Y PRESUPUESTO</name>
+			<description>DOMICILIO:
+PESTALOZZI NO 37, NARVARTE, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.15391800038317</longitude>
+				<latitude>19.39407299975161</latitude>
+				<altitude>0</altitude>
+				<heading>-1.272285483679036e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.00074202797</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.15391800038319,19.39407299975161,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL - JOSE MARTI</name>
+			<description>DOMICILIO:
+MIER Y PESADO NO 30, DEL VALLE, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.1637206870374</longitude>
+				<latitude>19.40077206142344</latitude>
+				<altitude>0</altitude>
+				<heading>-8.190286117170221e-011</heading>
+				<tilt>0</tilt>
+				<range>1003.409654151533</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.1637206870374,19.40077206142344,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL - JOSE MARIA MATA</name>
+			<description>DOMICILIO:
+AMORES NO 34,	DEL VALLE, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.16232480711695</longitude>
+				<latitude>19.40004710787351</latitude>
+				<altitude>0</altitude>
+				<heading>5.046477495545518e-006</heading>
+				<tilt>0</tilt>
+				<range>1003.931723645821</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.16232480711696,19.40004710787351,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LACTANTE, MATERNAL Y PREESCOLAR - CENDI SEP NO 03 ESTEFANIA CASTANEDA</name>
+			<description>DOMICILIO:
+AV PRIMERO DE MAYO NO 83, SAN PEDRO DE LOS PINOS, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.1870749057604</longitude>
+				<latitude>19.38703992199523</latitude>
+				<altitude>0</altitude>
+				<heading>0.0001827257216605659</heading>
+				<tilt>0</tilt>
+				<range>892.5030539045735</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.18760133344262,19.38593742909613,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LACTANTE, MATERNAL Y PREESCOLAR - CENDI SEP NO 09 RICARDO GARCIA ZAMUDIO</name>
+			<description>DOMICILIO:
+ANAXAGORAS NO 223, NARVARTE, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.15664399971257</longitude>
+				<latitude>19.39926299984523</latitude>
+				<altitude>0</altitude>
+				<heading>9.546395119479226e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000059321513</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.15664399971257,19.39926299984523,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LACTANTE, MATERNAL Y PREESCOLAR - CENDI SEP NO 11 HELLEN KELLER</name>
+			<description>DOMICILIO:
+ALTAMIRA NO 827, MIRAVALLE, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.14118599970512</longitude>
+				<latitude>19.36132093340137</latitude>
+				<altitude>0</altitude>
+				<heading>2.104139682149059e-010</heading>
+				<tilt>0</tilt>
+				<range>724.1557128885144</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.14126065116282,19.36079456267092,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LACTANTE, MATERNAL Y PREESCOLAR - CENDI SEP NO 13 RABINDRANATH TAGORE</name>
+			<description>DOMICILIO:
+MORENA NO 215, DEL VALLE, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.16475299996853</longitude>
+				<latitude>19.39939400003139</latitude>
+				<altitude>0</altitude>
+				<heading>1.044653185126692e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.00039347725</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.16475299996853,19.39939400003139,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL - INSURGENTES BRAVO</name>
+			<description>DOMICILIO:
+CALLE 3 NO 18,	SAN PEDRO DE LOS PINOS, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.18731299997629</longitude>
+				<latitude>19.38725000022411</latitude>
+				<altitude>0</altitude>
+				<heading>7.860740895237082e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.000006962447</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.18731299997629,19.38725000022411,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL - MAESTRO FEDERICO ALVAREZ</name>
+			<description>DOMICILIO:
+EJE LAZARO CARDENAS NO 720, POSTAL, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.15098733817351</longitude>
+				<latitude>19.36471720993756</latitude>
+				<altitude>0</altitude>
+				<heading>1.180061324996649e-010</heading>
+				<tilt>0</tilt>
+				<range>1004.475361657496</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.15098733817351,19.36471720993756,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL - PEDRO ASCENCIO</name>
+			<description>DOMICILIO:
+LAZARO CARDENAS NO 1110, VERTIZ NARVARTE, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.15191499981238</longitude>
+				<latitude>19.35968499984542</latitude>
+				<altitude>0</altitude>
+				<heading>6.217865131460619e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000659281103</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.15191499981238,19.35968499984542,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL - SANTIAGO R. DE LA VEGA</name>
+			<description>DOMICILIO:
+PROLG BOLIVAR NO 1101, PERIODISTAS, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.14613300003705</longitude>
+				<latitude>19.38240500011318</latitude>
+				<altitude>0</altitude>
+				<heading>-1.229085599718058e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000041827086</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.14613300003705,19.38240500011318,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL - PEDRO ROMERO DE TERREROS</name>
+			<description>DOMICILIO:
+MITLA Y CUICULCO NO 650, LETRAN VALLE, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.15033800015038</longitude>
+				<latitude>19.37679300021053</latitude>
+				<altitude>0</altitude>
+				<heading>-4.990290295216257e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.00004797183</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.15033800015038,19.37679300021053,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL - REPUBLICA DE TUNEZ</name>
+			<description>DOMICILIO:
+TRES ZAPOTES NO 81, LETRAN VALLE, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.15155499983851</longitude>
+				<latitude>19.37586999975802</latitude>
+				<altitude>0</altitude>
+				<heading>5.358081687193995e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000011631621</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.15155499983851,19.37586999975802,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL - LIBERTADORES DE AMERICA</name>
+			<description>DOMICILIO:
+ANGEL URRAZA NO 233, INDEPENDENCIA, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.14983299991283</longitude>
+				<latitude>19.3795630004515</latitude>
+				<altitude>0</altitude>
+				<heading>2.891959101054221e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000377846351</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.14983299991283,19.3795630004515,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL - JONAS EDWARD SALK</name>
+			<description>DOMICILIO:
+ROMERO Y 5 DE FEBRERO, AMERICAS UNIDAS, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.14118300000014</longitude>
+				<latitude>19.38439299993678</latitude>
+				<altitude>0</altitude>
+				<heading>-4.094964152384277e-014</heading>
+				<tilt>0</tilt>
+				<range>1000.000138498165</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.14118300000014,19.38439299993678,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL - HEROES DEL 47</name>
+			<description>DOMICILIO:
+MIGUEL NEGRETE NO 10, NATIVITAS, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.12375392971461</longitude>
+				<latitude>19.4338679365153</latitude>
+				<altitude>0</altitude>
+				<heading>1.767927222464903e-010</heading>
+				<tilt>0</tilt>
+				<range>1005.108763423831</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.12375392971461,19.4338679365153,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- MAESTRO ERNESTO ALCONEDO</name>
+			<description>DOMICILIO:
+ADOLFO PRIETO NO 1365, DEL VALLE, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.17156999990654</longitude>
+				<latitude>19.37724899991993</latitude>
+				<altitude>0</altitude>
+				<heading>3.099927620288416e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000171678636</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.17156999990654,19.37724899991993,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL - LAOS</name>
+			<description>DOMICILIO:
+ZEMPOALA NO 300, NARVARTE, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.14955699996014</longitude>
+				<latitude>19.38231299987892</latitude>
+				<altitude>0</altitude>
+				<heading>1.320327762142542e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000458579601</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.14955699996014,19.38231299987892,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LACTANTE, MATERNAL Y PREESCOLAR
+- CENDI SEP NO 16 JEAN PIAGET</name>
+			<description>DOMICILIO:
+SARATOGA NO 910, PORTALES, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.15217699993805</longitude>
+				<latitude>19.36232999997151</latitude>
+				<altitude>0</altitude>
+				<heading>2.055274435161725e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000705928926</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.15217699993805,19.36232999997151,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- DR. MARIANO AZUELA</name>
+			<description>DOMICILIO:
+DR BARRAGAN NO 815, NARVARTE, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.14788199976222</longitude>
+				<latitude>19.39208299994078</latitude>
+				<altitude>0</altitude>
+				<heading>7.892506685118198e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000399147997</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.14788199976222,19.39208299994078,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- JOSE JOAQUIN TERRAZAS</name>
+			<description>DOMICILIO:
+REEMBOLSOS NO 44, POSTAL, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.14095500021226</longitude>
+				<latitude>19.39032700033322</latitude>
+				<altitude>0</altitude>
+				<heading>-7.046876709184085e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.00052013505</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.14095500021226,19.39032700033322,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- ANGEL ALBINO CORZO</name>
+			<description>DOMICILIO:
+BOLIVAR NO 628, ALAMOS, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.14139299836887</longitude>
+				<latitude>19.41318600110164</latitude>
+				<altitude>0</altitude>
+				<heading>-1.949284716547163e-007</heading>
+				<tilt>0</tilt>
+				<range>1001.14852058963</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.14139299836889,19.41318600110164,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- JESUS GONZALEZ ORTEGA</name>
+			<description>DOMICILIO:
+PRIMERO DE MAYO Y ELISA NO 74, NATIVITAS, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.13690724338713</longitude>
+				<latitude>19.38136672725585</latitude>
+				<altitude>0</altitude>
+				<heading>0.0005438004273904813</heading>
+				<tilt>0</tilt>
+				<range>918.1938524832152</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.13829651782285,19.38211830221271,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL - JUAN MONTALVO</name>
+			<description>DOMICILIO:
+MIGUEL ANGEL Y NAPOLEON, MODERNA, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.13533900008882</longitude>
+				<latitude>19.39535599979973</latitude>
+				<altitude>0</altitude>
+				<heading>-2.948413946650199e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000237938304</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.13533900008882,19.39535599979973,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL - REPUBLICA DE PARAGUAY</name>
+			<description>DOMICILIO:
+CHARCO AZUL Y MIGUEL CABRERA, MIXCOAC, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.18921003527831</longitude>
+				<latitude>19.37086281115111</latitude>
+				<altitude>0</altitude>
+				<heading>3.978928516317004e-005</heading>
+				<tilt>0</tilt>
+				<range>690.6275978605513</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.18960988609291,19.37031990055212,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- ENRIQUE DE OLAVARRIA Y FERRARI</name>
+			<description>DOMICILIO:
+AV REVOLUCION NO 906, MIXCOAC, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.18777595573334</longitude>
+				<latitude>19.37603974601934</latitude>
+				<altitude>0</altitude>
+				<heading>4.678897408767689e-005</heading>
+				<tilt>0</tilt>
+				<range>1000.666923598204</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.18752090962876,19.37678713869665,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRIMARIA GENERAL
+- PRESIDENTE MIGUEL ALEMAN</name>
+			<description>DOMICILIO:
+LAZARO CARDENAS NO 726, POSTAL, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.15086199999855</longitude>
+				<latitude>19.36516099992682</latitude>
+				<altitude>0</altitude>
+				<heading>4.651561221640392e-013</heading>
+				<tilt>0</tilt>
+				<range>1000.000774941422</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.15086199999855,19.36516099992682,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PREESCOLAR GENERAL CON SERVICIO ASISTENCIAL
+- TENOCHTITLAN</name>
+			<description>DOMICILIO:
+SAN FRANCISCO NO 1717, DEL VALLE, DELEGACION BENITO JUAREZ, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.17632899990008</longitude>
+				<latitude>19.37030600003953</latitude>
+				<altitude>0</altitude>
+				<heading>3.312229645276107e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000024244775</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.17632899990008,19.37030600003953,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SECUNDARIA GENERAL
+- LUIS PASTEUR</name>
+			<description>DOMICILIO:
+PLAN DE AYALA Y HERMINIO CHAVARRIA, SANTA MARIA AZTAHUACAN, DELEGACION IZTAPALAPA, MEXICO DF.</description>
+			<LookAt>
+				<longitude>-99.03319272175573</longitude>
+				<latitude>19.35618616620345</latitude>
+				<altitude>0</altitude>
+				<heading>-2.741783314344779e-005</heading>
+				<tilt>0</tilt>
+				<range>1104.176985751431</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin601</styleUrl>
+			<Point>
+				<coordinates>-99.03258874951229,19.35595823186925,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
