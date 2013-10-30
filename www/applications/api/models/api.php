@@ -16,7 +16,7 @@ class Api_Model extends ZP_Model {
 	
 	
 	public function getHeatMapDensity($xmin, $ymin, $xmax, $ymax) {
-		$query  = "SELECT ST_AsGeoJSON(geom) as polygon from population_density where ST_Overlaps(ST_MakeEnvelope";
+		$query  = "SELECT ST_AsGeoJSON(geom) as polygon, densidad from population_density where ST_Overlaps(ST_MakeEnvelope";
 		$query .= "($xmin,$ymin,$xmax,$ymax, 4326), geom) or ST_Contains(ST_MakeEnvelope";
 		$query .= "($xmin,$ymin,$xmax,$ymax, 4326), geom);";
 
@@ -24,7 +24,21 @@ class Api_Model extends ZP_Model {
 		
 		if(!$data) return false;
 		
-		return $data;
+		$geojson = '{';
+		$geojson .='type": "FeatureCollection",';
+		$geojson .='"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },';
+		$geojson .='"features": ["';
+		
+		foreach($data as $key=> $value) {
+			$geojson .= '{ "type": "Feature", "properties": { "densidad": ' . $value["densidad"]. ' },';
+			$geojson .= '"geometry": ' . $value["polygon"];
+			$geojson .= '},';
+		}
+		
+		$geojson .= ']';
+		$geojson .=  '}';
+		
+		return $geojson;
 	}
 	
 	//Default method - parameter table
