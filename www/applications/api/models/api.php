@@ -35,7 +35,8 @@ class Api_Model extends ZP_Model {
 			$geojson .= '},<br/>';
 		}
 		
-		$geojson  = rtrim($geojson, ",");
+		$geojson  = rtrim($geojson, ",<br/>");
+		$geojson .= '<br/>';
 		$geojson .= ']<br/>';
 		$geojson .=  '}';
 	
