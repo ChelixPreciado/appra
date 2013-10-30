@@ -16,19 +16,13 @@ class Api_Model extends ZP_Model {
 	
 	
 	public function getHeatMapDensity($xmin, $ymin, $xmax, $ymax) {
-		$query  = "SELECT ST_AsGeoJSON(geom) from population_density where ST_Overlaps(ST_MakeEnvelope";
+		$query  = "SELECT ST_AsGeoJSON(geom) as polygon from population_density where ST_Overlaps(ST_MakeEnvelope";
 		$query .= "($xmin,$ymin,$xmax,$ymax, 4326), geom) or ST_Contains(ST_MakeEnvelope";
 		$query .= "($xmin,$ymin,$xmax,$ymax, 4326), geom);";
 
 		$data = $this->Db->query($query);
 		
-		die(var_dump($data));
 		if(!$data) return false;
-
-		foreach($data as $key=> $value) {
-			$data[$key]["title"] = utf8_decode(ucfirst(strtolower($value["title"])));
-			$data[$key]["descr"] = utf8_decode(ucfirst(strtolower($value["descr"])));
-		}
 		
 		return $data;
 	}
