@@ -8,17 +8,10 @@ if(!defined("_access")) {
 
 $routes = array(
 	0 => array(
-		"pattern"	  => "/^schools/",
+		"pattern"	  => "/^api/",
 		"application" => "api",
 		"controller"  => "api",
-		"method"	  => "getNearSchools",
-		"params"	  => array(segment(1), segment(2), segment(3))
-	),
-	1 => array(
-		"pattern"	  => "/^tianguis/",
-		"application" => "api",
-		"controller"  => "api",
-		"method"	  => "getNearTianguis",
+		"method"	  => "getNearResults",
 		"params"	  => array(segment(1), segment(2), segment(3))
 	)
 );

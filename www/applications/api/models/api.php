@@ -49,6 +49,7 @@ class Api_Model extends ZP_Model {
 		return $data;
 	}
 	
+	//Default method - parameter table
 	public function defaultQuery($xmin, $ymin, $xmax, $ymax, $table = "schools") {
 		$query  = "SELECT lat, lon, title, descr from $table ";
 		$query .= "where st_contains(ST_MakeEnvelope($xmin,$ymin,$xmax,$ymax, 4326)";
