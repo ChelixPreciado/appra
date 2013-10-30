@@ -25,8 +25,8 @@ class Api_Model extends ZP_Model {
 		if(!$data) return false;
 		
 		foreach($data as $key=> $value) {
-			$data[$key]["title"] = utf8_decode(strtolower($value["title"]));
-			$data[$key]["descr"] = utf8_decode(strtolower($value["descr"]));
+			$data[$key]["title"] = utf8_decode(ucfirst(strtolower($value["title"])));
+			$data[$key]["descr"] = utf8_decode(ucfirst(strtolower($value["descr"])));
 		}
 		
 		return $data;
