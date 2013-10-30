@@ -23,11 +23,11 @@ class Api_Controller extends ZP_Controller {
 	
 	public function getNearSchools($geom1 = false, $geom2 = false) {
 		if($geom1 and $geom2) {
-			$explode1 = explode(",", $geom1);
-			$explode2 = explode(",", $geom2);
+			$geom1 = explode(",", $geom1);
+			$geom2 = explode(",", $geom2);
 			
-			if(count($explode1) == 2 and count($explode2) == 2) {
-				$vars["results"] = $this->Api_Model->getNearSchools($explode1[0], $explode1[1], $explode2[0], $explode2[1]);
+			if(count($geom1) == 2 and count($geom2) == 2) {
+				$vars["results"] = $this->Api_Model->getNearSchools($geom1[0], $geom1[1], $geom2[0], $geom2[1]);
 				
 				echo json_encode($vars);
 			}
