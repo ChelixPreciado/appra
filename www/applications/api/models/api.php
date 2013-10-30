@@ -24,20 +24,19 @@ class Api_Model extends ZP_Model {
 		
 		if(!$data) return false;
 		
-		$geojson = '{<br/>';
-		$geojson .='type": "FeatureCollection",<br/>';
-		$geojson .='"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },<br/>';
-		$geojson .='"features": ["<br/>';
+		$geojson = '{';
+		$geojson .='type": "FeatureCollection",';
+		$geojson .='"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },';
+		$geojson .='"features": ["';
 		
 		foreach($data as $key=> $value) {
 			$geojson .= '{ "type": "Feature", "properties": { "densidad": ' . $value["densidad"]. ' },';
 			$geojson .= '"geometry": ' . $value["polygon"];
-			$geojson .= '},<br/>';
+			$geojson .= '},';
 		}
 		
-		$geojson  = rtrim($geojson, ",<br/>");
-		$geojson .= '<br/>';
-		$geojson .= ']<br/>';
+		$geojson  = rtrim($geojson, ",");
+		$geojson .= ']';
 		$geojson .=  '}';
 	
 		return $geojson;
