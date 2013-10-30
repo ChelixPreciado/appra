@@ -21,7 +21,7 @@ class Api_Controller extends ZP_Controller {
 		$this->render("content", $vars);
 	}
 	
-	public function getNearSchools($geom1 = false, $geom2 = false) {
+	public function getNearSchools($geom1 = false, $geom2 = false, $layers = false) {
 		if($geom1 and $geom2) {
 			$geom1 = explode(",", $geom1);
 			$geom2 = explode(",", $geom2);
@@ -34,13 +34,20 @@ class Api_Controller extends ZP_Controller {
 		}
 	}
 	
-	public function getNearTianguis($geom1 = false, $geom2 = false) {
+	public function getNearTianguis($geom1 = false, $geom2 = false, $layers = false) {
 		if($geom1 and $geom2) {
-			$geom1 = explode(",", $geom1);
-			$geom2 = explode(",", $geom2);
+			$geom1  = explode(",", $geom1);
+			$geom2  = explode(",", $geom2);
+			$layers = explode(",", $layers);
 			
 			if(count($geom1) == 2 and count($geom2) == 2) {
 				$vars["results"] = $this->Api_Model->defaultQuery($geom1[0], $geom1[1], $geom2[0], $geom2[1], "tianguis");
+				
+				if(is_array($layers)) {
+					foreach($layers as $layer) {
+						$vars[$layer] = $this->Api_Model->defaultQuery($geom1[0], $geom1[1], $geom2[0], $geom2[1], $layer);
+					}
+				}
 				
 				echo json_encode($vars);
 			}
