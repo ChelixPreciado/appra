@@ -20,7 +20,7 @@ class Api_Model extends ZP_Model {
 		$query .= "where st_contains(ST_MakeEnvelope($xmin,$ymin,$xmax,$ymax, 4326)";
 		$query .= ", the_geom);";
 		
-		$data  = $this->Db->query($query);
+		$data = $this->Db->query($query);
 		
 		if(!$data) return false;
 		
