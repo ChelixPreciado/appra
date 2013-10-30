@@ -26,16 +26,11 @@ class Api_Controller extends ZP_Controller {
 			$explode1 = explode(",", $geom1);
 			$explode2 = explode(",", $geom2);
 			
-		
-			
 			if(count($explode1) == 2 and count($explode2) == 2) {
-					die(var_dump($explode1[0]));
-				$vars["agency"] = $this->Api_Model->getAgency($idAgency);
-				$vars["routes"] = $this->Api_Model->getStopsByAgency($idAgency);
+				$vars["results"] = $this->Api_Model->getNearSchools($explode1[0], $explode1[1], $explode2[0], $explode2[1]);
 				
 				echo json_encode($vars);
 			}
 		}
-		
 	}
 }

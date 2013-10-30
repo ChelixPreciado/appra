@@ -22,7 +22,10 @@ class Api_Model extends ZP_Model {
 		
 		$data  = $this->Db->query($query);
 		
+		die(var_dump($query));
 		if(!$data) return false;
+		
+		die(var_dump($data));
 		
 		foreach($data as $key=> $value) {
 			$stops = $this->getArray($value["stop_id"]);
