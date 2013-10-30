@@ -22,30 +22,11 @@ class Api_Model extends ZP_Model {
 		
 		$data  = $this->Db->query($query);
 		
-		die(var_dump($query));
 		if(!$data) return false;
 		
-		die(var_dump($data));
-		
 		foreach($data as $key=> $value) {
-			$stops = $this->getArray($value["stop_id"]);
-			
-			foreach($stops as $stopValue) {
-				$stop 				   = $this->getStopsReport($stopValue);
-				$data[$key]["stops"][] = $stop;	
-			}
-			
-			$data[$key]["title"] 	 = utf8_decode($value["title"]);
-			$data[$key]["descr"] 	 = utf8_decode($value["descr"]);
-			$data[$key]["category"]  = utf8_decode($value["category"]);
-			
-			if($value["counter"] == 0) {
-				$data[$key]["counter"] = "0";
-			} elseif($value["counter"] == 1) {
-				$data[$key]["counter"] = "1";
-			}
-			
-			unset($data[$key]["stop_id"]);
+			$data[$key]["title"] = utf8_decode(strtolower($value["title"]));
+			$data[$key]["descr"] = utf8_decode(strtolower($value["descr"]));
 		}
 		
 		return $data;
