@@ -21,7 +21,7 @@ class Api_Controller extends ZP_Controller {
 		$this->render("content", $vars);
 	}
 	
-	public function schools($geom1 = false, $geom2 = false) {
+	public function getNearSchools($geom1 = false, $geom2 = false) {
 		if($geom1 and $geom2) {
 			$explode1 = explode(",", $geom1);
 			$explode2 = explode(",", $geom2);
