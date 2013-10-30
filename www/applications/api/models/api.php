@@ -27,7 +27,7 @@ class Api_Model extends ZP_Model {
 		$geojson = '{';
 		$geojson .='"type": "FeatureCollection",';
 		$geojson .='"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },';
-		$geojson .='"features": ["';
+		$geojson .='"features": [';
 		
 		foreach($data as $key=> $value) {
 			$geojson .= '{ "type": "Feature", "properties": { "densidad": ' . $value["densidad"]. ' },';
