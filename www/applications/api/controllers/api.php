@@ -27,7 +27,20 @@ class Api_Controller extends ZP_Controller {
 			$geom2 = explode(",", $geom2);
 			
 			if(count($geom1) == 2 and count($geom2) == 2) {
-				$vars["results"] = $this->Api_Model->getNearSchools($geom1[0], $geom1[1], $geom2[0], $geom2[1]);
+				$vars["results"] = $this->Api_Model->defaultQuery($geom1[0], $geom1[1], $geom2[0], $geom2[1], "schools");
+				
+				echo json_encode($vars);
+			}
+		}
+	}
+	
+	public function getNearTianguis($geom1 = false, $geom2 = false) {
+		if($geom1 and $geom2) {
+			$geom1 = explode(",", $geom1);
+			$geom2 = explode(",", $geom2);
+			
+			if(count($geom1) == 2 and count($geom2) == 2) {
+				$vars["results"] = $this->Api_Model->defaultQuery($geom1[0], $geom1[1], $geom2[0], $geom2[1], "tianguis");
 				
 				echo json_encode($vars);
 			}

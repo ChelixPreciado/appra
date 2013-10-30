@@ -31,4 +31,38 @@ class Api_Model extends ZP_Model {
 		
 		return $data;
 	}
+	
+	public function getNearTianguis($xmin, $ymin, $xmax, $ymax) {
+		$query  = "SELECT lat, lon, title, descr from schools ";
+		$query .= "where st_contains(ST_MakeEnvelope($xmin,$ymin,$xmax,$ymax, 4326)";
+		$query .= ", the_geom);";
+		
+		$data = $this->Db->query($query);
+		
+		if(!$data) return false;
+		
+		foreach($data as $key=> $value) {
+			$data[$key]["title"] = utf8_decode(ucfirst(strtolower($value["title"])));
+			$data[$key]["descr"] = utf8_decode(ucfirst(strtolower($value["descr"])));
+		}
+		
+		return $data;
+	}
+	
+	public function defaultQuery($xmin, $ymin, $xmax, $ymax, $table = "schools") {
+		$query  = "SELECT lat, lon, title, descr from $table ";
+		$query .= "where st_contains(ST_MakeEnvelope($xmin,$ymin,$xmax,$ymax, 4326)";
+		$query .= ", the_geom);";
+		
+		$data = $this->Db->query($query);
+		
+		if(!$data) return false;
+		
+		foreach($data as $key=> $value) {
+			$data[$key]["title"] = utf8_decode(ucfirst(strtolower($value["title"])));
+			$data[$key]["descr"] = utf8_decode(ucfirst(strtolower($value["descr"])));
+		}
+		
+		return $data;
+	}
 }

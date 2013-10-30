@@ -13,5 +13,12 @@ $routes = array(
 		"controller"  => "api",
 		"method"	  => "getNearSchools",
 		"params"	  => array(segment(1), segment(2))
+	),
+	1 => array(
+		"pattern"	  => "/^tianguis/",
+		"application" => "api",
+		"controller"  => "api",
+		"method"	  => "getNearTianguis",
+		"params"	  => array(segment(1), segment(2))
 	)
 );
