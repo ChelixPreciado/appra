@@ -26,9 +26,10 @@ class Api_Controller extends ZP_Controller {
 			$explode1 = explode(",", $geom1);
 			$explode2 = explode(",", $geom2);
 			
-			die(var_dump($explode1));
+		
 			
 			if(count($explode1) == 2 and count($explode2) == 2) {
+					die(var_dump($explode1[0]));
 				$vars["agency"] = $this->Api_Model->getAgency($idAgency);
 				$vars["routes"] = $this->Api_Model->getStopsByAgency($idAgency);
 				
