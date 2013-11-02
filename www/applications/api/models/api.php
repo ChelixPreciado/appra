@@ -32,6 +32,7 @@ class Api_Model extends ZP_Model {
 			}
 			
 			$data[$key]["address"] = utf8_decode($value["address"]);
+			$data[$key]["fields"]  = explode("," utf8_decode($value["fields"]));
 		}
 		
 		return $data;
