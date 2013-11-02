@@ -14,7 +14,24 @@ class Api_Model extends ZP_Model {
 		$this->helpers();
 	}
 	
+	//Get Records [Apartaments-Home] [Rent-Sell]
+	public function getRecords($xmin, $ymin, $xmax, $ymax, $filters = false) {
+		$query  = "SELECT id_record, lat, lon, address, amount, type, operation from records ";
+		$query .= "where st_contains(ST_MakeEnvelope($xmin,$ymin,$xmax,$ymax, 4326)";
+		$query .= ", the_geom);";
+		
+		$data = $this->Db->query($query);
+		
+		if(!$data) return false;
+		
+		foreach($data as $key=> $value) {
+			$data[$key]["address"] = utf8_decode(ucfirst(strtolower($value["title"])));
+		}
+		
+		return $data;
+	}
 	
+	//Heat Map Density
 	public function getHeatMapDensity($xmin, $ymin, $xmax, $ymax) {
 		$query  = "SELECT ST_AsGeoJson((ST_Dump(geom)).geom) as polygon, densidad from population_density where ST_Overlaps(ST_MakeEnvelope";
 		$query .= "($xmin,$ymin,$xmax,$ymax, 4326), geom) or ST_Contains(ST_MakeEnvelope";
