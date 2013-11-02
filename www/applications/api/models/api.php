@@ -25,8 +25,7 @@ class Api_Model extends ZP_Model {
 		if(!$data) return false;
 		
 		foreach($data as $key=> $value) {
-			die(var_dump($data[$key]["type"]));
-			if($data[$key]["type"] == 1) {
+			if($data[$key]["type"] == true) {
 				$data[$key]["type"] == "1";
 			} elseif($data[$key]["type"] == 0) {
 				$data[$key]["type"] == "0";
