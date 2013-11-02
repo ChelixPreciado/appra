@@ -26,9 +26,9 @@ class Api_Model extends ZP_Model {
 		
 		foreach($data as $key=> $value) {
 			if($data[$key]["type"] == true) {
-				$data[$key]["type"] == "1";
+				$data[$key]["type"] = "1";
 			} elseif($data[$key]["type"] == 0) {
-				$data[$key]["type"] == "0";
+				$data[$key]["type"] = "0";
 			}
 			
 			$data[$key]["address"] = utf8_decode($value["address"]);
