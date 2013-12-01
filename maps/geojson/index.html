@@ -54,8 +54,16 @@ $.ajax({
 		console.log(d);
 		
 		var density = d.density;
-        var heatmap = L.geoJson(density).addTo(map);
-        
+        var heatmap = L.geoJson(density, {
+			style: function(feature) {
+				console.log(feature);
+				switch (feature.properties.party) {
+					case 'Republican': return {color: "#ff0000"};
+					case 'Democrat':   return {color: "#0000ff"};
+				}
+			}
+		}).addTo(map);
+				
        /*
         L.marker([38, -102], {
             icon: L.mapbox.marker.icon({
