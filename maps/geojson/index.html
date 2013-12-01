@@ -55,15 +55,28 @@ $.ajax({
 		
 		var density = d.density;
         var heatmap = L.geoJson(density, {
-			style: function(feature) {
-				console.log(feature);
-				switch (feature.properties.party) {
-					case 'Republican': return {color: "#ff0000"};
-					case 'Democrat':   return {color: "#0000ff"};
+			style: function(feature) {	
+				"weight": 5,
+				"opacity": 0.65,
+				switch (feature.properties.densidad) {
+					case (> 1 and < 1000): return {color: "#ff0000"};
 				}
 			}
 		}).addTo(map);
-				
+		
+		/*
+		line-color:#594;
+		line-width:0.5;
+		polygon-opacity:0.9;
+
+		[densidad > -1] [densidad < 1000] { polygon-fill:#ffebd6; }
+		[densidad > 999] [densidad < 2000] { polygon-fill:#f5cbae; }
+		[densidad > 1999] [densidad < 5000] { polygon-fill:#eba988; }
+		[densidad > 4999] [densidad < 10000] { polygon-fill:#e08465; }
+		[densidad > 9999] [densidad < 20000] { polygon-fill:#d65d45; }
+		[densidad > 19999] [densidad < 30000] { polygon-fill:#cc3527; }
+		[densidad > 29999] { polygon-fill:#c40a0a; }
+		*/
        /*
         L.marker([38, -102], {
             icon: L.mapbox.marker.icon({
