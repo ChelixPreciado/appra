@@ -41,8 +41,8 @@ $.ajax({
     contentType: "application/json; charset=utf-8",
     success: function load(d) {	
 		
-		L.marker([bounds._northEast.lat, bounds._northEast.lng]).addTo(map);
-		L.marker([bounds._southWest.lat, bounds._southWest.lng]).addTo(map);
+		L.marker([bounds._southWest.lat, bounds._northEast.lng]).addTo(map);
+		L.marker([bounds._northEast.lat, bounds._southWest.lng]).addTo(map);
 		
 		/*HeatMap*/	
 		var density = d.density;
