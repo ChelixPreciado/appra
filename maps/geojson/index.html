@@ -52,7 +52,9 @@ $.ajax({
     dataType: 'json',
     success: function load(d) {
 		console.log(d);
-        var states = L.geoJson(d).addTo(map);
+		
+		var density = d.density;
+        var states  = L.geoJson(density).addTo(map);
         L.marker([38, -102], {
             icon: L.mapbox.marker.icon({
                 'marker-color': '#f22'
