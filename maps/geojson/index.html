@@ -59,23 +59,29 @@ $.ajax({
 				if(densidad > 29999) return { weight: 0, color: "#c40a0a" };
 			}
 		}).addTo(map);
-		
-		var schoolIcon = L.icon({
-			iconUrl: 'icons/school-24.png',
-			iconSize: [24, 24]
-		});
 			
 		/*Schools*/
+		var schoolIcon = L.icon({
+			iconUrl: 'icons/school-24.png',
+			iconRetinaUrl: 'icons/school-24@2x.png',
+			iconSize: [24, 24]
+		});
+		
 		var schools = d.schools;
 		for (x in schools) {
 			L.marker([schools[x].lat, schools[x].lon], {icon: schoolIcon}).addTo(map).bindPopup(schools[x].title);
 		}
 		
-		/*Schools*/
+		/*Tianguis*/
+		var tianguisIcon = L.icon({
+			iconUrl: 'icons/grocery-24.png',
+			iconRetinaUrl: 'icons/grocery-24@2x.png',
+			iconSize: [24, 24]
+		});
+		
 		var tianguis = d.tianguis;
 		for (x in tianguis) {
-			console.log(tianguis[x]);
-			L.marker([tianguis[x].lat, tianguis[x].lon]).addTo(map).bindPopup(tianguis[x].title);
+			L.marker([tianguis[x].lat, tianguis[x].lon], {icon: tianguisIcon}).addTo(map).bindPopup(tianguis[x].title);
 		}
 		
 		
