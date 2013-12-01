@@ -81,7 +81,7 @@ $.ajax({
 				if(densidad > 4999  && densidad < 10000) return { weight: 0, color: "#e08465" };
 				if(densidad > 9999  && densidad < 20000) return { weight: 0, color: "#d65d45" };
 				if(densidad > 19999 && densidad < 30000) return { weight: 0, color: "#cc3527" };
-				if(densidad > 29999) return {color: "#c40a0a"};
+				if(densidad > 29999) return { opacity: 0.9, weight: 0, color: "#c40a0a" s};
 			}
 		}).addTo(map);
 
