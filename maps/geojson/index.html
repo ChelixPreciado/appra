@@ -68,7 +68,7 @@ $.ajax({
 		/*Schools*/
 		var tianguis = d.tianguis;
 		for (x in tianguis) {
-			L.marker([tianguis[x].lat, tianguis[x].lon]).addTo(map).bindPopup(unescape(encodeURIComponent(tianguis[x].title)));
+			L.marker([tianguis[x].lat, tianguis[x].lon]).addTo(map).bindPopup(decodeURIComponent(escape(tianguis[x].title)));
 		}
 		
 		
