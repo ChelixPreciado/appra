@@ -57,7 +57,6 @@ $.ajax({
 				"opacity" : 0.9,
 				"color"   : function(feature) {
 					densidad = feature.properties.densidad;
-					console.log(densidad);
 					if(densidad > -1    && densidad < 1000)  return "#ffebd6";
 					if(densidad > 999   && densidad < 2000)  return "#f5cbae";
 					if(densidad > 1999  && densidad < 5000)  return "#eba988";
