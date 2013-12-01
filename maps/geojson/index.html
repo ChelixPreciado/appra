@@ -31,14 +31,18 @@
 <div id='state'></div>
 
 <script>
-var map = L.mapbox.map('map', 'examples.map-9ijuk24y').setView([19.4297430000517, -99.1283830003488], 14);
-console.log(map.getBounds());
+var map    = L.mapbox.map('map', 'examples.map-9ijuk24y').setView([19.4297430000517, -99.1283830003488], 14);
+var bounds = map.getBounds();
+console.log(bounds._northEast.lat);
 
 $.ajax({
     url: '/appra/index.php/api/19.41940874098225,-99.1420153900981/19.448908052669548,-99.12025429308414/tianguis,schools,density',
     dataType: 'json',
     contentType: "application/json; charset=utf-8",
     success: function load(d) {	
+		
+		L.marker([bounds._northEast.lat, bounds._northEast.lng]).addTo(map);
+		L.marker([bounds._southWest.lat, bounds._southWest.lng]).addTo(map);
 		
 		/*HeatMap*/	
 		var density = d.density;
