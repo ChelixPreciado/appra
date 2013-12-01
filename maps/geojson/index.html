@@ -62,23 +62,12 @@ $.ajax({
 		/*Schools*/
 		var schools = d.schools;
 		for (x in schools) {
-			L.marker([schools[x].lat, schools[x].lon]).addTo(map)
-				.bindPopup(schools[x].title)
-				.openPopup();
+			L.marker([schools[x].lat, schools[x].lon]).addTo(map).bindPopup(schools[x].title);
 		}
 		
-		/*
-        L.marker([38, -102], {
-            icon: L.mapbox.marker.icon({
-                'marker-color': '#f22'
-            }),
-            draggable: true
-        }).addTo(map)
-        .on('dragend', function(e) {
-            var layer = leafletPip.pointInLayer(this.getLatLng(), states, true);
-            document.getElementById('state').innerHTML = layer.length ?
-                layer[0].feature.properties.name : '';
-        });
+		
+		/*Marker popup Open
+			L.marker([schools[x].lat, schools[x].lon]).addTo(map).bindPopup(schools[x].title).openPopup();
         */
     }
 });
