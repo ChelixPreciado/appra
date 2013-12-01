@@ -50,27 +50,10 @@ var map = L.mapbox.map('map', 'examples.map-9ijuk24y')
 $.ajax({
     url: '/appra/index.php/api/19.335286999585545,-99.17621288448572/19.348596275044994,-99.16640035808086/tianguis,schools,density',
     dataType: 'json',
-    success: function load(d) {		
-		var density = d.density;
-        
-        /*
-        var heatmap = L.geoJson(density, {
-			style : { 
-				"opacity" : 0.9,
-				"color"   : function(feature) {
-					densidad = feature.properties.densidad;
-					if(densidad > -1    && densidad < 1000)  return "#ffebd6";
-					if(densidad > 999   && densidad < 2000)  return "#f5cbae";
-					if(densidad > 1999  && densidad < 5000)  return "#eba988";
-					if(densidad > 4999  && densidad < 10000) return "#e08465";
-					if(densidad > 9999  && densidad < 20000) return "#d65d45";
-					if(densidad > 19999 && densidad < 30000) return "#cc3527";
-					if(densidad > 29999) return "#c40a0a";
-				}
-			}
-		}).addTo(map);
-		*/
+    success: function load(d) {	
 		
+		/*HeatMap*/	
+		var density = d.density;
 		var heatmap =  L.geoJson(density, {
 			style: function(feature) {
 				densidad = feature.properties.densidad;
@@ -81,23 +64,10 @@ $.ajax({
 				if(densidad > 4999  && densidad < 10000) return { weight: 0, color: "#e08465" };
 				if(densidad > 9999  && densidad < 20000) return { weight: 0, color: "#d65d45" };
 				if(densidad > 19999 && densidad < 30000) return { weight: 0, color: "#cc3527" };
-				if(densidad > 29999) return { opacity: 0.9, weight: 0, color: "#c40a0a" };
+				if(densidad > 29999) return { weight: 0, color: "#c40a0a" };
 			}
 		}).addTo(map);
 
-		/*
-		line-color:#594;
-		line-width:0.5;
-		polygon-opacity:0.9;
-
-		[densidad > -1] [densidad < 1000] { polygon-fill:#ffebd6; }
-		[densidad > 999] [densidad < 2000] { polygon-fill:#f5cbae; }
-		[densidad > 1999] [densidad < 5000] { polygon-fill:#eba988; }
-		[densidad > 4999] [densidad < 10000] { polygon-fill:#e08465; }
-		[densidad > 9999] [densidad < 20000] { polygon-fill:#d65d45; }
-		[densidad > 19999] [densidad < 30000] { polygon-fill:#cc3527; }
-		[densidad > 29999] { polygon-fill:#c40a0a; }
-		*/
        /*
         L.marker([38, -102], {
             icon: L.mapbox.marker.icon({
