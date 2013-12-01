@@ -55,7 +55,21 @@ $.ajax({
 				if(densidad > 29999) return { weight: 0, color: "#c40a0a" };
 			}
 		}).addTo(map);
-			
+		
+		
+		/*Results*/
+		var resultIcon = L.icon({
+			iconUrl: 'icons/rocket-24@2x.png',
+			iconRetinaUrl: 'icons/rocket-24@2x.png',
+			iconSize: [48, 48]
+		});
+		
+		var results = d.results;
+		for (x in results) {
+			L.marker([results[x].lat, results[x].lon], {icon: resultIcon}).addTo(map).bindPopup(results[x].address);
+		}
+		
+		
 		/*Schools*/
 		var schoolIcon = L.icon({
 			iconUrl: 'icons/school-24.png',
@@ -79,7 +93,6 @@ $.ajax({
 		for (x in tianguis) {
 			L.marker([tianguis[x].lat, tianguis[x].lon], {icon: tianguisIcon}).addTo(map).bindPopup(tianguis[x].title);
 		}
-		
 		
 		/*Marker popup Open
 			L.marker([schools[x].lat, schools[x].lon]).addTo(map).bindPopup(schools[x].title).openPopup();
