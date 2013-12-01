@@ -41,6 +41,7 @@ var map = L.mapbox.map('map', 'examples.map-9ijuk24y').setView([19.4297430000517
 $.ajax({
     url: '/appra/index.php/api/19.41940874098225,-99.1420153900981/19.448908052669548,-99.12025429308414/tianguis,schools,density',
     dataType: 'json',
+    contentType: "application/json; charset=utf-8",
     success: function load(d) {	
 		
 		/*HeatMap*/	
@@ -68,7 +69,8 @@ $.ajax({
 		/*Schools*/
 		var tianguis = d.tianguis;
 		for (x in tianguis) {
-			L.marker([tianguis[x].lat, tianguis[x].lon]).addTo(map).bindPopup(decodeURIComponent(escape(tianguis[x].title)));
+			console.log(tianguis[x]);
+			L.marker([tianguis[x].lat, tianguis[x].lon]).addTo(map).bindPopup(tianguis[x].title);
 		}
 		
 		
