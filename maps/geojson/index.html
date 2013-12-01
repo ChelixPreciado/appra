@@ -45,7 +45,7 @@ Select all
 <div id='state'></div>
 <script>
 var map = L.mapbox.map('map', 'examples.map-9ijuk24y')
-    .setView([19.335286999585545,-99.17621288448572], 12);
+    .setView([19.335286999585545,-99.17621288448572], 15);
 
 $.ajax({
     url: '/appra/index.php/api/19.335286999585545,-99.17621288448572/19.348596275044994,-99.16640035808086/tianguis,schools,density',
@@ -54,7 +54,9 @@ $.ajax({
 		console.log(d);
 		
 		var density = d.density;
-        var states  = L.geoJson(density).addTo(map);
+        var heatmap = L.geoJson(density).addTo(map);
+        
+       /*
         L.marker([38, -102], {
             icon: L.mapbox.marker.icon({
                 'marker-color': '#f22'
@@ -66,6 +68,7 @@ $.ajax({
             document.getElementById('state').innerHTML = layer.length ?
                 layer[0].feature.properties.name : '';
         });
+        */
     }
 });
 </script>
