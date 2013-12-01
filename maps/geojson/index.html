@@ -31,7 +31,7 @@
 <div id='state'></div>
 
 <script>
-var map = L.mapbox.map('map', 'examples.map-9ijuk24y').setView([19.335286999585545,-99.17621288448572], 15);
+var map = L.mapbox.map('map', 'examples.map-9ijuk24y').setView([19.4297430000517, -99.1283830003488], 14);
 
 // 19.33694,-99.224832/19.357065,-99.262723
 // 19.41940874098225,-99.1420153900981/19.448908052669548,-99.12025429308414
@@ -62,7 +62,9 @@ $.ajax({
 		/*Schools*/
 		var schools = d.schools;
 		for (x in schools) {
-			console.log(schools[x]);
+			L.marker([schools[x].lat, schools[x].lon]).addTo(map)
+				.bindPopup(schools[x].title)
+				.openPopup();
 		}
 		
 		/*
