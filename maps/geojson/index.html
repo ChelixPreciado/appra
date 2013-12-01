@@ -48,7 +48,7 @@ var map = L.mapbox.map('map', 'examples.map-9ijuk24y')
     .setView([38, -102.0], 5);
 
 $.ajax({
-    url: 'http://107.22.236.217/appra/index.php/api/19.335286999585545,-99.17621288448572/19.348596275044994,-99.16640035808086',
+    url: 'http://107.22.236.217/appra/index.php/api/19.335286999585545,-99.17621288448572/19.348596275044994,-99.16640035808086/tianguis,schools,density',
     dataType: 'json',
     success: function load(d) {
 		console.log(d);
