@@ -62,13 +62,13 @@ $.ajax({
 		/*Schools*/
 		var schools = d.schools;
 		for (x in schools) {
-			L.marker([schools[x].lat, schools[x].lon]).addTo(map).bindPopup(schools[x].title);
+			//L.marker([schools[x].lat, schools[x].lon]).addTo(map).bindPopup(schools[x].title);
 		}
 		
 		/*Schools*/
 		var tianguis = d.tianguis;
 		for (x in tianguis) {
-			L.marker([tianguis[x].lat, tianguis[x].lon]).addTo(map).bindPopup(tianguis[x].title);
+			L.marker([tianguis[x].lat, tianguis[x].lon]).addTo(map).bindPopup(unescape(encodeURIComponent(tianguis[x].title)));
 		}
 		
 		
