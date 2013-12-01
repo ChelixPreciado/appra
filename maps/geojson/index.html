@@ -60,10 +60,15 @@ $.ajax({
 			}
 		}).addTo(map);
 		
+		var schoolIcon = L.icon({
+			iconUrl: 'icons/school-24.png',
+			iconSize: [24, 24]
+		});
+			
 		/*Schools*/
 		var schools = d.schools;
 		for (x in schools) {
-			//L.marker([schools[x].lat, schools[x].lon]).addTo(map).bindPopup(schools[x].title);
+			L.marker([schools[x].lat, schools[x].lon], {icon: schoolIcon}).addTo(map).bindPopup(schools[x].title);
 		}
 		
 		/*Schools*/
