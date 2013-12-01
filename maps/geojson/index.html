@@ -56,11 +56,11 @@ $.ajax({
 		var density = d.density;
         var heatmap = L.geoJson(density, {
 			style : { 
-				"weight": 5,
-				"opacity": 0.65,
-				function(feature) {	
+				"weight"  : 5,
+				"opacity" : 0.65,
+				"color"   : function(feature) {	
 					switch (feature.properties.densidad) {
-						case (> 1 and < 1000): return {color: "#ff0000"};
+						case (> 1 and < 1000): return "#ff0000";
 					}
 				}
 			}
