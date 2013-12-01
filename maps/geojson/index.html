@@ -50,24 +50,21 @@ var map = L.mapbox.map('map', 'examples.map-9ijuk24y')
 $.ajax({
     url: '/appra/index.php/api/19.335286999585545,-99.17621288448572/19.348596275044994,-99.16640035808086/tianguis,schools,density',
     dataType: 'json',
-    success: function load(d) {
-		console.log(d);
-		
+    success: function load(d) {		
 		var density = d.density;
         var heatmap = L.geoJson(density, {
 			style : { 
-				"weight"  : 5,
-				"opacity" : 0.65,
+				"opacity" : 0.9,
 				"color"   : function(feature) {
 					densidad = feature.properties.densidad;
 					console.log(densidad);
-					if(densidad > 29999) return "#c40a0a";
-					if(densidad > 19999 && densidad < 30000) return "#cc3527";
-					if(densidad > 9999  && densidad < 20000) return "#d65d45";
-					if(densidad > 4999  && densidad < 10000) return "#e08465";
-					if(densidad > 1999  && densidad < 5000)  return "#eba988";
-					if(densidad > 999   && densidad < 2000)  return "#f5cbae";
 					if(densidad > -1    && densidad < 1000)  return "#ffebd6";
+					if(densidad > 999   && densidad < 2000)  return "#f5cbae";
+					if(densidad > 1999  && densidad < 5000)  return "#eba988";
+					if(densidad > 4999  && densidad < 10000) return "#e08465";
+					if(densidad > 9999  && densidad < 20000) return "#d65d45";
+					if(densidad > 19999 && densidad < 30000) return "#cc3527";
+					if(densidad > 29999) return "#c40a0a";
 				}
 			}
 		}).addTo(map);
