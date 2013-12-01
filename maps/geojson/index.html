@@ -65,6 +65,12 @@ $.ajax({
 			L.marker([schools[x].lat, schools[x].lon]).addTo(map).bindPopup(schools[x].title);
 		}
 		
+		/*Schools*/
+		var tianguis = d.tianguis;
+		for (x in tianguis) {
+			L.marker([tianguis[x].lat, tianguis[x].lon]).addTo(map).bindPopup(tianguis[x].title);
+		}
+		
 		
 		/*Marker popup Open
 			L.marker([schools[x].lat, schools[x].lon]).addTo(map).bindPopup(schools[x].title).openPopup();
