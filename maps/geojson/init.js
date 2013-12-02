@@ -7,12 +7,15 @@ var tianguisGroup = new L.LayerGroup();
 
 map.on('movestart',       function (e) { removeLayers(); });
 map.on('moveend',         function (e) { getResults(map.getBounds()); });
+
+/*
 map.on('dragstart',       function (e) { console.log('    [ dragstart'); });
 map.on('dragend',         function (e) { console.log('    ] dragend'); });
 map.on('zoomstart',       function (e) { console.log('    ( zoomstart'); });
 map.on('zoomend',         function (e) { console.log('    ) zoomend'); });
 map.on('viewreset',       function (e) { console.log('      viewreset'); });
 map.on('autopanstart',    function (e) { console.log('      autopanstart'); });
+*/
 
 function removeLayers() {
 	$(".loading").show();
