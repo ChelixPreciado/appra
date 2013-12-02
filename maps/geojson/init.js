@@ -6,7 +6,7 @@ var schoolsGroup  = new L.LayerGroup();
 var tianguisGroup = new L.LayerGroup();
 
 map.on('movestart',       function (e) { removeLayers(); });
-map.on('moveend',         function (e) { console.log(e);  getResults(map.getBounds()); });
+map.on('moveend',         function (e) { console.log(e.target._animateToZoom);  getResults(map.getBounds()); });
 /*
 map.on('dragstart',       function (e) { console.log('    [ dragstart'); });
 map.on('dragend',         function (e) { console.log('    ] dragend'); });
