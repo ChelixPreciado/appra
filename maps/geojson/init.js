@@ -15,6 +15,8 @@ map.on('viewreset',       function (e) { console.log('      viewreset'); });
 map.on('autopanstart',    function (e) { console.log('      autopanstart'); });
 
 function removeLayers() {
+	$(".loading").show();
+	
 	densityGroup.clearLayers();
 	schoolsGroup.clearLayers();
 	tianguisGroup.clearLayers();
