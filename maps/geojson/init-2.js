@@ -94,8 +94,8 @@ function getResults(bounds, zoom) {
 				
 				/*Schools*/
 				var schoolIcon = L.icon({
-					iconUrl: 'icons/school-24.png',
-					iconRetinaUrl: 'icons/school-24@2x.png',
+					iconUrl: 'icons/college-24.png',
+					iconRetinaUrl: 'icons/college-24@2x.png',
 					iconSize: [24, 24]
 				});
 				
