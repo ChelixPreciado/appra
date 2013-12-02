@@ -1,7 +1,7 @@
 var map     = L.mapbox.map('map', 'examples.map-9ijuk24y').setView([19.4297430000517, -99.1283830003488], 14);
 var bounds  = map.getBounds();
-var heatmap = "";
 
+var densityGroup  = new L.LayerGroup();
 var schoolsGroup  = new L.LayerGroup();
 var tianguisGroup = new L.LayerGroup();
 
@@ -15,7 +15,7 @@ map.on('viewreset',       function (e) { console.log('      viewreset'); });
 map.on('autopanstart',    function (e) { console.log('      autopanstart'); });
 
 function removeLayers() {
-	map.removeLayer(heatmap);
+	densityGroup.clearLayers();
 	schoolsGroup.clearLayers();
 	tianguisGroup.clearLayers();
 }
@@ -29,7 +29,7 @@ function getResults(bounds) {
 			
 			/*HeatMap*/	
 			var density = d.density;
-			heatmap =  L.geoJson(density, {
+			var heatmap =  L.geoJson(density, {
 				style: function(feature) {
 					densidad = feature.properties.densidad;
 					
@@ -41,8 +41,10 @@ function getResults(bounds) {
 					if(densidad > 19999 && densidad < 30000) return { weight: 0, color: "#cc3527" };
 					if(densidad > 29999) return { weight: 0, color: "#c40a0a" };
 				}
-			}).addTo(map);
+			});
 			
+			densityGroup.addLayer(heatmap);
+			densityGroup.addTo(map);
 			
 			/*Results*/
 			var resultIcon = L.icon({
