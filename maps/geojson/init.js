@@ -1,4 +1,4 @@
-var map     = L.mapbox.map('map', 'examples.map-9ijuk24y').setView([19.4297430000517, -99.1283830003488], 16);
+var map     = L.mapbox.map('map', 'examples.map-9ijuk24y').setView([19.4297430000517, -99.1283830003488], 15);
 var bounds  = map.getBounds();
 
 var densityGroup  = new L.LayerGroup();
@@ -25,7 +25,7 @@ function removeLayers() {
 }
  
 function getResults(bounds, zoom) {
-	if(zoom > 16) {
+	if(zoom > 14) {
 		$(".loading").show();
 		
 		$.ajax({
@@ -34,6 +34,7 @@ function getResults(bounds, zoom) {
 			contentType: "application/json; charset=utf-8",
 			success: function load(d) {	
 				$(".loading").hide();
+				
 				/*HeatMap*/	
 				var density = d.density;
 				var heatmap =  L.geoJson(density, {
@@ -103,10 +104,12 @@ function getResults(bounds, zoom) {
 				tianguisGroup.addTo(map);
 			}
 		});
+	} else {
+		$(".loading").hide();
 	}
 }
 
 $(document).ready( function () {
 	$(".loading").hide();
-	getResults(bounds, 16);
+	getResults(bounds, 15);
 });
