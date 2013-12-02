@@ -68,23 +68,23 @@ function getResults(bounds, zoom) {
 				
 				/*Results*/
 				var resultIcon = L.icon({
-					iconUrl: 'icons/rocket-24.png',
-					iconRetinaUrl: 'icons/rocket-24@2x.png',
-					iconSize: [24, 24]
+					iconUrl: 'icons/home-32.png',
+					iconRetinaUrl: 'icons/home-32.png',
+					iconSize: [32, 32]
 				});
 				
 				var results = d.results;
 				
 				if(zoom > 16) {
 					for (x in results) {
-						marker = L.marker([results[x].lat, results[x].lon]).bindPopup(results[x].address);
+						marker = L.marker([results[x].lat, results[x].lon], {icon: resultIcon}).bindPopup(results[x].address);
 						resultsGroup.addLayer(marker);
 					}
 					
 					resultsGroup.addTo(map);
 				} else {
 					for (x in results) {
-						marker = L.marker([results[x].lat, results[x].lon]).bindPopup(results[x].address);
+						marker = L.marker([results[x].lat, results[x].lon], {icon: resultIcon}).bindPopup(results[x].address);
 						markersResults.addLayer(marker);
 					}
 					
