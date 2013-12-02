@@ -87,9 +87,6 @@ function getResults(bounds, zoom) {
 				
 				schoolsGroup.addTo(map);
 				
-				
-				
-				
 				/*Tianguis*/
 				var tianguisIcon = L.icon({
 					iconUrl: 'icons/grocery-24.png',
