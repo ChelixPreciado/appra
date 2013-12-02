@@ -1,5 +1,6 @@
-var map    = L.mapbox.map('map', 'examples.map-9ijuk24y').setView([19.4297430000517, -99.1283830003488], 14);
-var bounds = map.getBounds();
+var map     = L.mapbox.map('map', 'examples.map-9ijuk24y').setView([19.4297430000517, -99.1283830003488], 14);
+var bounds  = map.getBounds();
+var heatmap = "";
 
 map.on('movestart',       function (e) { removeLayers(); });
 map.on('moveend',         function (e) { getResults(map.getBounds()); });
@@ -22,7 +23,7 @@ function getResults(bounds) {
 		success: function load(d) {	
 			/*HeatMap*/	
 			var density = d.density;
-			var heatmap =  L.geoJson(density, {
+			heatmap =  L.geoJson(density, {
 				style: function(feature) {
 					densidad = feature.properties.densidad;
 					
