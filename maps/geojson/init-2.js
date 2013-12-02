@@ -53,13 +53,13 @@ function getResults(bounds, zoom) {
 					style: function(feature) {
 						densidad = feature.properties.densidad;
 						
-						if(densidad > -1    && densidad < 1000)  return { fillOpacity: 0.9, opacity: 0.9, weight: 0, color: "#ffebd6" };
-						if(densidad > 999   && densidad < 2000)  return { fillOpacity: 0.9, opacity: 0.9, weight: 0, color: "#f5cbae" };
-						if(densidad > 1999  && densidad < 5000)  return { fillOpacity: 0.9, opacity: 0.9, weight: 0, color: "#eba988" };
-						if(densidad > 4999  && densidad < 10000) return { fillOpacity: 0.9, opacity: 0.9, weight: 0, color: "#e08465" };
-						if(densidad > 9999  && densidad < 20000) return { fillOpacity: 0.9, opacity: 0.9, weight: 0, color: "#d65d45" };
-						if(densidad > 19999 && densidad < 30000) return { fillOpacity: 0.9, opacity: 0.9, weight: 0, color: "#cc3527" };
-						if(densidad > 29999) return { fillOpacity: 0.9, opacity: 1, weight: 0, color: "#c40a0a" };
+						if(densidad > -1    && densidad < 1000)  return { fillOpacity: 0.7, opacity: 0.9, weight: 0, color: "#ffebd6" };
+						if(densidad > 999   && densidad < 2000)  return { fillOpacity: 0.7, opacity: 0.9, weight: 0, color: "#f5cbae" };
+						if(densidad > 1999  && densidad < 5000)  return { fillOpacity: 0.7, opacity: 0.9, weight: 0, color: "#eba988" };
+						if(densidad > 4999  && densidad < 10000) return { fillOpacity: 0.7, opacity: 0.9, weight: 0, color: "#e08465" };
+						if(densidad > 9999  && densidad < 20000) return { fillOpacity: 0.7, opacity: 0.9, weight: 0, color: "#d65d45" };
+						if(densidad > 19999 && densidad < 30000) return { fillOpacity: 0.7, opacity: 0.9, weight: 0, color: "#cc3527" };
+						if(densidad > 29999) return { fillOpacity: 0.7, opacity: 0.9, weight: 0, color: "#c40a0a" };
 					}
 				});
 				
