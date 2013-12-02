@@ -1,10 +1,8 @@
 var map     = L.mapbox.map('map', 'examples.map-9ijuk24y').setView([19.4297430000517, -99.1283830003488], 15);
 var bounds  = map.getBounds();
 
-
-
-var baseLayer  = L.mapbox.tileLayer('examples.map-y7l23tes');
-var otherLayer = L.mapbox.tileLayer('examples.map-9ijuk24y');
+var baseLayer  = L.mapbox.tileLayer('examples.map-9ijuk24y');
+var otherLayer = L.mapbox.tileLayer('examples.map-y7l23tes');
 
 var baseLayers = {
 	"Base" : baseLayer,
