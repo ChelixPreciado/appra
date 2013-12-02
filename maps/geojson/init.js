@@ -58,6 +58,8 @@ function getResults(bounds) {
 			}
 			*/
 			
+			
+			
 			/*Schools*/
 			var schoolIcon = L.icon({
 				iconUrl: 'icons/school-24.png',
@@ -71,6 +73,11 @@ function getResults(bounds) {
 				schoolsGroup.addLayer(marker);
 			}
 			
+			schoolsGroup.addTo(map);
+			
+			
+			
+			
 			/*Tianguis*/
 			var tianguisIcon = L.icon({
 				iconUrl: 'icons/grocery-24.png',
@@ -80,9 +87,11 @@ function getResults(bounds) {
 			
 			var tianguis = d.tianguis;
 			for (x in tianguis) {
-				L.marker([tianguis[x].lat, tianguis[x].lon], {icon: tianguisIcon}).addTo(map).bindPopup(tianguis[x].title);
+				marker = L.marker([tianguis[x].lat, tianguis[x].lon], {icon: tianguisIcon}).addTo(map).bindPopup(tianguis[x].title);
 				tianguisGroup.addLayer(marker);
 			}
+			
+			tianguisGroup.addTo(map);
 		}
 	});
 }
