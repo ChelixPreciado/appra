@@ -4,6 +4,7 @@ var bounds  = map.getBounds();
 var densityGroup  = new L.LayerGroup();
 var schoolsGroup  = new L.LayerGroup();
 var tianguisGroup = new L.LayerGroup();
+var resultsGroup  = new L.LayerGroup();
 
 map.on('movestart',       function (e) { removeLayers(); });
 map.on('moveend',         function (e) { getResults(map.getBounds(), e.target._zoom); });
@@ -19,6 +20,7 @@ map.on('autopanstart',    function (e) { console.log('      autopanstart'); });
 function removeLayers() {
 	$(".loading").show();
 	
+	resultsGroup.clearLayers();
 	densityGroup.clearLayers();
 	schoolsGroup.clearLayers();
 	tianguisGroup.clearLayers();
@@ -61,13 +63,13 @@ function getResults(bounds, zoom) {
 					iconSize: [24, 24]
 				});
 				
-				/*
 				var results = d.results;
 				for (x in results) {
-					L.marker([results[x].lat, results[x].lon], {icon: resultIcon}).addTo(map).bindPopup(results[x].address);
+					marker = L.marker([results[x].lat, results[x].lon], {icon: resultIcon}).bindPopup(results[x].address);
+					resultsGroup.addLayer(marker);
 				}
-				*/
 				
+				resultsGroup.addTo(map);
 				
 				
 				/*Schools*/
