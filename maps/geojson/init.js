@@ -1,11 +1,10 @@
 var map     = L.mapbox.map('map', 'examples.map-9ijuk24y').setView([19.4297430000517, -99.1283830003488], 15);
 var bounds  = map.getBounds();
 
-var densityGroup   = new L.LayerGroup();
-var schoolsGroup   = new L.LayerGroup();
-var tianguisGroup  = new L.LayerGroup();
-var resultsGroup   = new L.LayerGroup();
-var markersResults = new L.MarkerClusterGroup();
+var densityGroup  = new L.LayerGroup();
+var schoolsGroup  = new L.LayerGroup();
+var tianguisGroup = new L.LayerGroup();
+var resultsGroup  = new L.LayerGroup();
 
 map.on('movestart',       function (e) { removeLayers(); });
 map.on('moveend',         function (e) { getResults(map.getBounds(), e.target._zoom); });
@@ -22,7 +21,6 @@ function removeLayers() {
 	$(".loading").show();
 	
 	resultsGroup.clearLayers();
-	markersResults.clearLayers();
 	densityGroup.clearLayers();
 	schoolsGroup.clearLayers();
 	tianguisGroup.clearLayers();
@@ -68,10 +66,10 @@ function getResults(bounds, zoom) {
 				var results = d.results;
 				for (x in results) {
 					marker = L.marker([results[x].lat, results[x].lon], {icon: resultIcon}).bindPopup(results[x].address);
-					markersResults.addLayer(marker);
+					resultsGroup.addLayer(marker);
 				}
 				
-				markersResults.addTo(map);
+				resultsGroup.addTo(map);
 				
 				
 				/*Schools*/
