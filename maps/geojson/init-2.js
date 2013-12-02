@@ -5,7 +5,7 @@ var densityGroup   = new L.LayerGroup();
 var schoolsGroup   = new L.LayerGroup();
 var tianguisGroup  = new L.LayerGroup();
 var resultsGroup   = new L.LayerGroup();
-var markersResults = new L.MarkerClusterGroup({ disableClusteringAtZoom: 16 });
+var markersResults = new L.MarkerClusterGroup({ disableClusteringAtZoom: 17 });
 
 map.on('movestart',       function (e) { removeLayers(); });
 map.on('moveend',         function (e) { getResults(map.getBounds(), e.target._zoom); });
@@ -67,16 +67,16 @@ function getResults(bounds, zoom) {
 				
 				var results = d.results;
 				
-				if(zoom > 15) {
+				if(zoom > 16) {
 					for (x in results) {
-						marker = L.marker([results[x].lat, results[x].lon], {icon: resultIcon}).bindPopup(results[x].address);
+						marker = L.marker([results[x].lat, results[x].lon]).bindPopup(results[x].address);
 						resultsGroup.addLayer(marker);
 					}
 					
 					resultsGroup.addTo(map);
 				} else {
 					for (x in results) {
-						marker = L.marker([results[x].lat, results[x].lon], {icon: resultIcon}).bindPopup(results[x].address);
+						marker = L.marker([results[x].lat, results[x].lon]).bindPopup(results[x].address);
 						markersResults.addLayer(marker);
 					}
 					
