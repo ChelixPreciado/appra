@@ -71,7 +71,7 @@ class Api_Model extends ZP_Model {
 		$query  = "SELECT lat, lon, title, descr from $table ";
 		$query .= "where st_contains(ST_MakeEnvelope($xmin,$ymin,$xmax,$ymax, 4326)";
 		$query .= ", the_geom) limit 100;";
-		
+		die(var_dump($query));
 		$data = $this->Db->query($query);
 		
 		if(!$data) return false;
