@@ -21,9 +21,12 @@
 				padding:10px;
 				z-index:999;
 			}
+			
+			.loading { z-index:2; position:absolute; top:48%; left:48%; width:64px; height:64px; background-image:url('icons/loading-3.gif');}
 		</style>
 	</head>
-	<body>	
+	<body>
+		<span class="loading"></span>
 		<div id='map'></div>
 		<script src='leaflet-pip.js'></script>
 		<script src='init.js'></script>
