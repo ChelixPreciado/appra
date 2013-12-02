@@ -41,7 +41,7 @@ function getResults(bounds, zoom) {
 		$(".loading").show();
 		
 		$.ajax({
-			url: '/appra/index.php/api/'+bounds._southWest.lat+','+bounds._northEast.lng+'/'+bounds._northEast.lat+','+bounds._southWest.lng+'/tianguis,schools,density',
+			url: '/appra/index.php/api/'+bounds._southWest.lat+','+bounds._northEast.lng+'/'+bounds._northEast.lat+','+bounds._southWest.lng+'/malls,tianguis,schools,density',
 			dataType: 'json',
 			contentType: "application/json; charset=utf-8",
 			success: function load(d) {	
