@@ -68,9 +68,9 @@ function getResults(bounds, zoom) {
 				
 				/*Results*/
 				var resultIcon = L.icon({
-					iconUrl: 'icons/home-32.png',
-					iconRetinaUrl: 'icons/home-32.png',
-					iconSize: [32, 32]
+					iconUrl: 'icons/home-26.png',
+					iconRetinaUrl: 'icons/home-26.png',
+					iconSize: [26, 26]
 				});
 				
 				var results = d.results;
