@@ -66,12 +66,22 @@ function getResults(bounds, zoom) {
 				});
 				
 				var results = d.results;
-				for (x in results) {
-					marker = L.marker([results[x].lat, results[x].lon], {icon: resultIcon}).bindPopup(results[x].address);
-					markersResults.addLayer(marker);
-				}
 				
-				markersResults.addTo(map);
+				if(zoom > 15) {
+					for (x in results) {
+						marker = L.marker([results[x].lat, results[x].lon], {icon: resultIcon}).bindPopup(results[x].address);
+						resultsGroup.addLayer(marker);
+					}
+					
+					resultsGroup.addTo(map);
+				} else {
+					for (x in results) {
+						marker = L.marker([results[x].lat, results[x].lon], {icon: resultIcon}).bindPopup(results[x].address);
+						markersResults.addLayer(marker);
+					}
+					
+					markersResults.addTo(map);
+				}
 				
 				
 				/*Schools*/
