@@ -7,7 +7,7 @@ var tianguisGroup = new L.LayerGroup();
 
 map.on('movestart',       function (e) { removeLayers(); });
 map.on('moveend',         function (e) { getResults(map.getBounds()); });
-map.on('zoomstart',       function (e) { console.log(e); });
+map.on('zoomstart',         function (e) { console.log(e); });
 /*
 map.on('dragstart',       function (e) { console.log('    [ dragstart'); });
 map.on('dragend',         function (e) { console.log('    ] dragend'); });
@@ -28,7 +28,6 @@ function removeLayers() {
 function getResults(bounds) {
 	$(".loading").show();
 	
-	if()
 	$.ajax({
 		url: '/appra/index.php/api/'+bounds._southWest.lat+','+bounds._northEast.lng+'/'+bounds._northEast.lat+','+bounds._southWest.lng+'/tianguis,schools,density',
 		dataType: 'json',
