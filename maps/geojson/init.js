@@ -25,6 +25,7 @@ function removeLayers() {
 }
  
 function getResults(bounds, zoom) {
+	console.log(zoom);
 	if(zoom > 14) {
 		$(".loading").show();
 		
