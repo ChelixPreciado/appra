@@ -77,14 +77,14 @@ function getResults(bounds, zoom) {
 				
 				if(zoom > 16) {
 					for (x in results) {
-						marker = L.marker([results[x].lat, results[x].lon], {icon: resultIcon}).bindPopup(results[x].address);
+						marker = L.marker([results[x].lat, results[x].lon]).bindPopup(results[x].address);
 						resultsGroup.addLayer(marker);
 					}
 					
 					resultsGroup.addTo(map);
 				} else {
 					for (x in results) {
-						marker = L.marker([results[x].lat, results[x].lon], {icon: resultIcon}).bindPopup(results[x].address);
+						marker = L.marker([results[x].lat, results[x].lon]).bindPopup(results[x].address);
 						markersResults.addLayer(marker);
 					}
 					
