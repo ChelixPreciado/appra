@@ -2,6 +2,9 @@ var map     = L.mapbox.map('map', 'examples.map-9ijuk24y').setView([19.429743000
 var bounds  = map.getBounds();
 var heatmap = "";
 
+var schoolsGroup  = new L.LayerGroup();
+var tianguisGroup = new L.LayerGroup();
+
 map.on('movestart',       function (e) { removeLayers(); });
 map.on('moveend',         function (e) { getResults(map.getBounds()); });
 map.on('dragstart',       function (e) { console.log('    [ dragstart'); });
@@ -13,6 +16,9 @@ map.on('autopanstart',    function (e) { console.log('      autopanstart'); });
 
 function removeLayers() {
 	map.removeLayer(heatmap);
+	schoolGroup.clearLayers();
+	tianguisGroup.clearLayers();
+	tianguisGroup
 }
  
 function getResults(bounds) {
@@ -21,6 +27,7 @@ function getResults(bounds) {
 		dataType: 'json',
 		contentType: "application/json; charset=utf-8",
 		success: function load(d) {	
+			
 			/*HeatMap*/	
 			var density = d.density;
 			heatmap =  L.geoJson(density, {
@@ -61,8 +68,11 @@ function getResults(bounds) {
 			
 			var schools = d.schools;
 			for (x in schools) {
-				L.marker([schools[x].lat, schools[x].lon], {icon: schoolIcon}).addTo(map).bindPopup(schools[x].title);
+				marker = L.marker([schools[x].lat, schools[x].lon], {icon: schoolIcon}).bindPopup(schools[x].title);
+				schoolsGroup.addLayer(marker);
 			}
+			
+			schoolsGroup.addTo(map);
 			
 			/*Tianguis*/
 			var tianguisIcon = L.icon({
@@ -74,6 +84,7 @@ function getResults(bounds) {
 			var tianguis = d.tianguis;
 			for (x in tianguis) {
 				L.marker([tianguis[x].lat, tianguis[x].lon], {icon: tianguisIcon}).addTo(map).bindPopup(tianguis[x].title);
+				tianguisGroup.addLayer(marker);
 			}
 		}
 	});
