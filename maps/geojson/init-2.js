@@ -1,6 +1,8 @@
 var map     = L.mapbox.map('map', 'examples.map-9ijuk24y').setView([19.4297430000517, -99.1283830003488], 15);
 var bounds  = map.getBounds();
 
+
+//Base Layers
 var baseLayer   = L.mapbox.tileLayer('examples.map-9ijuk24y');
 var otherLayer1 = L.mapbox.tileLayer('caarloshugo.gedde4dk');
 var otherLayer2 = L.mapbox.tileLayer('examples.map-y7l23tes');
@@ -13,6 +15,8 @@ var baseLayers = {
 
 L.control.layers(baseLayers).addTo(map);
 
+
+//Layer Groups
 var densityGroup   = new L.LayerGroup();
 var schoolsGroup   = new L.LayerGroup();
 var tianguisGroup  = new L.LayerGroup();
@@ -21,14 +25,6 @@ var markersResults = new L.MarkerClusterGroup({ disableClusteringAtZoom: 17 });
 
 map.on('movestart',       function (e) { removeLayers(); });
 map.on('moveend',         function (e) { getResults(map.getBounds(), e.target._zoom); });
-/*
-map.on('dragstart',       function (e) { console.log('    [ dragstart'); });
-map.on('dragend',         function (e) { console.log('    ] dragend'); });
-map.on('zoomstart',       function (e) { console.log('    ( zoomstart'); });
-map.on('zoomend',         function (e) { console.log('    ) zoomend'); });
-map.on('viewreset',       function (e) { console.log('      viewreset'); });
-map.on('autopanstart',    function (e) { console.log('      autopanstart'); });
-*/
 
 function removeLayers() {
 	$(".loading").show();
