@@ -16,9 +16,8 @@ map.on('autopanstart',    function (e) { console.log('      autopanstart'); });
 
 function removeLayers() {
 	map.removeLayer(heatmap);
-	schoolGroup.clearLayers();
+	schoolsGroup.clearLayers();
 	tianguisGroup.clearLayers();
-	tianguisGroup
 }
  
 function getResults(bounds) {
@@ -71,8 +70,6 @@ function getResults(bounds) {
 				marker = L.marker([schools[x].lat, schools[x].lon], {icon: schoolIcon}).bindPopup(schools[x].title);
 				schoolsGroup.addLayer(marker);
 			}
-			
-			schoolsGroup.addTo(map);
 			
 			/*Tianguis*/
 			var tianguisIcon = L.icon({
