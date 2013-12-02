@@ -5,7 +5,7 @@ var densityGroup   = new L.LayerGroup();
 var schoolsGroup   = new L.LayerGroup();
 var tianguisGroup  = new L.LayerGroup();
 var resultsGroup   = new L.LayerGroup();
-var markersResults = new L.MarkerClusterGroup();
+var markersResults = new L.MarkerClusterGroup({ disableClusteringAtZoom: 16 });
 
 map.on('movestart',       function (e) { removeLayers(); });
 map.on('moveend',         function (e) { getResults(map.getBounds(), e.target._zoom); });
