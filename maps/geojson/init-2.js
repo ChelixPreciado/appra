@@ -20,6 +20,7 @@ L.control.layers(baseLayers).addTo(map);
 var densityGroup   = new L.LayerGroup();
 var schoolsGroup   = new L.LayerGroup();
 var tianguisGroup  = new L.LayerGroup();
+var mallsGroup     = new L.LayerGroup();
 var resultsGroup   = new L.LayerGroup();
 var markersResults = new L.MarkerClusterGroup({ disableClusteringAtZoom: 18 });
 
@@ -34,6 +35,7 @@ function removeLayers() {
 	densityGroup.clearLayers();
 	schoolsGroup.clearLayers();
 	tianguisGroup.clearLayers();
+	mallsGroup.clearLayers();
 }
  
 function getResults(bounds, zoom) {
@@ -121,6 +123,23 @@ function getResults(bounds, zoom) {
 				}
 				
 				tianguisGroup.addTo(map);
+				
+				
+				/*Malls*/
+				var mallsIcon = L.icon({
+					iconUrl: 'icons/shop-24.png',
+					iconRetinaUrl: 'icons/shop-24@2x.png',
+					iconSize: [24, 24]
+				});
+				
+				var malls = d.malls;
+				for (x in malls) {
+					marker = L.marker([malls[x].lat, malls[x].lon], {icon: mallsIcon}).addTo(map).bindPopup(malls[x].title);
+					mallsGroup.addLayer(marker);
+				}
+				
+				mallsGroup.addTo(map);
+				
 			}
 		});
 	} else {
