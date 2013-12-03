@@ -29,10 +29,10 @@ body { margin:0; padding:0; }
 	-moz-border-bottom-right-radius: 15px;
     border-top-right-radius:15px;
 	border-bottom-right-radius:15px;
-	-webkit-transition: left 2s ease;
-	-moz-transition: left 2s ease;
-	-o-transition: left 2s ease;
-	transition: left 2s ease;
+	-webkit-transition: left 1s ease;
+	-moz-transition: left 1s ease;
+	-o-transition: left 1s ease;
+	transition: left 1s ease;
 }
 
 .logo-change {  
@@ -60,10 +60,10 @@ body { margin:0; padding:0; }
 	top: 0;
 	width: 75px;
 	z-index:2;
-	-webkit-transition: left 2s ease;
-	-moz-transition: left 2s ease;
-	-o-transition: left 2s ease;
-	transition: left 2s ease;
+	-webkit-transition: left 1s ease;
+	-moz-transition: left 1s ease;
+	-o-transition: left 1s ease;
+	transition: left 1s ease;
 }
 
 .sidebar-change {  
@@ -73,10 +73,10 @@ body { margin:0; padding:0; }
 
 /*Control Zoom*/
 .leaflet-left .leaflet-control {
-	-webkit-transition: margin-left 2s ease;
-	-moz-transition: margin-left 2s ease;
-	-o-transition: margin-left 2s ease;
-	transition: margin-left 2s ease;
+	-webkit-transition: margin-left 1s ease;
+	-moz-transition: margin-left 1s ease;
+	-o-transition: margin-left 1s ease;
+	transition: margin-left 1s ease;
 }
 
 .leaflet-control-change {
