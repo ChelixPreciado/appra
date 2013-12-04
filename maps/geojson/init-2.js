@@ -42,8 +42,13 @@ function getResults(bounds, zoom) {
 	if(zoom > 14) {
 		$(".loading").show();
 		
+		/*each layers show*/
+		var layers = "";
+		$.each($(".l-show"), function(key, value) { layers = layers + $(this).attr("id") + ","; });
+		layers = layers.replace(/,+$/,'');
+		
 		$.ajax({
-			url: '/appra/index.php/api/'+bounds._southWest.lat+','+bounds._northEast.lng+'/'+bounds._northEast.lat+','+bounds._southWest.lng+'/malls,tianguis,schools,density',
+			url: '/appra/index.php/api/'+bounds._southWest.lat+','+bounds._northEast.lng+'/'+bounds._northEast.lat+','+bounds._southWest.lng + '/' + layers,
 			dataType: 'json',
 			contentType: "application/json; charset=utf-8",
 			success: function load(d) {	
