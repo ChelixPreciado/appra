@@ -3,204 +3,74 @@
 <Document>
   <name>Estaciones de Bomberos</name>
   <description><![CDATA[Ubicación de las estaciones de bomberos en la Ciudad de México]]></description>
-  <Style id="style3">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style11">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style4">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style8">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style12">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style1">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style16">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style2">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style6">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style5">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style10">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style15">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style9">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style7">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style13">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style14">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/intl/es_mx/mapfiles/ms/micons/blue-dot.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
   <Placemark>
     <name>Estación Azcapotzalco &quot;Comandante Agustín Pérez&quot;</name>
-    <description><![CDATA[<span style="font-weight:bold;color:rgb(102, 102, 102)">Dirección:</span> <span style="font-size:10pt;color:rgb(92, 102, 103)">Calle 22 de Febrero esq. Nueva Jerusalén s/No., Colonia del Maestro<br>
-  Del. Azcapotzalco C. P. 02040<br></span><b><span style="font-size:10pt;color:rgb(92, 102, 103)">Jefe de Estación: </span></b><span style="font-size:10pt;color:rgb(92, 102, 103)">2° Inspector José Dael Vázquez Cirerol<br></span><b><span style="font-size:10pt;color:rgb(92, 102, 103)">Teléfonos: </span></b><span style="font-size:10pt;color:rgb(92, 102, 103)">55 61 54 99,</span>
-  <span style="font-size:10pt;color:rgb(92, 102, 103)">55 61 90 04, 55 61 90 04, 55 61 11 04, 55 61 70 40</span>]]></description>
-    <styleUrl>#style3</styleUrl>
+    <description><![CDATA[Dirección: Calle 22 de Febrero esq. Nueva Jerusalén s/No., Colonia del Maestro
+  Del. Azcapotzalco C. P. 02040Jefe de Estación: 2° Inspector José Dael Vázquez CirerolTeléfonos: 55 61 54 99,
+  55 61 90 04, 55 61 90 04, 55 61 11 04, 55 61 70 40]]></description>
     <Point>
       <coordinates>-99.183014,19.483089,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Estación Benito Juárez &quot;Comandante Enrique Padilla Lupercio&quot;</name>
-    <description><![CDATA[<span style="font-weight:bold;color:rgb(102, 102, 102)">Dirección: </span><span style="font-size:10pt;color:rgb(92, 102, 103)">Eje Central Lázaro Cárdenas esq. Santa Cruz, Colonia Portales, Del.
-  Benito Juárez C. P. 03300</span><b><span style="font-size:10pt;color:rgb(92, 102, 103)"><span style="font-weight:bold"><br></span>Jefe de Estación:<span></span></span></b>
-  
-  
-  <span style="font-size:10pt;color:rgb(92, 102, 103)">2° Inspector Alberto Hernández Rojas</span><b><span style="font-size:10pt;color:rgb(92, 102, 103)"><span style="font-weight:bold"><br></span>Teléfonos</span></b>:<span style="font-size:10pt;color:rgb(92, 102, 103)"> 56 72 89 55,</span> <span style="color:rgb(102, 102, 102)">56 72 92 12</span>,<span style="font-size:10pt;color:rgb(92, 102, 103)"> 56 72 89 11</span><span style="font-size:10pt;color:rgb(92, 102, 103)">, 56 72 91 24,</span><span style="font-size:10pt;color:rgb(92, 102, 103)"> 56 72 71 29,</span>
-  <span style="font-size:10pt;color:rgb(92, 102, 103)">56 72 67 79</span><br>]]></description>
-    <styleUrl>#style11</styleUrl>
+    <description><![CDATA[Dirección: Eje Central Lázaro Cárdenas esq. Santa Cruz, Colonia Portales, Del.
+  Benito Juárez C. P. 03300 Jefe de Estación: 2° Inspector Alberto Hernández Rojas Teléfonos: 56 72 89 55, 56 72 92 12, 56 72 89 11, 56 72 91 24, 56 72 71 29, 56 72 67 79]]></description>
     <Point>
       <coordinates>-99.149345,19.372551,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Estación Central &quot;Comandante Leonardo del Frago&quot;</name>
-    <description><![CDATA[<span style="font-weight:bold;color:rgb(102, 102, 102)">Dirección: </span><span style="font-size:10pt;color:rgb(92, 102, 103)">Av. Fray Servando Teresa de Mier s/No., Colonia Merced Balbuena. <br>
-  Del. Venustiano Carranza <span>&nbsp;</span>C. P. 15810</span><b><span style="font-size:10pt;color:rgb(92, 102, 103)"><span style="font-weight:bold"><br></span>Jefe de Estación:<span></span></span></b>
-  
-  
-  <span style="font-size:10pt;color:rgb(92, 102, 103)">2° Inspector Fernando Herrera Parra</span><br><b><span style="font-size:10pt;color:rgb(92, 102, 103)">Teléfonos: </span></b><span style="font-size:10pt;color:rgb(92, 102, 103)">57 68 37 00, 57 68 34 77, 57 68 37 22, 57 68 35 22, 57 68 35 44, </span><span style="font-size:10pt;color:rgb(92, 102, 103)">57 68 24 65, 57 68 36 11, 57 68 34 55, 57 68 34 33, 57 68 35 66</span>]]></description>
-    <styleUrl>#style4</styleUrl>
+    <description><![CDATA[Dirección: Av. Fray Servando Teresa de Mier s/No., Colonia Merced Balbuena.
+  Del. Venustiano Carranza  C. P. 15810 Jefe de Estación: 2° Inspector Fernando Herrera Parra Teléfonos: 57 68 37 00, 57 68 34 77, 57 68 37 22, 57 68 35 22, 57 68 35 44, 57 68 24 65, 57 68 36 11, 57 68 34 55, 57 68 34 33, 57 68 35 66]]></description>
     <Point>
       <coordinates>-99.126259,19.422037,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Estación Coyoacán &quot;Comandante Miguel Félix Bravo&quot;</name>
-    <description><![CDATA[<span style="font-weight:bold;color:rgb(102, 102, 102)">Dirección: </span><span style="font-size:10pt;color:rgb(92, 102, 103)">Avenida Canal Nacional No. 1130, casi esq. Calzada la Virgen, Colonia
-  San Francisco Culhuacan, Del. Coyoacán C. P. 04480<br></span><b><span style="font-size:10pt;color:rgb(92, 102, 103)">Jefe de Estación: </span></b><span style="font-size:10pt;color:rgb(92, 102, 103)">1° Inspector Roberto Cano Martínez<br></span><b><span style="font-size:10pt;color:rgb(92, 102, 103)">Teléfonos: </span></b><span style="font-size:10pt;color:rgb(92, 102, 103)">56 56 10 44, </span><span style="font-size:10pt;color:rgb(92, 102, 103)">56 56 10 64, </span><span style="font-size:10pt;color:rgb(92, 102, 103)">56 56 10 47,</span>
-  <span style="font-size:10pt;color:rgb(92, 102, 103)">56 56 11 10</span>]]></description>
-    <styleUrl>#style8</styleUrl>
+    <description><![CDATA[Dirección: Avenida Canal Nacional No. 1130, casi esq. Calzada la Virgen, Colonia
+  San Francisco Culhuacan, Del. Coyoacán C. P. 04480Jefe de Estación: 1° Inspector Roberto Cano MartínezTeléfonos: 56 56 10 44, 56 56 10 64, 56 56 10 47, 56 56 11 10]]></description>
     <Point>
       <coordinates>-99.105103,19.322969,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Estación Cuauhtémoc &quot;Comandante Eulalio Mujica Pérez&quot;</name>
-    <description><![CDATA[<div style="color:rgb(102, 102, 102);font-weight:bold" dir="ltr">Dirección: <span style="font-size:10pt;color:rgb(92, 102, 103);font-weight:normal">Avenida Insurgentes Centro Nos. 95 y 97, Colonia San Rafael, Del.
-  Cuauhtémoc<br></span><b><span style="font-size:10pt;color:rgb(92, 102, 103)">Jefe de Estación: </span></b><span style="font-size:10pt;color:rgb(92, 102, 103);font-weight:normal">2° Inspector Martín Moncada Solano<br></span><b><span style="font-size:10pt;color:rgb(92, 102, 103)">Teléfonos: </span></b><span style="font-size:10pt;color:rgb(92, 102, 103)"><span style="font-weight:normal">57 05 33 69,</span></span><span style="font-size:10pt;color:rgb(92, 102, 103)"> <span style="font-weight:normal">57 05 41 68,</span> </span><span style="font-size:10pt;color:rgb(92, 102, 103);font-weight:normal">57 05 43 19,</span>
-  <span style="font-size:10pt;color:rgb(92, 102, 103);font-weight:normal">57 05 42 33</span></div>]]></description>
-    <styleUrl>#style12</styleUrl>
+    <description><![CDATA[Dirección: Avenida Insurgentes Centro Nos. 95 y 97, Colonia San Rafael, Del.
+  Cuauhtémoc Jefe de Estación: 2° Inspector Martín Moncada SolanoTeléfonos: 57 05 33 69, 57 05 41 68, 57 05 43 19, 57 05 42 33]]></description>
     <Point>
       <coordinates>-99.158112,19.435211,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Estación Iztapalapa &quot;Comandante Jesús Blanquel Corona&quot;</name>
-    <description><![CDATA[<span style="font-weight:bold;color:rgb(102, 102, 102)">Dirección: </span><span style="font-size:10pt;color:rgb(92, 102, 103)">Calzada Ermita Iztapalapa No. 2121, Colonia Constitución de 1917, Del. Iztapalapa C. P. 09260<br></span><b><span style="font-size:10pt;color:rgb(92, 102, 103)">Jefe de Estación: </span></b><span style="font-size:10pt;color:rgb(92, 102, 103)">1° Inspector Rafael Álvarez Sánchez<br></span><b><span style="font-size:10pt;color:rgb(92, 102, 103)">Teléfonos:</span></b> <span style="color:rgb(102, 102, 102)">56 12 10 80</span><span style="font-size:10pt;color:rgb(92, 102, 103)">, 56 12 08 30,</span><span style="font-size:10pt;color:rgb(92, 102, 103)"> 56 12 11 40</span>,
-  <span style="font-size:10pt;color:rgb(92, 102, 103)">56 12 40 12</span>]]></description>
-    <styleUrl>#style1</styleUrl>
+    <description><![CDATA[Dirección: Calzada Ermita Iztapalapa No. 2121, Colonia Constitución de 1917, Del. Iztapalapa C. P. 09260Jefe de Estación: 1° Inspector Rafael Álvarez SánchezTeléfonos: 56 12 10 80, 56 12 08 30, 56 12 11 40, 56 12 40 12]]></description>
     <Point>
       <coordinates>-99.070084,19.349068,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Estación Cuajimalpa &quot;Comandante Benito Pérez González&quot;</name>
-    <description><![CDATA[<span style="font-weight:bold;color:rgb(102, 102, 102)">Dirección: </span><span style="font-size:10pt;color:rgb(92, 102, 103)">Camino al Desierto de los Leones s/n., Colonia La Venta, Del. Cuajimalpa
-  de Morelos. C. P. 05520. Km. 24 de la carretera México-Toluca.<br></span><b><span style="font-size:10pt;color:rgb(92, 102, 103)">Jefe de Estación: </span></b><span style="font-size:10pt;color:rgb(92, 102, 103)">Subinspector Jorge Curiel Sánchez<br></span><b><span style="font-size:10pt;color:rgb(92, 102, 103)">Teléfonos: </span></b><span style="font-size:10pt;color:rgb(92, 102, 103)">58 13 32 00, 58 13 31 99, 58 13 30 11</span>]]></description>
-    <styleUrl>#style16</styleUrl>
+    <description><![CDATA[Dirección: Camino al Desierto de los Leones s/n., Colonia La Venta, Del. Cuajimalpa
+  de Morelos. C. P. 05520. Km. 24 de la carretera México-Toluca.Jefe de Estación: Subinspector Jorge Curiel SánchezTeléfonos: 58 13 32 00, 58 13 31 99, 58 13 30 11]]></description>
     <Point>
       <coordinates>-99.310829,19.333549,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Estación Saavedra &quot;Comandante José Saavedra del Razo&quot;</name>
-    <description><![CDATA[<span style="font-weight:bold;color:rgb(102, 102, 102)">Dirección: </span><span style="font-size:10pt;color:rgb(92, 102, 103)" lang="EN-US">Av. Henry Ford s/n. esq. </span><span style="font-size:10pt;color:rgb(92, 102, 103)">Martha, Colonia
-  Guadalupe. Tepeyac. <span></span>Del. Gustavo A. Madero C. P. 07840<br></span><b><span style="font-size:10pt;color:rgb(92, 102, 103)">Jefe de Estación: </span></b><span style="font-size:10pt;color:rgb(92, 102, 103)">Subinspector Leopoldo Cano Martínez<br></span><b><span style="font-size:10pt;color:rgb(92, 102, 103)">Teléfonos: </span></b><span style="font-size:10pt;color:rgb(92, 102, 103)">57 59 57 85, 55 17 03 30, 55 17 44 69</span>]]></description>
-    <styleUrl>#style2</styleUrl>
+    <description><![CDATA[Dirección: Av. Henry Ford s/n. esq. Martha, Colonia
+  Guadalupe. Tepeyac. Del. Gustavo A. Madero C. P. 07840Jefe de Estación: Subinspector Leopoldo Cano MartínezTeléfonos: 57 59 57 85, 55 17 03 30, 55 17 44 69]]></description>
     <Point>
       <coordinates>-99.118095,19.469778,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Estación Magdalena Contreras &quot;Comandante Alejandro Aguilar López&quot;</name>
-    <description><![CDATA[<span style="font-weight:bold;color:rgb(102, 102, 102)"><span style="color:rgb(102, 102, 102)">Dirección: </span></span><span style="font-size:10pt;color:rgb(92, 102, 103)">Avenida Ojo de Agua s/No., Colonia Huayotla, Del. Magdalena Contreras
-  C. P. 10360<br></span><b><span style="font-size:10pt;color:rgb(92, 102, 103)">Jefe de Estación: </span></b><span style="font-size:10pt;color:rgb(92, 102, 103)">2° Oficial Jorge Cortés Hernández<br></span><b><span style="font-size:10pt;color:rgb(92, 102, 103)">Teléfonos: </span></b><span style="font-size:10pt;color:rgb(92, 102, 103)">56 67 43 77,</span><span style="font-size:10pt;color:rgb(92, 102, 103)"> 56 67 44 19</span><span style="font-size:10pt;color:rgb(92, 102, 103)">, 56 67 80 04</span><span style="font-size:10pt;color:rgb(92, 102, 103)">, 56 67 44 14,</span> <span style="font-size:10pt;color:rgb(92, 102, 103)">56 67 39 08</span>]]></description>
+    <description><![CDATA[Dirección: Avenida Ojo de Agua s/No., Colonia Huayotla, Del. Magdalena Contreras
+  C. P. 10360Jefe de Estación: 2° Oficial Jorge Cortés HernándezTeléfonos: 56 67 43 77, 56 67 44 19, 56 67 80 04, 56 67 44 14, 56 67 39 08]]></description>
     <styleUrl>#style6</styleUrl>
     <Point>
       <coordinates>-99.266487,19.306227,0.000000</coordinates>
@@ -208,60 +78,53 @@
   </Placemark>
   <Placemark>
     <name>Estación Módulo Álvaro Obregón</name>
-    <description><![CDATA[<span style="font-weight:bold;color:rgb(102, 102, 102)">Dirección: </span><span style="font-size:10pt;color:rgb(92, 102, 103)">Avenida Toluca esq. San Pablo, Colonia Olivar del Conde. Del. Álvaro Obregón<br></span><b><span style="font-size:10pt;color:rgb(92, 102, 103)">Teléfonos: </span></b><span style="font-size:10pt;color:rgb(92, 102, 103)">56 83 55 20, 56 83 85 23</span>]]></description>
-    <styleUrl>#style5</styleUrl>
+    <description><![CDATA[Dirección: Avenida Toluca esq. San Pablo, Colonia Olivar del Conde. Del. Álvaro ObregónTeléfonos: 56 83 55 20, 56 83 85 23]]></description>
     <Point>
       <coordinates>-99.227562,19.336666,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Estación Tacuba &quot;Comandante Antonio Pimentel&quot;</name>
-    <description><![CDATA[<span style="font-weight:bold;color:rgb(102, 102, 102)">Dirección: </span><span style="font-size:10pt;color:rgb(92, 102, 103)">Calle Golfo de Gabes No. 29 esq. Golfo san Jorge, Colonia Tacuba. Del. Miguel Hidalgo C. P. 11410<br></span><b><span style="font-size:10pt;color:rgb(92, 102, 103)">Jefe de Estación: </span></b><span style="font-size:10pt;color:rgb(92, 102, 103)">2° Inspector Luis Felipe Cerón Díaz<br></span><b><span style="font-size:10pt;color:rgb(92, 102, 103)">Teléfonos: </span></b><span style="font-size:10pt;color:rgb(92, 102, 103)">55 27 15 76, 55 27 70 04,55 27 96 33</span>]]></description>
-    <styleUrl>#style10</styleUrl>
+    <description><![CDATA[Dirección: Calle Golfo de Gabes No. 29 esq. Golfo san Jorge, Colonia Tacuba. Del. Miguel Hidalgo C. P. 11410Jefe de Estación: 2° Inspector Luis Felipe Cerón Díaz Teléfonos: 55 27 15 76, 55 27 70 04,55 27 96 33]]></description>
     <Point>
       <coordinates>-99.186386,19.455435,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Estación Tacubaya &quot;Comandante Artemio Venegas Mancera&quot;</name>
-    <description><![CDATA[<span style="font-weight:bold;color:rgb(102, 102, 102)">Dirección: </span><span style="font-size:10pt;color:rgb(92, 102, 103)">Calle José María Vigil No. 56 esq. Carlos B. Zetina, Colonia Tacubaya<br>
-  Del. Miguel Hidalgo C. P. 11810<br></span><b><span style="font-size:10pt;color:rgb(92, 102, 103)">Jefe de Estación: </span></b><span style="font-size:10pt;color:rgb(92, 102, 103)">2° Inspector Mario Velázquez Fonseca<br></span><b><span style="font-size:10pt;color:rgb(92, 102, 103)">Teléfonos: </span></b><span style="font-size:10pt;color:rgb(92, 102, 103)">55 15 29 33, 55 15 59 94, 55 15 04 37</span>]]></description>
-    <styleUrl>#style15</styleUrl>
+    <description><![CDATA[Dirección: Calle José María Vigil No. 56 esq. Carlos B. Zetina, Colonia Tacubaya<br>
+  Del. Miguel Hidalgo C. P. 11810Jefe de Estación: 2° Inspector Mario Velázquez FonsecaTeléfonos: 55 15 29 33, 55 15 59 94, 55 15 04 37]]></description>
     <Point>
       <coordinates>-99.183807,19.401323,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Estación Tlalpan &quot;Comandante Evodio Alarcón García&quot;</name>
-    <description><![CDATA[<span style="font-weight:bold;color:rgb(102, 102, 102)">Dirección: </span><span style="font-size:10pt;color:rgb(92, 102, 103)">Calle Arenal s/No. Esq. Viaducto Tlalpan, Colonia Arenal Tepepan. Del. Tlalpan C. P. 14610<br></span><b><span style="font-size:10pt;color:rgb(92, 102, 103)">Jefe de Estación: </span></b><span style="font-size:10pt;color:rgb(92, 102, 103)">2° Inspector José Luis Solórzano Manzano<br></span><b><span style="font-size:10pt;color:rgb(92, 102, 103)">Teléfonos: </span></b><span style="font-size:10pt;color:rgb(92, 102, 103)">56 55 25 99, 55 73 61 52, 55 73 10 96, 55 73 17 94 </span>]]></description>
-    <styleUrl>#style9</styleUrl>
+    <description><![CDATA[Dirección: Calle Arenal s/No. Esq. Viaducto Tlalpan, Colonia Arenal Tepepan. Del. Tlalpan C. P. 14610Jefe de Estación: 2° Inspector José Luis Solórzano ManzanoTeléfonos: 56 55 25 99, 55 73 61 52, 55 73 10 96, 55 73 17 94 ]]></description>
     <Point>
       <coordinates>-99.156410,19.286121,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Estación Tláhuac &quot;Comandante Juan Gómez Rodríguez&quot;</name>
-    <description><![CDATA[<span style="font-weight:bold;color:rgb(102, 102, 102)">Dirección: </span><span style="font-size:10pt;color:rgb(92, 102, 103)">Calle Sonido 13 esq. Carlos Espinoza de los Monteros Barrio Santa
-  Cecilia. <span>&nbsp;</span>Del. Tláhuac C. P. 13010<br></span><b><span style="font-size:10pt;color:rgb(92, 102, 103)">Jefe de Estación: </span></b><span style="font-size:10pt;color:rgb(92, 102, 103)">Subinspector Felipe Rosas Nieto<br></span><b><span style="font-size:10pt;color:rgb(92, 102, 103)">Teléfonos: </span></b><span style="font-size:10pt;color:rgb(92, 102, 103)">58 42 99 72, 58 42 07 77, 58 42 06 66</span>]]></description>
-    <styleUrl>#style7</styleUrl>
+    <description><![CDATA[Dirección: Calle Sonido 13 esq. Carlos Espinoza de los Monteros Barrio Santa
+  Cecilia. Del. Tláhuac C. P. 13010Jefe de Estación: Subinspector Felipe Rosas NietoTeléfonos: 58 42 99 72, 58 42 07 77, 58 42 06 66]]></description>
     <Point>
       <coordinates>-99.006500,19.279680,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Estación Xochimilco &quot;Comandante Ignacio Ponce de León Méndez&quot;</name>
-    <description><![CDATA[<span style="font-weight:bold;color:rgb(102, 102, 102)">Dirección: </span><span style="font-size:10pt;color:rgb(92, 102, 103)">Prolongación 16 de Septiembre esq. Capulín, Colonia Barrio Xaltocan,
-  Del. Xochimilco C. P. 16090<br></span><b><span style="font-size:10pt;color:rgb(92, 102, 103)">Jefe de Estación: </span></b><span style="font-size:10pt;color:rgb(92, 102, 103)">Subinspector Miguel Benjamín Alba Moral<br></span><b><span style="font-size:10pt;color:rgb(92, 102, 103)">Teléfonos: </span></b><span style="font-size:10pt;color:rgb(92, 102, 103)">55 55 88 42, 55 55 84 20, 55 55 89 87</span>]]></description>
-    <styleUrl>#style13</styleUrl>
+    <description><![CDATA[Dirección: Prolongación 16 de Septiembre esq. Capulín, Colonia Barrio Xaltocan,
+  Del. Xochimilco C. P. 16090Jefe de Estación: Subinspector Miguel Benjamín Alba MoralTeléfonos: 55 55 88 42, 55 55 84 20, 55 55 89 87]]></description>
     <Point>
       <coordinates>-99.106354,19.250198,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Estación Álvaro Obregón &quot;Comandante Isidoro Solache&quot;</name>
-    <description><![CDATA[<span style="font-weight:bold;color:rgb(102, 102, 102)">Dirección: </span><span style="font-size:10pt;color:rgb(92, 102, 103)">Avenida Escuadrón 201 esq. Antiguo Camino a la Venta, Colonia Cristo
-  Rey, Del. Álvaro Obregón C. P. 01160<br></span><b><span style="font-size:10pt;color:rgb(92, 102, 103)">Jefe de Estación: </span></b><span style="font-size:10pt;color:rgb(92, 102, 103)">1° Inspector Álvaro Luis Antonio Ramos Roldán<br></span><b><span style="font-size:10pt;color:rgb(92, 102, 103)">Teléfonos: </span></b><span style="font-size:10pt;color:rgb(92, 102, 103)">52 71 51 60, 52 71 24 80, 52 71 46 16, </span><span style="font-size:10pt;color:rgb(92, 102, 103)">52 71 22 75, 52 71 34 36, 52 71 39 11</span>]]></description>
-    <styleUrl>#style14</styleUrl>
+    <description><![CDATA[Dirección: Avenida Escuadrón 201 esq. Antiguo Camino a la Venta, Colonia Cristo
+  Rey, Del. Álvaro Obregón C. P. 01160Jefe de Estación: 1° Inspector Álvaro Luis Antonio Ramos RoldánTeléfonos: 52 71 51 60, 52 71 24 80, 52 71 46 16, 52 71 22 75, 52 71 34 36, 52 71 39 11]]></description>
     <Point>
       <coordinates>-99.199394,19.386230,0.000000</coordinates>
     </Point>
