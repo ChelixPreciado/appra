@@ -1,37 +1,58 @@
 var map     = L.mapbox.map('map', 'examples.map-9ijuk24y').setView([19.4297430000517, -99.1283830003488], 15);
 var bounds  = map.getBounds();
 
-var densityGroup  = new L.LayerGroup();
-var schoolsGroup  = new L.LayerGroup();
-var tianguisGroup = new L.LayerGroup();
-var resultsGroup  = new L.LayerGroup();
+
+//Base Layers
+var baseLayer   = L.mapbox.tileLayer('examples.map-9ijuk24y');
+var otherLayer1 = L.mapbox.tileLayer('caarloshugo.gedde4dk');
+var otherLayer2 = L.mapbox.tileLayer('examples.map-y7l23tes');
+
+var baseLayers = {
+	"Base" : baseLayer,
+	"Dark" : otherLayer2,
+	"Other": otherLayer1
+};
+
+L.control.layers(baseLayers).addTo(map);
+
+
+//Layer Groups
+var densityGroup     = new L.LayerGroup();
+var schoolsGroup     = new L.LayerGroup();
+var tianguisGroup    = new L.LayerGroup();
+var mallsGroup       = new L.LayerGroup();
+var resultsGroup     = new L.LayerGroup();
+var restaurantsGroup = new L.LayerGroup();
+var marketsGroup     = new L.LayerGroup();
+var markersResults   = new L.MarkerClusterGroup({ disableClusteringAtZoom: 18 });
 
 map.on('movestart',       function (e) { removeLayers(); });
 map.on('moveend',         function (e) { getResults(map.getBounds(), e.target._zoom); });
-/*
-map.on('dragstart',       function (e) { console.log('    [ dragstart'); });
-map.on('dragend',         function (e) { console.log('    ] dragend'); });
-map.on('zoomstart',       function (e) { console.log('    ( zoomstart'); });
-map.on('zoomend',         function (e) { console.log('    ) zoomend'); });
-map.on('viewreset',       function (e) { console.log('      viewreset'); });
-map.on('autopanstart',    function (e) { console.log('      autopanstart'); });
-*/
 
 function removeLayers() {
 	$(".loading").show();
 	
 	resultsGroup.clearLayers();
+	markersResults.clearLayers();
 	densityGroup.clearLayers();
 	schoolsGroup.clearLayers();
 	tianguisGroup.clearLayers();
+	mallsGroup.clearLayers();
+	restaurantsGroup.clearLayers();
+	marketsGroup.clearLayers();
 }
  
 function getResults(bounds, zoom) {
 	if(zoom > 14) {
 		$(".loading").show();
 		
+		/*each layers show*/
+		var layers = "";
+		$.each($(".l-show"), function(key, value) { layers = layers + $(this).attr("id") + ","; });
+		layers = layers.replace(/,+$/,'');
+		
 		$.ajax({
-			url: '/appra/index.php/api/'+bounds._southWest.lat+','+bounds._northEast.lng+'/'+bounds._northEast.lat+','+bounds._southWest.lng+'/tianguis,schools,density',
+			url: '/appra/index.php/api/'+bounds._southWest.lat+','+bounds._northEast.lng+'/'+bounds._northEast.lat+','+bounds._southWest.lng + '/' + layers,
 			dataType: 'json',
 			contentType: "application/json; charset=utf-8",
 			success: function load(d) {	
@@ -43,13 +64,13 @@ function getResults(bounds, zoom) {
 					style: function(feature) {
 						densidad = feature.properties.densidad;
 						
-						if(densidad > -1    && densidad < 1000)  return { weight: 0, color: "#ffebd6" };
-						if(densidad > 999   && densidad < 2000)  return { weight: 0, color: "#f5cbae" };
-						if(densidad > 1999  && densidad < 5000)  return { weight: 0, color: "#eba988" };
-						if(densidad > 4999  && densidad < 10000) return { weight: 0, color: "#e08465" };
-						if(densidad > 9999  && densidad < 20000) return { weight: 0, color: "#d65d45" };
-						if(densidad > 19999 && densidad < 30000) return { weight: 0, color: "#cc3527" };
-						if(densidad > 29999) return { weight: 0, color: "#c40a0a" };
+						if(densidad > -1    && densidad < 1000)  return { fillOpacity: 0.7, opacity: 0.9, weight: 0, color: "#ffebd6" };
+						if(densidad > 999   && densidad < 2000)  return { fillOpacity: 0.7, opacity: 0.9, weight: 0, color: "#f5cbae" };
+						if(densidad > 1999  && densidad < 5000)  return { fillOpacity: 0.7, opacity: 0.9, weight: 0, color: "#eba988" };
+						if(densidad > 4999  && densidad < 10000) return { fillOpacity: 0.7, opacity: 0.9, weight: 0, color: "#e08465" };
+						if(densidad > 9999  && densidad < 20000) return { fillOpacity: 0.7, opacity: 0.9, weight: 0, color: "#d65d45" };
+						if(densidad > 19999 && densidad < 30000) return { fillOpacity: 0.7, opacity: 0.9, weight: 0, color: "#cc3527" };
+						if(densidad > 29999) return { fillOpacity: 0.7, opacity: 0.9, weight: 0, color: "#c40a0a" };
 					}
 				});
 				
@@ -58,24 +79,34 @@ function getResults(bounds, zoom) {
 				
 				/*Results*/
 				var resultIcon = L.icon({
-					iconUrl: 'icons/rocket-24.png',
-					iconRetinaUrl: 'icons/rocket-24@2x.png',
-					iconSize: [24, 24]
+					iconUrl: 'icons/home-26.png',
+					iconRetinaUrl: 'icons/home-26.png',
+					iconSize: [26, 26]
 				});
 				
 				var results = d.results;
-				for (x in results) {
-					marker = L.marker([results[x].lat, results[x].lon], {icon: resultIcon}).bindPopup(results[x].address);
-					resultsGroup.addLayer(marker);
-				}
 				
-				resultsGroup.addTo(map);
+				if(zoom > 17) {
+					for (x in results) {
+						marker = L.marker([results[x].lat, results[x].lon]).bindPopup(results[x].address);
+						resultsGroup.addLayer(marker);
+					}
+					
+					resultsGroup.addTo(map);
+				} else {
+					for (x in results) {
+						marker = L.marker([results[x].lat, results[x].lon]).bindPopup(results[x].address);
+						markersResults.addLayer(marker);
+					}
+					
+					markersResults.addTo(map);
+				}
 				
 				
 				/*Schools*/
 				var schoolIcon = L.icon({
-					iconUrl: 'icons/school-24.png',
-					iconRetinaUrl: 'icons/school-24@2x.png',
+					iconUrl: 'icons/college-24.png',
+					iconRetinaUrl: 'icons/college-24@2x.png',
 					iconSize: [24, 24]
 				});
 				
@@ -101,6 +132,55 @@ function getResults(bounds, zoom) {
 				}
 				
 				tianguisGroup.addTo(map);
+				
+				
+				/*Malls*/
+				var mallsIcon = L.icon({
+					iconUrl: 'icons/shop-24.png',
+					iconRetinaUrl: 'icons/shop-24@2x.png',
+					iconSize: [24, 24]
+				});
+				
+				var malls = d.malls;
+				for (x in malls) {
+					marker = L.marker([malls[x].lat, malls[x].lon], {icon: mallsIcon}).addTo(map).bindPopup(malls[x].title);
+					mallsGroup.addLayer(marker);
+				}
+				
+				mallsGroup.addTo(map);
+				
+				
+				/*Markets*/
+				var marketsIcon = L.icon({
+					iconUrl: 'icons/shop-24.png',
+					iconRetinaUrl: 'icons/shop-24@2x.png',
+					iconSize: [24, 24]
+				});
+				
+				var markets = d.markets;
+				for (x in malls) {
+					marker = L.marker([markets[x].lat, markets[x].lon], {icon: marketsIcon}).addTo(map).bindPopup(markets[x].title);
+					marketsGroup.addLayer(marker);
+				}
+				
+				marketsGroup.addTo(map);
+				
+				
+				/*Restaurants*/
+				var restaurantsIcon = L.icon({
+					iconUrl: 'icons/restaurant-24.png',
+					iconRetinaUrl: 'icons/restaurant-24@2x.png',
+					iconSize: [24, 24]
+				});
+				
+				var restaurants = d.restaurants;
+				for (x in malls) {
+					marker = L.marker([restaurants[x].lat, restaurants[x].lon], {icon: restaurantsIcon}).addTo(map).bindPopup(restaurants[x].title);
+					restaurantsGroup.addLayer(marker);
+				}
+				
+				restaurantsGroup.addTo(map);
+				
 			}
 		});
 	} else {
