@@ -158,7 +158,7 @@ function getResults(bounds, zoom) {
 				});
 				
 				var markets = d.markets;
-				for (x in malls) {
+				for (x in markets) {
 					marker = L.marker([markets[x].lat, markets[x].lon], {icon: marketsIcon}).addTo(map).bindPopup(markets[x].title);
 					marketsGroup.addLayer(marker);
 				}
@@ -174,7 +174,7 @@ function getResults(bounds, zoom) {
 				});
 				
 				var restaurants = d.restaurants;
-				for (x in malls) {
+				for (x in restaurants) {
 					marker = L.marker([restaurants[x].lat, restaurants[x].lon], {icon: restaurantsIcon}).addTo(map).bindPopup(restaurants[x].title);
 					restaurantsGroup.addLayer(marker);
 				}
