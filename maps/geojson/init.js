@@ -152,8 +152,8 @@ function getResults(bounds, zoom) {
 				
 				/*Markets*/
 				var marketsIcon = L.icon({
-					iconUrl: 'icons/shop-24.png',
-					iconRetinaUrl: 'icons/shop-24@2x.png',
+					iconUrl: 'icons/grocery-24.png',
+					iconRetinaUrl: 'icons/grocery-24@2x.png',
 					iconSize: [24, 24]
 				});
 				
