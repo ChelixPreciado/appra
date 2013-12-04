@@ -10,7 +10,7 @@ body { margin:0; padding:0; }
 	z-index:999;
 }
 
-.loading { z-index:2; position:absolute; top:48%; left:48%; width:64px; height:64px; background-image:url('loading.gif'); }
+.loading { z-index:2; position:absolute; top:48%; left:48%; width:64px; height:64px; background-image:url('images/loading.gif'); }
 
 
 #logo {
