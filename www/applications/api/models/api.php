@@ -69,10 +69,12 @@ class Api_Model extends ZP_Model {
 	//Default method - parameter table
 	public function defaultQuery($xmin, $ymin, $xmax, $ymax, $table = "schools") {
 		
+		$pKey = NULL;
+		
 		if($table == "schools")      $pKey = "school_id";
 		elseif($table == "tianguis") $pKey = "gid";
 		elseif($table == "malls")    $pKey = "mall_id";
-		
+		elseif($table == "markets")  $pKey = "market_id";
 		
 		$query  = "SELECT $pKey, lat, lon, title, descr from $table ";
 		$query .= "where st_contains(ST_MakeEnvelope($xmin,$ymin,$xmax,$ymax, 4326)";
