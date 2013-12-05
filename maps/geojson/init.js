@@ -30,6 +30,7 @@ var markersResults   = new L.MarkerClusterGroup({ disableClusteringAtZoom: 18 })
 map.on('movestart',       function (e) { removeLayers(); });
 map.on('moveend',         function (e) { getResults(map.getBounds(), e.target._zoom); });
 
+/*Remove layers*/
 function removeLayers() {
 	$(".loading").show();
 	
