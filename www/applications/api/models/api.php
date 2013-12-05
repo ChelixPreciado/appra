@@ -68,7 +68,8 @@ class Api_Model extends ZP_Model {
 	
 	//Default method - parameter table
 	public function defaultQuery($xmin, $ymin, $xmax, $ymax, $table = "schools") {
-		/*
+		
+		/*when we want id,title and desc
 		$pKey = NULL;
 		
 		if($table == "schools")      	  $pKey = "school_id";
@@ -86,7 +87,7 @@ class Api_Model extends ZP_Model {
 		
 		$data = $this->Db->query($query);
 		
-		/*
+		/*when return title and desc in query
 		if(!$data) return false;
 		
 		foreach($data as $key=> $value) {

@@ -171,8 +171,8 @@ function getResults(bounds, zoom) {
 				
 				/*Restaurants*/
 				var restaurantsIcon = L.icon({
-					iconUrl: 'icons/restaurant-24.png',
-					iconRetinaUrl: 'icons/restaurant-24@2x.png',
+					iconUrl: 'icons/restaurant-24-2.png',
+					iconRetinaUrl: 'icons/restaurant-24@2x-2.png',
 					iconSize: [24, 24]
 				});
 				
