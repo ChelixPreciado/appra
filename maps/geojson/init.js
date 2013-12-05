@@ -115,7 +115,7 @@ function getResults(bounds, zoom) {
 				
 				var schools = d.schools;
 				for (x in schools) {
-					marker = L.marker([schools[x].lat, schools[x].lon], {icon: schoolIcon}).bindPopup(schools[x].title);
+					marker = L.marker([schools[x].lat, schools[x].lon], {icon: schoolIcon});
 					schoolsGroup.addLayer(marker);
 				}
 				
@@ -130,7 +130,7 @@ function getResults(bounds, zoom) {
 				
 				var tianguis = d.tianguis;
 				for (x in tianguis) {
-					marker = L.marker([tianguis[x].lat, tianguis[x].lon], {icon: tianguisIcon}).addTo(map).bindPopup(tianguis[x].title);
+					marker = L.marker([tianguis[x].lat, tianguis[x].lon], {icon: tianguisIcon}).addTo(map);
 					tianguisGroup.addLayer(marker);
 				}
 				

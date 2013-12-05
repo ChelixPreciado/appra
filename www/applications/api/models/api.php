@@ -68,7 +68,7 @@ class Api_Model extends ZP_Model {
 	
 	//Default method - parameter table
 	public function defaultQuery($xmin, $ymin, $xmax, $ymax, $table = "schools") {
-		
+		/*
 		$pKey = NULL;
 		
 		if($table == "schools")      	  $pKey = "school_id";
@@ -77,19 +77,23 @@ class Api_Model extends ZP_Model {
 		elseif($table == "markets")  	  $pKey = "market_id";
 		elseif($table == "restaurants")   $pKey = "restaurant_id";
 		elseif($table == "fire_stations") $pKey = "fire_station_id";
-		
 		$query  = "SELECT $pKey, lat, lon, title, descr from $table ";
+		*/
+		
+		$query  = "SELECT lat, lon from $table ";
 		$query .= "where st_contains(ST_MakeEnvelope($xmin,$ymin,$xmax,$ymax, 4326)";
 		$query .= ", the_geom) limit 100;";
 		
 		$data = $this->Db->query($query);
 		
+		/*
 		if(!$data) return false;
 		
 		foreach($data as $key=> $value) {
 			$data[$key]["title"] = utf8_decode(ucfirst(strtolower($value["title"])));
 			$data[$key]["descr"] = utf8_decode(ucfirst(strtolower($value["descr"])));
 		}
+		*/
 		
 		return $data;
 	}
