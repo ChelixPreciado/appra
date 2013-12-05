@@ -130,7 +130,7 @@ function getResults(bounds, zoom) {
 				
 				var tianguis = d.tianguis;
 				for (x in tianguis) {
-					marker = L.marker([tianguis[x].lat, tianguis[x].lon], {icon: tianguisIcon}).addTo(map);
+					marker = L.marker([tianguis[x].lat, tianguis[x].lon], {icon: tianguisIcon});
 					tianguisGroup.addLayer(marker);
 				}
 				
@@ -146,7 +146,7 @@ function getResults(bounds, zoom) {
 				
 				var malls = d.malls;
 				for (x in malls) {
-					marker = L.marker([malls[x].lat, malls[x].lon], {icon: mallsIcon}).addTo(map);
+					marker = L.marker([malls[x].lat, malls[x].lon], {icon: mallsIcon});
 					mallsGroup.addLayer(marker);
 				}
 				
@@ -162,7 +162,7 @@ function getResults(bounds, zoom) {
 				
 				var markets = d.markets;
 				for (x in markets) {
-					marker = L.marker([markets[x].lat, markets[x].lon], {icon: marketsIcon}).addTo(map);
+					marker = L.marker([markets[x].lat, markets[x].lon], {icon: marketsIcon});
 					marketsGroup.addLayer(marker);
 				}
 				
@@ -178,7 +178,7 @@ function getResults(bounds, zoom) {
 				
 				var restaurants = d.restaurants;
 				for (x in restaurants) {
-					marker = L.marker([restaurants[x].lat, restaurants[x].lon], {icon: restaurantsIcon}).addTo(map);
+					marker = L.marker([restaurants[x].lat, restaurants[x].lon], {icon: restaurantsIcon});
 					restaurantsGroup.addLayer(marker);
 				}
 				
@@ -194,7 +194,7 @@ function getResults(bounds, zoom) {
 				
 				var fire_stations = d.fire_stations;
 				for (x in fire_stations) {
-					marker = L.marker([fire_stations[x].lat, fire_stations[x].lon], {icon: fireIcon}).addTo(map);
+					marker = L.marker([fire_stations[x].lat, fire_stations[x].lon], {icon: fireIcon});
 					fireGroup.addLayer(marker);
 				}
 				
