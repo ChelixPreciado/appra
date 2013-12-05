@@ -104,5 +104,6 @@ body { margin:0; padding:0; }
 .tianguis { width:70px; height:48px; float:left; background-image:url('images/grocery-24@2x.png'); background-repeat: no-repeat; }
 .density { width:70px; height:48px; float:left; background-image:url('images/college-24@2x.png'); background-repeat: no-repeat; }
 .restaurants { width:70px; height:48px; float:left; background-image:url('images/restaurant-24@2x.png'); background-repeat: no-repeat; }
+.fire_stations { width:70px; height:48px; float:left; background-image:url('images/fire-station-24@2x.png'); background-repeat: no-repeat; }
 
 .l-show { box-shadow: 0 4px 2px -2px gray; }

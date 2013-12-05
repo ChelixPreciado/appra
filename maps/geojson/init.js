@@ -24,6 +24,7 @@ var mallsGroup       = new L.LayerGroup();
 var resultsGroup     = new L.LayerGroup();
 var restaurantsGroup = new L.LayerGroup();
 var marketsGroup     = new L.LayerGroup();
+var fireGroup        = new L.LayerGroup();
 var markersResults   = new L.MarkerClusterGroup({ disableClusteringAtZoom: 18 });
 
 map.on('movestart',       function (e) { removeLayers(); });
@@ -40,6 +41,7 @@ function removeLayers() {
 	mallsGroup.clearLayers();
 	restaurantsGroup.clearLayers();
 	marketsGroup.clearLayers();
+	fireGroup.clearLayers();
 }
  
 function getResults(bounds, zoom) {
@@ -143,7 +145,7 @@ function getResults(bounds, zoom) {
 				
 				var malls = d.malls;
 				for (x in malls) {
-					marker = L.marker([malls[x].lat, malls[x].lon], {icon: mallsIcon}).addTo(map).bindPopup(malls[x].title);
+					marker = L.marker([malls[x].lat, malls[x].lon], {icon: mallsIcon}).addTo(map);
 					mallsGroup.addLayer(marker);
 				}
 				
@@ -159,7 +161,7 @@ function getResults(bounds, zoom) {
 				
 				var markets = d.markets;
 				for (x in markets) {
-					marker = L.marker([markets[x].lat, markets[x].lon], {icon: marketsIcon}).addTo(map).bindPopup(markets[x].title);
+					marker = L.marker([markets[x].lat, markets[x].lon], {icon: marketsIcon}).addTo(map);
 					marketsGroup.addLayer(marker);
 				}
 				
@@ -175,12 +177,27 @@ function getResults(bounds, zoom) {
 				
 				var restaurants = d.restaurants;
 				for (x in restaurants) {
-					marker = L.marker([restaurants[x].lat, restaurants[x].lon], {icon: restaurantsIcon}).addTo(map).bindPopup(restaurants[x].title);
+					marker = L.marker([restaurants[x].lat, restaurants[x].lon], {icon: restaurantsIcon}).addTo(map);
 					restaurantsGroup.addLayer(marker);
 				}
 				
 				restaurantsGroup.addTo(map);
 				
+				
+				/*Fire stations*/
+				var fireIcon = L.icon({
+					iconUrl: 'icons/fire-station-24.png',
+					iconRetinaUrl: 'icons/fire-station-24@2x.png',
+					iconSize: [24, 24]
+				});
+				
+				var fire_stations = d.fire_stations;
+				for (x in fire_stations) {
+					marker = L.marker([fire_stations[x].lat, fire_stations[x].lon], {icon: fireIcon}).addTo(map);
+					fireGroup.addLayer(marker);
+				}
+				
+				fireGroup.addTo(map);
 			}
 		});
 	} else {

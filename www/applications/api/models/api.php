@@ -71,11 +71,12 @@ class Api_Model extends ZP_Model {
 		
 		$pKey = NULL;
 		
-		if($table == "schools")      	$pKey = "school_id";
-		elseif($table == "tianguis") 	$pKey = "gid";
-		elseif($table == "malls")    	$pKey = "mall_id";
-		elseif($table == "markets")  	$pKey = "market_id";
-		elseif($table == "restaurants") $pKey = "restaurant_id";
+		if($table == "schools")      	  $pKey = "school_id";
+		elseif($table == "tianguis")      $pKey = "gid";
+		elseif($table == "malls")    	  $pKey = "mall_id";
+		elseif($table == "markets")  	  $pKey = "market_id";
+		elseif($table == "restaurants")   $pKey = "restaurant_id";
+		elseif($table == "fire_stations") $pKey = "fire_station_id";
 		
 		$query  = "SELECT $pKey, lat, lon, title, descr from $table ";
 		$query .= "where st_contains(ST_MakeEnvelope($xmin,$ymin,$xmax,$ymax, 4326)";
