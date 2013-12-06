@@ -41,17 +41,24 @@ $(document).ready( function () {
 		drawnItems.addLayer(layer);
 		
 		var geoJSON = layer.toGeoJSON();
-		console.log(geoJSON);
+		
+		/*each layers show*/
+		var layers = "";
+		$.each($(".l-show"), function(key, value) { layers = layers + $(this).attr("id") + ","; });
+		layers = layers.replace(/,+$/,'');
 		
 		$.ajax({
 			cache: false,
 			type: 'POST',              
-			url: 'index.php',
+			url: '/appra/index.php/api-polygon/' + layers,
 			dataType: 'json',
 			data: geoJSON,
-			success: function () {  },
+			success: function (d) {
+				console.log(d);
+				$(".loading").hide();
+			},
 			error: function (response) {
-				
+				$(".loading").hide();
 			}
 		});
 	});

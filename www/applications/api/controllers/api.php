@@ -57,4 +57,28 @@ class Api_Controller extends ZP_Controller {
 			}
 		}
 	}
+	
+	public function getNearResultsPolygon($layers = false) {
+		if($layers and isset($_POST["geometry"])) {
+			$geometry  = $_POST["geometry"]);
+
+			die(var_dump($geometry));
+			
+			if(count($geom1) == 2 and count($geom2) == 2) {
+				$vars["results"] = $this->Api_Model->getRecords($geom1[0], $geom1[1], $geom2[0], $geom2[1]);
+				
+				if(is_array($layers) and $layers[0] !== "") {
+					foreach($layers as $layer) {
+						if($layer == "density") {
+							$vars[$layer] = json_decode($this->Api_Model->getHeatMapDensity($geom1[1], $geom1[0], $geom2[1], $geom2[0]));
+						} else {
+							$vars[$layer] = $this->Api_Model->defaultQuery($geom1[0], $geom1[1], $geom2[0], $geom2[1], $layer);
+						}
+					}
+				}
+				
+				echo json_encode($vars);
+			}
+		}
+	}
 }
