@@ -72,11 +72,7 @@
 						color: '#bada55'
 					}
 				},
-				circle: {
-					shapeOptions: {
-						color: '#662d91'
-					}
-				},
+				circle: false,
 				marker: false
 			},
 			edit: {
