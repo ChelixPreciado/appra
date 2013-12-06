@@ -58,9 +58,7 @@
 		var drawControl = new L.Control.Draw({
 			position: 'topright',
 			draw: {
-				polyline: {
-					metric: true
-				},
+				polyline: false,
 				polygon: {
 					allowIntersection: false,
 					showArea: true,
