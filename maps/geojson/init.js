@@ -1,7 +1,6 @@
 var map     = L.mapbox.map('map', 'examples.map-9ijuk24y').setView([19.4297430000517, -99.1283830003488], 15);
 var bounds  = map.getBounds();
 
-
 //Base Layers
 var baseLayer   = L.mapbox.tileLayer('examples.map-9ijuk24y');
 var otherLayer1 = L.mapbox.tileLayer('caarloshugo.gedde4dk');
@@ -15,7 +14,6 @@ var baseLayers = {
 
 L.control.layers(baseLayers).addTo(map);
 
-
 //Layer Groups
 var densityGroup     = new L.LayerGroup();
 var schoolsGroup     = new L.LayerGroup();
@@ -28,7 +26,7 @@ var fireGroup        = new L.LayerGroup();
 var markersResults   = new L.MarkerClusterGroup({ disableClusteringAtZoom: 18 });
 
 map.on('movestart',       function (e) { removeLayers(); });
-map.on('moveend',         function (e) { getResults(map.getBounds(), e.target._zoom); });
+map.on('moveend',         function (e) { getResults(map.getBounds()); });
 
 /*Remove layers*/
 function removeLayers() {
@@ -45,7 +43,9 @@ function removeLayers() {
 	fireGroup.clearLayers();
 }
  
-function getResults(bounds, zoom) {
+function getResults(bounds) {
+	var zoom = map._zoom;
+	
 	if(zoom > 14) {
 		$(".loading").show();
 		
@@ -208,5 +208,5 @@ function getResults(bounds, zoom) {
 
 $(document).ready( function () {
 	$(".loading").hide();
-	getResults(bounds, 15);
+	getResults(bounds);
 });

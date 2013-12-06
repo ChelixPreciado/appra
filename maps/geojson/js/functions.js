@@ -8,6 +8,6 @@ $(document).ready( function () {
 	$(".ul-layers li").click( function () {
 		$(this).toggleClass("l-show");
 		removeLayers();
-		getResults(map.getBounds(), map._zoom);
+		getResults(map.getBounds());
 	});
 });
