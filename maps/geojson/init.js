@@ -15,6 +15,7 @@ var baseLayers = {
 L.control.layers(baseLayers).addTo(map);
 
 //Layer Groups
+var drawnItems       = new L.FeatureGroup(); //draw
 var densityGroup     = new L.LayerGroup();
 var schoolsGroup     = new L.LayerGroup();
 var tianguisGroup    = new L.LayerGroup();
@@ -25,6 +26,7 @@ var marketsGroup     = new L.LayerGroup();
 var fireGroup        = new L.LayerGroup();
 var markersResults   = new L.MarkerClusterGroup({ disableClusteringAtZoom: 18 });
 
+map.addLayer(drawnItems); //draw
 map.on('movestart',       function (e) { removeLayers(); });
 map.on('moveend',         function (e) { getResults(map.getBounds()); });
 
@@ -41,11 +43,12 @@ function removeLayers() {
 	restaurantsGroup.clearLayers();
 	marketsGroup.clearLayers();
 	fireGroup.clearLayers();
+	drawnItems.clearLayers();
 }
  
 function getResults(bounds) {
 	var zoom = map._zoom;
-	
+		
 	if(zoom > 14) {
 		$(".loading").show();
 		

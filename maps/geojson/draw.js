@@ -1,7 +1,4 @@
 $(document).ready( function () {
-	var drawnItems = new L.FeatureGroup();
-	map.addLayer(drawnItems);
-
 	// Set the title to show on the polygon button
 	L.drawLocal.draw.toolbar.buttons.polygon = 'Dibuja un poligono sexy!';
 
@@ -40,7 +37,7 @@ $(document).ready( function () {
 			layer.bindPopup('A popup!');
 		}
 		
-		drawnItems.clearLayers();
+		removeLayers();
 		drawnItems.addLayer(layer);
 		
 		var geoJSON = layer.toGeoJSON();
