@@ -5,6 +5,7 @@
 		$geojson      = "ST_GeomFromText('POLYGON ((";
 		
 		foreach($coordinates as $point) {
+			var_dump($point);
 			$geojson .= $point[0] . " " . $point[1] . ",";
 		}
 		
