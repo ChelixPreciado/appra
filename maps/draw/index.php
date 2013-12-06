@@ -1,5 +1,12 @@
 <?php 
-	var_dump($_POST);
+	if(isset($_POST["geometry"])) {
+		$geometry    = $_POST["geometry"];
+		$coordinates = $geometry["coordinates"]
+		
+		foreach($coordinates as $point) {
+			var_dump($point);
+		}
+	}
 ?>
 <!DOCTYPE html>
 <html>
