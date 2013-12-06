@@ -1,7 +1,7 @@
 <?php 
 	if(isset($_POST["geometry"])) {
 		$geometry    = $_POST["geometry"];
-		$coordinates = $geometry["coordinates"];
+		$coordinates = $geometry["coordinates"][0];
 		$geojson      = "ST_GeomFromText('POLYGON ((";
 		
 		foreach($coordinates as $point) {
