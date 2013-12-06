@@ -22,7 +22,6 @@ class Api_Controller extends ZP_Controller {
 	}
 
 	public function getNearResults($geom1 = false, $geom2 = false, $layers = false) {
-		die("no");
 		if($geom1 and $geom2) {
 			$geom1  = explode(",", $geom1);
 			$geom2  = explode(",", $geom2);
@@ -60,7 +59,6 @@ class Api_Controller extends ZP_Controller {
 	}
 	
 	public function getNearResultsPolygon($layers = false) {
-		die("ok");
 		die(var_dump($_POST));
 		if(isset($_POST["geometry"])) {
 			$geometry  = $_POST["geometry"];
