@@ -70,7 +70,7 @@ class Api_Controller extends ZP_Controller {
 				}
 				
 				$geojson  = rtrim($geojson, ",");
-				$geojson .= "))')";
+				$geojson .= "))', 4326)";
 				
 				$vars["results"] = $this->Api_Model->getRecordsDraw($geojson);
 				
