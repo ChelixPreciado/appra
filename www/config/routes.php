@@ -11,7 +11,7 @@ $routes = array(
 		"pattern"	  => "/^api-draw/",
 		"application" => "api",
 		"controller"  => "api",
-		"method"	  => "getNearResultsPolygon",
+		"method"	  => "getNearResultsDraw",
 		"params"	  => array(segment(1))
 	),
 	1 => array(
