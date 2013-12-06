@@ -54,7 +54,8 @@ $(document).ready( function () {
 			dataType: 'json',
 			data: geoJSON,
 			success: function (d) {
-				console.log(d);
+				printResults(d);
+				
 				$(".loading").hide();
 			},
 			error: function (response) {
