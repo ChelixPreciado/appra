@@ -7,7 +7,7 @@
 	<title>Leaflet.draw drawing and editing tools</title>
 
 	<link rel="stylesheet" href="libs/leaflet.css" />
-	<link rel="stylesheet" href="libs/leaflet.draw.css" />
+	<link rel="stylesheet" href="dist/leaflet.draw.css" />
 	
 	<script src="http://codeorigin.jquery.com/jquery-2.0.3.min.js"></script>
 	<script src="libs/leaflet-src.js"></script>
