@@ -2,10 +2,16 @@
 	if(isset($_POST["geometry"])) {
 		$geometry    = $_POST["geometry"];
 		$coordinates = $geometry["coordinates"];
+		$geojson      = "ST_GeomFromText('POLYGON ((";
 		
 		foreach($coordinates as $point) {
-			var_dump($point);
+			$geojson .= $point[0] . " " . $point[1] . ",";
 		}
+		
+		$geojson  = rtrim($geojson, ",");
+		$geojson .= "))')";
+		
+		echo $geojson;
 	}
 ?>
 <!DOCTYPE html>
@@ -109,9 +115,9 @@
 				url: 'index.php',
 				dataType: 'json',
 				data: geoJSON,
-				success: function () { alert("success"); },
+				success: function () {  },
 				error: function (response) {
-					alert("error: " + response.responseText);
+					
 				}
 			});
 		});
