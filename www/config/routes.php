@@ -22,7 +22,7 @@ $routes = array(
 		"params"	  => array(segment(1), segment(2), segment(3))
 	),
 	2 => array(
-		"pattern"	  => "/^api-polygon/",
+		"pattern"	  => "/^api-draw/",
 		"application" => "api",
 		"controller"  => "api",
 		"method"	  => "getNearResultsPolygon",

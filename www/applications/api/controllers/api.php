@@ -59,6 +59,7 @@ class Api_Controller extends ZP_Controller {
 	}
 	
 	public function getNearResultsPolygon($layers = false) {
+		die(var_dump($_POST));
 		if(isset($_POST["geometry"])) {
 			$geometry  = $_POST["geometry"];
 
