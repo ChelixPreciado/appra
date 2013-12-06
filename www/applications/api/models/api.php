@@ -38,13 +38,12 @@ class Api_Model extends ZP_Model {
 		return $data;
 	}
 	
-	//Get Records with Draw polygon [Apartaments-Home] [Rent-Sell]
+	//Get Records with Draw Polygon [geojson var construct varchar] [Apartaments-Home] [Rent-Sell]
 	public function getRecordsDraw($geojson, $filters = false) {
 		$query  = "SELECT id_record, lat, lon, address, amount, type, operation, fields from records ";
 		$query .= "where st_contains($geojson";
 		$query .= ", the_geom);";
 		
-		die(var_dump($query));
 		$data = $this->Db->query($query);
 		
 		if(!$data) return false;
@@ -91,35 +90,52 @@ class Api_Model extends ZP_Model {
 		return $geojson;
 	}
 	
+	//Heat Map Density Draw Polygon [geojson var construct varchar]
+	public function getHeatMapDensityDraw($geojson) {
+		$query  = "SELECT ST_AsGeoJson((ST_Dump(geom)).geom) as polygon, densidad from population_density where ST_Overlaps(";
+		$query .= "$geojson, geom) or ST_Contains(";
+		$query .= "$geojson, geom);";
+
+		$data = $this->Db->query($query);
+		
+		if(!$data) return false;
+		
+		$geojson = '{';
+		$geojson .='"type": "FeatureCollection",';
+		$geojson .='"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },';
+		$geojson .='"features": [';
+		
+		foreach($data as $key=> $value) {
+			$geojson .= '{ "type": "Feature", "properties": { "densidad": ' . $value["densidad"]. ' },';
+			$geojson .= '"geometry": ' . $value["polygon"];
+			$geojson .= '},';
+		}
+		
+		$geojson  = rtrim($geojson, ",");
+		$geojson .= ']';
+		$geojson .=  '}';
+	
+		return $geojson;
+	}
+	
 	//Default method - parameter table
 	public function defaultQuery($xmin, $ymin, $xmax, $ymax, $table = "schools") {
-		
-		/*when we want id,title and desc
-		$pKey = NULL;
-		
-		if($table == "schools")      	  $pKey = "school_id";
-		elseif($table == "tianguis")      $pKey = "gid";
-		elseif($table == "malls")    	  $pKey = "mall_id";
-		elseif($table == "markets")  	  $pKey = "market_id";
-		elseif($table == "restaurants")   $pKey = "restaurant_id";
-		elseif($table == "fire_stations") $pKey = "fire_station_id";
-		$query  = "SELECT $pKey, lat, lon, title, descr from $table ";
-		*/
-		
 		$query  = "SELECT lat, lon from $table ";
 		$query .= "where st_contains(ST_MakeEnvelope($xmin,$ymin,$xmax,$ymax, 4326)";
 		$query .= ", the_geom) limit 100;";
 		
 		$data = $this->Db->query($query);
 		
-		/*when return title and desc in query
-		if(!$data) return false;
+		return $data;
+	}
+	
+	//Default method Draw Polygon [geojson var construct varchar] - parameter table
+	public function defaultQueryDraw($geojson, $table = "schools") {
+		$query  = "SELECT lat, lon from $table ";
+		$query .= "where st_contains($geojson";
+		$query .= ", the_geom) limit 100;";
 		
-		foreach($data as $key=> $value) {
-			$data[$key]["title"] = utf8_decode(ucfirst(strtolower($value["title"])));
-			$data[$key]["descr"] = utf8_decode(ucfirst(strtolower($value["descr"])));
-		}
-		*/
+		$data = $this->Db->query($query);
 		
 		return $data;
 	}
