@@ -1,7 +1,7 @@
 <?php 
 	if(isset($_POST["geometry"])) {
 		$geometry    = $_POST["geometry"];
-		$coordinates = $geometry["coordinates"]
+		$coordinates = $geometry["coordinates"];
 		
 		foreach($coordinates as $point) {
 			var_dump($point);
