@@ -38,6 +38,31 @@ class Api_Model extends ZP_Model {
 		return $data;
 	}
 	
+	//Get Records with Draw polygon [Apartaments-Home] [Rent-Sell]
+	public function getRecordsDraw($geojson, $filters = false) {
+		$query  = "SELECT id_record, lat, lon, address, amount, type, operation, fields from records ";
+		$query .= "where st_contains($geojson";
+		$query .= ", the_geom);";
+		
+		die(var_dump($query));
+		$data = $this->Db->query($query);
+		
+		if(!$data) return false;
+		
+		foreach($data as $key=> $value) {
+			if($data[$key]["type"] == true) {
+				$data[$key]["type"] = "1";
+			} elseif($data[$key]["type"] == 0) {
+				$data[$key]["type"] = "0";
+			}
+			
+			$data[$key]["address"] = utf8_decode($value["address"]);
+			$data[$key]["fields"]  = explode(",", utf8_decode($value["fields"]));
+		}
+		
+		return $data;
+	}
+	
 	//Heat Map Density
 	public function getHeatMapDensity($xmin, $ymin, $xmax, $ymax) {
 		$query  = "SELECT ST_AsGeoJson((ST_Dump(geom)).geom) as polygon, densidad from population_density where ST_Overlaps(ST_MakeEnvelope";
