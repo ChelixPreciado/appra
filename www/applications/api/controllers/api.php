@@ -66,7 +66,7 @@ class Api_Controller extends ZP_Controller {
 			
 			if(is_array($coordinates)) {
 				foreach($coordinates as $point) {
-					$geojson .= $point[0] . " " . $point[1] . ",";
+					$geojson .= $point[1] . " " . $point[0] . ",";
 				}
 				
 				$geojson  = rtrim($geojson, ",");
