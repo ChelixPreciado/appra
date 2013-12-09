@@ -78,7 +78,7 @@ class Api_Model extends ZP_Model {
 		$geojson .='"features": [';
 		
 		foreach($data as $key=> $value) {
-			$geojson .= '{ "type": "Feature", "properties": { "densidad": ' . $value["densidad"]. ' },';
+			$geojson .= '{ "type": "Feature", "properties": { "population": ' . $value["densidad"]. ', "color": "' . $this->getColorPopulation($value["densidad"]) . '" },';
 			$geojson .= '"geometry": ' . $value["polygon"];
 			$geojson .= '},';
 		}
@@ -106,7 +106,7 @@ class Api_Model extends ZP_Model {
 		$geojson .='"features": [';
 		
 		foreach($data as $key=> $value) {
-			$geojson .= '{ "type": "Feature", "properties": { "densidad": ' . $value["densidad"]. ' },';
+			$geojson .= '{ "type": "Feature", "properties": { "population": ' . $value["densidad"]. ', "color": "' . $this->getColorPopulation($value["densidad"]) . '" },';
 			$geojson .= '"geometry": ' . $value["polygon"];
 			$geojson .= '},';
 		}
@@ -138,5 +138,17 @@ class Api_Model extends ZP_Model {
 		$data = $this->Db->query($query);
 		
 		return $data;
+	}
+	
+	public function getColorPopulation($population) {
+		if($population > -1    and $population < 1000) return "#ffebd6";
+		if($population > 999   and $population < 2000)  return  "#f5cbae";
+		if($population > 1999  and $population < 5000)  return  "#eba988";
+		if($population > 4999  and $population < 10000) return  "#e08465";
+		if($population > 9999  and $population < 20000) return  "#d65d45";
+		if($population > 19999 and $population < 30000) return  "#cc3527";
+		if($population > 29999) return  "#c40a0a";
+		
+		return "#000";
 	}
 }

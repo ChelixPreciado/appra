@@ -81,10 +81,10 @@ function printResults(d) {
 	var zoom = map._zoom;
 		
 	/*HeatMap*/	
-	var density = d.density;
+	var density = d.population;
 	var heatmap =  L.geoJson(density, {
 		style: function(feature) {
-			densidad = feature.properties.densidad;
+			densidad = feature.properties.population;
 			
 			if(densidad > -1    && densidad < 1000)  return { fillOpacity: 0.7, opacity: 0.9, weight: 0, color: "#ffebd6" };
 			if(densidad > 999   && densidad < 2000)  return { fillOpacity: 0.7, opacity: 0.9, weight: 0, color: "#f5cbae" };

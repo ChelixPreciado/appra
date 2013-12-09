@@ -32,7 +32,7 @@ class Api_Controller extends ZP_Controller {
 				
 				if(is_array($layers) and $layers[0] !== "") {
 					foreach($layers as $layer) {
-						if($layer == "density") {
+						if($layer == "population") {
 							$vars[$layer] = json_decode($this->Api_Model->getHeatMapDensity($geom1[1], $geom1[0], $geom2[1], $geom2[0]));
 						} else {
 							$vars[$layer] = $this->Api_Model->defaultQuery($geom1[0], $geom1[1], $geom2[0], $geom2[1], $layer);
@@ -78,7 +78,7 @@ class Api_Controller extends ZP_Controller {
 				
 				if(is_array($layers) and $layers[0] !== "") {
 					foreach($layers as $layer) {
-						if($layer == "density") {
+						if($layer == "population") {
 							$vars[$layer] = json_decode($this->Api_Model->getHeatMapDensityDraw($geojson));
 						} else {
 							$vars[$layer] = $this->Api_Model->defaultQueryDraw($geojson, $layer);
