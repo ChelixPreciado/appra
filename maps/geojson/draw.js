@@ -52,7 +52,7 @@ $(document).ready( function () {
 			$.ajax({
 				cache: false,
 				type: 'POST',              
-				url: '/appra/index.php/api-draw/' + layers,
+				url: '/rahabit/index.php/api-draw/' + layers,
 				dataType: 'json',
 				data: geoJSON,
 				success: function (d) {

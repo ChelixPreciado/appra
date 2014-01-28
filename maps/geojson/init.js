@@ -58,7 +58,7 @@ function getResults(bounds) {
 		layers = layers.replace(/,+$/,'');
 		
 		$.ajax({
-			url: '/appra/index.php/api/'+bounds._southWest.lat+','+bounds._northEast.lng+'/'+bounds._northEast.lat+','+bounds._southWest.lng + '/' + layers,
+			url: '/rahabit/index.php/api/'+bounds._southWest.lat+','+bounds._northEast.lng+'/'+bounds._northEast.lat+','+bounds._southWest.lng + '/' + layers,
 			dataType: 'json',
 			contentType: "application/json; charset=utf-8",
 			success: function load(d) {
