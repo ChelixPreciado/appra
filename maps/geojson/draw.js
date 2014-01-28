@@ -43,7 +43,8 @@ $(document).ready( function () {
 			drawnItems.addLayer(layer);
 			
 			var geoJSON = layer.toGeoJSON();
-			console.log(geoJSON);
+			//console.log(geoJSON);
+			
 			/*each layers show*/
 			var layers = "";
 			$.each($(".l-show"), function(key, value) { layers = layers + $(this).attr("id") + ","; });
