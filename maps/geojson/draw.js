@@ -1,6 +1,6 @@
 $(document).ready( function () {
 	// Set the title to show on the polygon button
-	L.drawLocal.draw.toolbar.buttons.polygon = 'Dibuja un poligono sexy!';
+	//L.drawLocal.draw.toolbar.buttons.polygon = 'draw!';
 
 	var drawControl = new L.Control.Draw({
 		position: 'topright',
@@ -53,7 +53,7 @@ $(document).ready( function () {
 			$.ajax({
 				cache: false,
 				type: 'POST',              
-				url: '/rahabit/index.php/api-draw/' + layers,
+				url: baseurl + '/api-draw/' + layers,
 				dataType: 'json',
 				data: geoJSON,
 				success: function (d) {

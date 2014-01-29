@@ -1,5 +1,6 @@
 var map     = L.mapbox.map('map', 'examples.map-9ijuk24y').setView([19.4297430000517, -99.1283830003488], 15);
 var bounds  = map.getBounds();
+var baseurl = "/rahabit/index.php";
 
 //Base Layers
 var baseLayer   = L.mapbox.tileLayer('examples.map-9ijuk24y');
@@ -58,7 +59,7 @@ function getResults(bounds) {
 		layers = layers.replace(/,+$/,'');
 		
 		$.ajax({
-			url: '/rahabit/index.php/api/'+bounds._southWest.lat+','+bounds._northEast.lng+'/'+bounds._northEast.lat+','+bounds._southWest.lng + '/' + layers,
+			url: baseurl + '/api/' + bounds._southWest.lat + ',' + bounds._northEast.lng + '/' + bounds._northEast.lat + ',' + bounds._southWest.lng + '/' + layers,
 			dataType: 'json',
 			contentType: "application/json; charset=utf-8",
 			success: function load(d) {
