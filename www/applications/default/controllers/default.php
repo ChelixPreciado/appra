@@ -9,14 +9,12 @@ class Default_Controller extends ZP_Controller {
 	public function __construct() {
 		$this->app("default");
 		
-		$this->Templates = $this->core("Templates");
+		//$this->Templates = $this->core("Templates");
 		
-		$this->Templates->theme();
+		//$this->Templates->theme();
 	}
 	
 	public function index() {
-		$vars["view"] = $this->view("home", TRUE);
-		
-		$this->render("content", $vars);
+		redirect("http://rahabit.com");
 	}
 }
