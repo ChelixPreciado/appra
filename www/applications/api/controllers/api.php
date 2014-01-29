@@ -87,7 +87,6 @@ class Api_Controller extends ZP_Controller {
 				}
 				
 				echo json_encode($vars);
-
 			} else {
 				echo false;
 			}
