@@ -60,6 +60,8 @@ body { margin:0; padding:0; }
 	top: 0;
 	width: 80px;
 	z-index:2;
+	overflow-x: hidden;
+    overflow-y: auto;
 	-webkit-transition: left 1s ease;
 	-moz-transition: left 1s ease;
 	-o-transition: left 1s ease;
