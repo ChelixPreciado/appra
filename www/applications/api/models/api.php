@@ -16,7 +16,7 @@ class Api_Model extends ZP_Model {
 	
 	//Get Records [Apartaments-Home] [Rent-Sell]
 	public function getRecords($xmin, $ymin, $xmax, $ymax, $filters = false) {
-		$query  = "SELECT id_record, lat, lon, address, amount, type, operation, area, cast(rooms as text), bathrooms, parking from records ";
+		$query  = "SELECT id_record, lat, lon, address, amount, type, operation, area, rooms, bathrooms, parking from records ";
 		$query .= "where st_contains(ST_MakeEnvelope($xmin,$ymin,$xmax,$ymax, 4326)";
 		$query .= ", the_geom);";
 		
@@ -25,6 +25,11 @@ class Api_Model extends ZP_Model {
 		if(!$data) return false;
 		
 		foreach($data as $key=> $value) {
+			if($data[$key]["area"]      == true) $data[$key]["area"]      = "1";
+			if($data[$key]["rooms"]     == true) $data[$key]["rooms"]     = "1";
+			if($data[$key]["bathrooms"] == true) $data[$key]["bathrooms"] = "1";
+			if($data[$key]["parking"]   == true) $data[$key]["parking"]   = "1";
+			
 			if($data[$key]["type"] == true) {
 				$data[$key]["type"] = "1";
 			} elseif($data[$key]["type"] == 0) {
