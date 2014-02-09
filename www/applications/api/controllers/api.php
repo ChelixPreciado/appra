@@ -92,9 +92,4 @@ class Api_Controller extends ZP_Controller {
 			}
 		}
 	}
-	
-	/*Update fields in Databse text->json*/
-	public function fields() {
-		$vars["results"] = $this->Api_Model->fields();
-	}
 }

@@ -151,31 +151,4 @@ class Api_Model extends ZP_Model {
 		
 		return "#000";
 	}
-	
-	/*Update fields in Database text->json*/
-	public function fields() {
-		$query   = "SELECT id_record, fields_clean from records;";
-		$results = $this->Db->query($query);
-		
-		foreach($results as $result) {
-			$array = explode(",", $result["fields_clean"]);
-			$json  = '{';
-				$json .= '"area":' . trim(str_replace(" m2 construcciÃ³n", "", $array[0])) . ',';
-				$json .= '"rooms":' . trim(str_replace(" RecÃ¡maras", "", $array[1])) . ',';
-				$json .= '"bathrooms":' . trim(str_replace(" BaÃ±os", "", $array[2])) . ',';
-				$json .= '"parking":' . trim(str_replace(" Estacionamientos", "", $array[3]));
-			$json .= '}';
-			
-			$area      = trim(str_replace(" m2 construcciÃ³n", "", $array[0]));
-			$rooms     = trim(str_replace(" RecÃ¡maras", "", $array[1]));
-			$bathrooms = trim(str_replace(" BaÃ±os", "", $array[2]));
-			$parking   = trim(str_replace(" Estacionamientos", "", $array[3]));
-				
-			$query = "update records set area=".$area.", rooms=".$rooms.",  bathrooms=".$bathrooms.", parking=".$parking." where id_record=" . $result["id_record"];
-			$this->Db->query($query);
-			echo $query . "<br/>";
-		}
-		
-		die("end...");
-	}
 }

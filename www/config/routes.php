@@ -27,12 +27,5 @@ $routes = array(
 		"controller"  => "api",
 		"method"	  => "getHeatMapDensity",
 		"params"	  => array(segment(1), segment(2), segment(3))
-	),
-	3 => array(
-		"pattern"	  => "/^fields/",
-		"application" => "api",
-		"controller"  => "api",
-		"method"	  => "fields",
-		"params"	  => array()
 	)
 );
