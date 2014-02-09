@@ -167,11 +167,11 @@ class Api_Model extends ZP_Model {
 				$json .= '"parking":' . trim(str_replace(" Estacionamientos", "", $array[3]));
 			$json .= '}';
 			
-			echo $json . "<br/>";
-			
 			$query = "update records set fields='" . $json . "' where id_record=" . $result["id_record"];
-			die(var_dump($query));
 			$this->Db->query($query);
+			echo $query . "<br/>";
 		}
+		
+		die("end...");
 	}
 }
