@@ -159,7 +159,8 @@ class Api_Model extends ZP_Model {
 		$results = $this->Db->query($query);
 		
 		foreach($results as $result) {
-			die(var_dump($result));
+			$array = explode(",", $result["fields_clean"]);
+			die(var_dump($array));
 		}
 	}
 }
