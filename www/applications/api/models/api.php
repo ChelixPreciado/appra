@@ -154,6 +154,7 @@ class Api_Model extends ZP_Model {
 	
 	
 	/*Update fields in Database text->json*/
+	/*
 	public function fields() {
 		$query   = "SELECT id_record, fields_clean from records;";
 		$results = $this->Db->query($query);
@@ -174,4 +175,5 @@ class Api_Model extends ZP_Model {
 		
 		die("end...");
 	}
+	*/
 }
