@@ -16,6 +16,8 @@ class Api_Model extends ZP_Model {
 	
 	//Get Records [Apartaments-Home] [Rent-Sell]
 	public function getRecords($xmin, $ymin, $xmax, $ymax, $filters = false) {
+		die(var_dump($filters));
+		
 		$query  = "SELECT id_record, lat, lon, address, amount, type, operation, area, rooms, bathrooms, parking from records ";
 		$query .= "where st_contains(ST_MakeEnvelope($xmin,$ymin,$xmax,$ymax, 4326)";
 		$query .= ", the_geom);";
