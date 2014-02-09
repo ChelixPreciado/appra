@@ -152,9 +152,7 @@ class Api_Model extends ZP_Model {
 		return "#000";
 	}
 	
-	
 	/*Update fields in Database text->json*/
-	/*
 	public function fields() {
 		$query   = "SELECT id_record, fields_clean from records;";
 		$results = $this->Db->query($query);
@@ -168,12 +166,17 @@ class Api_Model extends ZP_Model {
 				$json .= '"parking":' . trim(str_replace(" Estacionamientos", "", $array[3]));
 			$json .= '}';
 			
-			$query = "update records set fields='" . $json . "' where id_record=" . $result["id_record"];
+			$area      = trim(str_replace(" m2 construcciÃ³n", "", $array[0]));
+			$rooms     = trim(str_replace(" RecÃ¡maras", "", $array[1]));
+			$bathrooms = trim(str_replace(" BaÃ±os", "", $array[2]));
+			$parking   = trim(str_replace(" Estacionamientos", "", $array[3]));
+				
+			$query = "update records set area=".$area.", rooms=".$rooms.",  bathrooms=".$bathrooms.", parking=".$parking." where id_record=" . $result["id_record"];
+			die(var_dump($query));
 			$this->Db->query($query);
 			echo $query . "<br/>";
 		}
 		
 		die("end...");
 	}
-	*/
 }
