@@ -53,7 +53,7 @@ class Api_Controller extends ZP_Controller {
 			if(count($geom1) == 2 and count($geom2) == 2) {
 				$vars["results"] = $this->Api_Model->getHeatMapDensity($geom1[1], $geom1[0], $geom2[1], $geom2[0]);
 				
-				echo json_encode($vars);
+				echo json_encode($vars, JSON_NUMERIC_CHECK);
 			}
 		}
 	}
@@ -86,7 +86,7 @@ class Api_Controller extends ZP_Controller {
 					}
 				}
 				
-				echo json_encode($vars);
+				echo json_encode($vars, JSON_NUMERIC_CHECK);
 			} else {
 				echo false;
 			}
