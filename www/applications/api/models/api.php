@@ -16,7 +16,7 @@ class Api_Model extends ZP_Model {
 	
 	//Get Records [Apartaments-Home] [Rent-Sell]
 	public function getRecords($xmin, $ymin, $xmax, $ymax, $filters = false) {
-		$query  = "SELECT id_record, lat, lon, address, amount, type, operation, fields from records ";
+		$query  = "SELECT id_record, lat, lon, address, amount, type, operation, area, rooms, bathrooms, parking from records ";
 		$query .= "where st_contains(ST_MakeEnvelope($xmin,$ymin,$xmax,$ymax, 4326)";
 		$query .= ", the_geom);";
 		
@@ -32,7 +32,6 @@ class Api_Model extends ZP_Model {
 			}
 			
 			$data[$key]["address"] = utf8_decode($value["address"]);
-			$data[$key]["fields"]  = explode(",", utf8_decode($value["fields"]));
 		}
 		
 		return $data;
@@ -40,7 +39,7 @@ class Api_Model extends ZP_Model {
 	
 	//Get Records with Draw Polygon [geojson var construct varchar] [Apartaments-Home] [Rent-Sell]
 	public function getRecordsDraw($geojson, $filters = false) {
-		$query  = "SELECT id_record, lat, lon, address, amount, type, operation, fields from records ";
+		$query  = "SELECT id_record, lat, lon, address, amount, type, operation, area, rooms, bathrooms, parking from records ";
 		$query .= "where st_contains($geojson";
 		$query .= ", the_geom);";
 		
@@ -56,7 +55,6 @@ class Api_Model extends ZP_Model {
 			}
 			
 			$data[$key]["address"] = utf8_decode($value["address"]);
-			$data[$key]["fields"]  = explode(",", utf8_decode($value["fields"]));
 		}
 		
 		return $data;
