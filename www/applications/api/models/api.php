@@ -166,7 +166,7 @@ class Api_Model extends ZP_Model {
 			$data["bathroom"] = trim(str_replace(" BaÃ±os", "", $array[2]));
 			$data["parking"]  = trim(str_replace(" Estacionamientos", "", $array[3]));
 			
-			die(var_dump($array));
+			die(var_dump($data));
 		}
 	}
 }
