@@ -25,10 +25,10 @@ class Api_Model extends ZP_Model {
 		if(!$data) return false;
 		
 		foreach($data as $key=> $value) {
-			if($data[$key]["area"]      == true) $data[$key]["area"]      = "1";
-			if($data[$key]["rooms"]     == true) $data[$key]["rooms"]     = "1";
-			if($data[$key]["bathrooms"] == true) $data[$key]["bathrooms"] = "1";
-			if($data[$key]["parking"]   == true) $data[$key]["parking"]   = "1";
+			if($data[$key]["area"]      === true) $data[$key]["area"]      = "1";
+			if($data[$key]["rooms"]     === true) $data[$key]["rooms"]     = "1";
+			if($data[$key]["bathrooms"] === true) $data[$key]["bathrooms"] = "1";
+			if($data[$key]["parking"]   === true) $data[$key]["parking"]   = "1";
 			
 			if($data[$key]["type"] == true) {
 				$data[$key]["type"] = "1";
