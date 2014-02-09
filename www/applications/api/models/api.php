@@ -163,7 +163,7 @@ class Api_Model extends ZP_Model {
 			$json  = '{';
 				$json .= '"area":' . trim(str_replace(" m2 construcciÃ³n", "", $array[0])) . ',';
 				$json .= '"rooms":' . trim(str_replace(" RecÃ¡maras", "", $array[1])) . ',';
-				$json .= '"bathroom":' . trim(str_replace(" BaÃ±os", "", $array[2])) . ',';
+				$json .= '"bathrooms":' . trim(str_replace(" BaÃ±os", "", $array[2])) . ',';
 				$json .= '"parking":' . trim(str_replace(" Estacionamientos", "", $array[3]));
 			$json .= '}';
 			
