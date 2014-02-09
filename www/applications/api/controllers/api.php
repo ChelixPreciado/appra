@@ -40,7 +40,7 @@ class Api_Controller extends ZP_Controller {
 					}
 				}
 				
-				echo json_encode($vars);
+				echo json_encode($vars, JSON_NUMERIC_CHECK);
 			}
 		}
 	}
