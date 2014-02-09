@@ -160,8 +160,14 @@ class Api_Model extends ZP_Model {
 		
 		foreach($results as $result) {
 			$array = explode(",", $result["fields_clean"]);
+			die(var_dump($array));
+			
 			$data["area"] = str_replace(" m2 construcciÃ³n", "", $array[0]);
-			die(var_dump($data));
+			$data["area"] = str_replace(" m2 construcciÃ³n", "", $array[1]);
+			$data["area"] = str_replace(" m2 construcciÃ³n", "", $array[2]);
+			$data["area"] = str_replace(" m2 construcciÃ³n", "", $array[3]);
+			$data["area"] = str_replace(" m2 construcciÃ³n", "", $array[4]);
+			
 		}
 	}
 }
