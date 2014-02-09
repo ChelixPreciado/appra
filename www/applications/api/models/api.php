@@ -151,4 +151,15 @@ class Api_Model extends ZP_Model {
 		
 		return "#000";
 	}
+	
+	
+	/*Update fields in Database text->json*/
+	public function fields() {
+		$query   = "SELECT id_record, fields_clean from records;";
+		$results = $this->Db->query($query);
+		
+		foreach($results as $result) {
+			die(var_dump($result));
+		}
+	}
 }
