@@ -30,7 +30,7 @@ class Api_Controller extends ZP_Controller {
 			
 			if(count($geom1) == 2 and count($geom2) == 2) {
 				$vars["results"] = $this->Api_Model->getRecords($geom1[0], $geom1[1], $geom2[0], $geom2[1], $filters);
-				
+				die(var_dump($layers));
 				if(is_array($layers) and $layers[0] !== "") {
 					foreach($layers as $layer) {
 						if($layer == "population") {
