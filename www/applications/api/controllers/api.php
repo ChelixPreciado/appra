@@ -23,9 +23,10 @@ class Api_Controller extends ZP_Controller {
 
 	public function getNearResults($geom1 = false, $geom2 = false, $layers = false, $filters = false) {
 		if($geom1 and $geom2) {
-			$geom1  = explode(",", $geom1);
-			$geom2  = explode(",", $geom2);
-			$layers = explode(",", $layers);
+			$geom1   = explode(",", $geom1);
+			$geom2   = explode(",", $geom2);
+			$layers  = explode(",", $layers);
+			$filters = explode(",", $filters);
 			
 			if(count($geom1) == 2 and count($geom2) == 2) {
 				$vars["results"] = $this->Api_Model->getRecords($geom1[0], $geom1[1], $geom2[0], $geom2[1], $filters);

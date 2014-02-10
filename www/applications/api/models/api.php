@@ -16,7 +16,25 @@ class Api_Model extends ZP_Model {
 	
 	//Get Records [Apartaments-Home] [Rent-Sell]
 	public function getRecords($xmin, $ymin, $xmax, $ymax, $filters = false) {
-		die(var_dump($filters));
+		$queryFilters = "";
+		
+		if(is_array($filters) and $filters[0] !== "") {
+			foreach($filters as $filter) {
+				$filter = explode("=", $filter);
+				
+				if(is_array($filter) and $filter[0] !== "") {
+					$range = explode("&", $filter[1]);
+					die(var_dump($range));
+					if($filter[0] == "area")          $queryFilters .= "";
+					elseif($filter[0] == "rooms")     $queryFilters .= "";
+					elseif($filter[0] == "bathrooms") $queryFilters .= "";
+					elseif($filter[0] == "parking")   $queryFilters .= "";
+				}
+			}
+			
+			die(var_dump($queryFilters));
+			if(isset($filters["area"])) $queryFilters .= "and area=".;
+		}
 		
 		$query  = "SELECT id_record, lat, lon, address, amount, type, operation, area, rooms, bathrooms, parking from records ";
 		$query .= "where st_contains(ST_MakeEnvelope($xmin,$ymin,$xmax,$ymax, 4326)";
