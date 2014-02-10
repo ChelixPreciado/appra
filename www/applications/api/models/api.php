@@ -24,11 +24,14 @@ class Api_Model extends ZP_Model {
 				
 				if(is_array($filter) and $filter[0] !== "") {
 					$range = explode("&", $filter[1]);
-					die(var_dump($range));
-					if($filter[0] == "area")          $queryFilters .= "";
-					elseif($filter[0] == "rooms")     $queryFilters .= "";
-					elseif($filter[0] == "bathrooms") $queryFilters .= "";
-					elseif($filter[0] == "parking")   $queryFilters .= "";
+					
+					if(is_array($range) and isset($range[1]) and is_numeric($range[0]) and is_numeric($range[1])) {
+						if($filter[0] == "area")          $queryFilters .= " and area>="      . $range[0]  . " and area<="      . $range[1];
+						elseif($filter[0] == "rooms")     $queryFilters .= " and rooms>="     . $range[0] . " and rooms<="     . $range[1];
+						elseif($filter[0] == "bathrooms") $queryFilters .= " and bathrooms>=" . $range[0] . " and bathrooms<=" . $range[1];
+						elseif($filter[0] == "parking")   $queryFilters .= " and v>="         . $range[0] . " and parking<="   . $range[1];
+					}
+
 				}
 			}
 			
