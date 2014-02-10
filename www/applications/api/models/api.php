@@ -33,7 +33,6 @@ class Api_Model extends ZP_Model {
 			}
 			
 			die(var_dump($queryFilters));
-			if(isset($filters["area"])) $queryFilters .= "and area=".;
 		}
 		
 		$query  = "SELECT id_record, lat, lon, address, amount, type, operation, area, rooms, bathrooms, parking from records ";
