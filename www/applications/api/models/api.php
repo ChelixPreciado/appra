@@ -16,15 +16,40 @@ class Api_Model extends ZP_Model {
 	
 	//Get Records [Apartaments-Home] [Rent-Sell]
 	public function getRecords($xmin, $ymin, $xmax, $ymax, $filters = false) {
-		$query  = "SELECT id_record, lat, lon, address, amount, type, operation, fields from records ";
+		$queryFilters = "";
+		
+		if(is_array($filters) and $filters[0] !== "") {
+			foreach($filters as $filter) {
+				$filter = explode("=", $filter);
+				
+				if(is_array($filter) and $filter[0] !== "") {
+					$range = explode("&", $filter[1]);
+					
+					if(is_array($range) and isset($range[1]) and is_numeric($range[0]) and is_numeric($range[1])) {
+						if($filter[0] == "amount")        $queryFilters .= " and amount>="    . $range[0] . " and amount<="    . $range[1];
+						elseif($filter[0] == "area")      $queryFilters .= " and area>="      . $range[0] . " and area<="      . $range[1];
+						elseif($filter[0] == "rooms")     $queryFilters .= " and rooms>="     . $range[0] . " and rooms<="     . $range[1];
+						elseif($filter[0] == "bathrooms") $queryFilters .= " and bathrooms>=" . $range[0] . " and bathrooms<=" . $range[1];
+						elseif($filter[0] == "parking")   $queryFilters .= " and parking>="   . $range[0] . " and parking<="   . $range[1];
+					}
+				}
+			}
+		}
+		
+		$query  = "SELECT id_record, lat, lon, address, amount, type, operation, area, rooms, bathrooms, parking from records ";
 		$query .= "where st_contains(ST_MakeEnvelope($xmin,$ymin,$xmax,$ymax, 4326)";
-		$query .= ", the_geom);";
+		$query .= ", the_geom)" . $queryFilters . ";";
 		
 		$data = $this->Db->query($query);
 		
 		if(!$data) return false;
 		
 		foreach($data as $key=> $value) {
+			if($data[$key]["area"]      === true) $data[$key]["area"]      = "1";
+			if($data[$key]["rooms"]     === true) $data[$key]["rooms"]     = "1";
+			if($data[$key]["bathrooms"] === true) $data[$key]["bathrooms"] = "1";
+			if($data[$key]["parking"]   === true) $data[$key]["parking"]   = "1";
+			
 			if($data[$key]["type"] == true) {
 				$data[$key]["type"] = "1";
 			} elseif($data[$key]["type"] == 0) {
@@ -32,7 +57,6 @@ class Api_Model extends ZP_Model {
 			}
 			
 			$data[$key]["address"] = utf8_decode($value["address"]);
-			$data[$key]["fields"]  = explode(",", utf8_decode($value["fields"]));
 		}
 		
 		return $data;
@@ -40,7 +64,7 @@ class Api_Model extends ZP_Model {
 	
 	//Get Records with Draw Polygon [geojson var construct varchar] [Apartaments-Home] [Rent-Sell]
 	public function getRecordsDraw($geojson, $filters = false) {
-		$query  = "SELECT id_record, lat, lon, address, amount, type, operation, fields from records ";
+		$query  = "SELECT id_record, lat, lon, address, amount, type, operation, area, rooms, bathrooms, parking from records ";
 		$query .= "where st_contains($geojson";
 		$query .= ", the_geom);";
 		
@@ -56,7 +80,6 @@ class Api_Model extends ZP_Model {
 			}
 			
 			$data[$key]["address"] = utf8_decode($value["address"]);
-			$data[$key]["fields"]  = explode(",", utf8_decode($value["fields"]));
 		}
 		
 		return $data;

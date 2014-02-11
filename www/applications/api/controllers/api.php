@@ -21,16 +21,17 @@ class Api_Controller extends ZP_Controller {
 		$this->render("content", $vars);
 	}
 
-	public function getNearResults($geom1 = false, $geom2 = false, $layers = false) {
+	public function getNearResults($geom1 = false, $geom2 = false, $layers = false, $filters = false) {
 		if($geom1 and $geom2) {
-			$geom1  = explode(",", $geom1);
-			$geom2  = explode(",", $geom2);
-			$layers = explode(",", $layers);
+			$geom1   = explode(",", $geom1);
+			$geom2   = explode(",", $geom2);
+			$layers  = explode(",", $layers);
+			$filters = explode(",", $filters);
 			
 			if(count($geom1) == 2 and count($geom2) == 2) {
-				$vars["results"] = $this->Api_Model->getRecords($geom1[0], $geom1[1], $geom2[0], $geom2[1]);
+				$vars["results"] = $this->Api_Model->getRecords($geom1[0], $geom1[1], $geom2[0], $geom2[1], $filters);
 				
-				if(is_array($layers) and $layers[0] !== "") {
+				if(is_array($layers) and $layers[0] !== "" and $layers[0] !== "false") {
 					foreach($layers as $layer) {
 						if($layer == "population") {
 							$vars[$layer] = json_decode($this->Api_Model->getHeatMapDensity($geom1[1], $geom1[0], $geom2[1], $geom2[0]));
@@ -40,7 +41,7 @@ class Api_Controller extends ZP_Controller {
 					}
 				}
 				
-				echo json_encode($vars);
+				echo json_encode($vars, JSON_NUMERIC_CHECK);
 			}
 		}
 	}
@@ -53,7 +54,7 @@ class Api_Controller extends ZP_Controller {
 			if(count($geom1) == 2 and count($geom2) == 2) {
 				$vars["results"] = $this->Api_Model->getHeatMapDensity($geom1[1], $geom1[0], $geom2[1], $geom2[0]);
 				
-				echo json_encode($vars);
+				echo json_encode($vars, JSON_NUMERIC_CHECK);
 			}
 		}
 	}
@@ -86,7 +87,7 @@ class Api_Controller extends ZP_Controller {
 					}
 				}
 				
-				echo json_encode($vars);
+				echo json_encode($vars, JSON_NUMERIC_CHECK);
 			} else {
 				echo false;
 			}
