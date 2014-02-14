@@ -10,81 +10,26 @@
 		<script src="js/jquery.nouislider.min.js" type="text/javascript"></script>
 		<style>
 			#slider {
-			  width: 300px;
+			  max-width: 300px;
 			  margin: 30px auto;
 			}
-
-			form {
-			  border: 1px solid #ccc;
-			  width: 500px;
-			  margin: 0 auto 30px;
-			}
-
-			table {
-			  font-family: Arial;
-			  table-layout: fixed;
-			  width: 500px;
-			  margin: 0 auto;
-			  text-align: center;
-			}
-			td {
-			  width: 50%;
-			  padding: 10px;
-			}
-
-			input, select {
-			  padding: 5px;
+			
+			[disabled] .noUi-connect {
+				background: #000;
 			}
 		</style>
 	</head>
 	
 	<body>
 		<form id="form">
-	
-		  <table>
-			<tr>
-			  <td>Minimum price for <br>this product (in €):</td>
-			  <td><input name="min-euro" id="min-euro"></td>
-			</tr>
-		  </table>
-
 			<div id="slider"></div>
-
-		  <table>
-			<tr>
-			  <td>Conversion rate:</td>
-			  <td>€1 = $1.35</td>
-			</tr>
-			<tr>
-			  <td>The minimum price is:</td>
-			  <td><pre id="dollar"></pre></td>
-			</tr>
-		  </table>
+			<label>
+				<input id="disable-checkbox" type="checkbox"> Disable this slider
+			</label>
 		</form>
-
-		<table>
-			<tr>
-				<td>The maximum price <br>for this product:</td>
-				<td><input id="max-euro" type="text"></td>
-			</tr>
-			<tr>
-				<td>Consumer considerations:</td>
-				<td>
-			  <select id="pricing">
-					  <option value="2">Cheap!</option>
-				<option value="3">Affordable :)</option>
-				<option value="4">Okay.</option>
-				<option value="5">Pricey!</option>
-				<option value="6">Really expensive :(</option>
-			  </select>
-				</td>
-			</tr>
-			<tr>
-				<td>Form value for webserver:</td>
-				<td><pre id="request">-</pre></td>
-			</tr>
-		</table>
 		
+		<span id="min-span"></span>
+		<span id="max-span"></span>
 		<input type="hidden" id="min" name="min"/>
 		<input type="hidden" id="max" name="max"/>
 		
