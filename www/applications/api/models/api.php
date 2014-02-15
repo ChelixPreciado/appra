@@ -184,6 +184,17 @@ class Api_Model extends ZP_Model {
 		
 		if(!$data and is_array($data)) return false;
 		
+		if($data[0]["area"]      === true) $data[0]["area"]      = "1";
+		if($data[0]["rooms"]     === true) $data[0]["rooms"]     = "1";
+		if($data[0]["bathrooms"] === true) $data[0]["bathrooms"] = "1";
+		if($data[0]["parking"]   === true) $data[0]["parking"]   = "1";
+		
+		if($data[0]["type"] == true) {
+			$data[0]["type"] = "1";
+		} elseif($data[0]["type"] == 0) {
+			$data[0]["type"] = "0";
+		}
+			
 		$data[0]["address"] = utf8_decode($data[0]["address"]);
 		
 		return $data[0];
