@@ -181,7 +181,7 @@ class Api_Model extends ZP_Model {
 		$query .= "where id_record=$id_record;";
 		
 		$data = $this->Db->query($query);
-		die(var_dump($data));
+		
 		if(!$data and is_array($data)) return false;
 		
 		return $data[0];
