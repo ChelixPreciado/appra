@@ -182,7 +182,7 @@ class Api_Model extends ZP_Model {
 		
 		$data = $this->Db->query($query);
 		
-		if(!$data and is_array($data)) return false;
+		if(!$data and !is_array($data)) return false;
 		
 		if($data[0]["area"]      === true) $data[0]["area"]      = "1";
 		if($data[0]["rooms"]     === true) $data[0]["rooms"]     = "1";
