@@ -184,6 +184,8 @@ class Api_Model extends ZP_Model {
 		
 		if(!$data and is_array($data)) return false;
 		
+		$data[0]["address"] = utf8_decode($value["address"]);
+		
 		return $data[0];
 	}
 }
