@@ -22,10 +22,10 @@ class Api_Controller extends ZP_Controller {
 	}
 	
 	public function get($id_record = false) {
-		$vars["results"] = false;
+		$vars["result"] = false;
 		
 		if(is_numeric($id_record)) {
-			$vars["results"] = $this->Api_Model->getByID($id_record);
+			$vars["result"] = $this->Api_Model->getByID($id_record);
 		}
 		
 		echo json_encode($vars, JSON_NUMERIC_CHECK);
