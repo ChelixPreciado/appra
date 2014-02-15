@@ -163,6 +163,7 @@ class Api_Model extends ZP_Model {
 		return $data;
 	}
 	
+	//Heatmap colors
 	public function getColorPopulation($population) {
 		if($population > -1    and $population < 1000) return "#ffebd6";
 		if($population > 999   and $population < 2000)  return  "#f5cbae";
@@ -173,5 +174,16 @@ class Api_Model extends ZP_Model {
 		if($population > 29999) return  "#c40a0a";
 		
 		return "#000";
+	}
+	
+	public function getByID($id_record = false) {
+		$query  = "SELECT id_record, lat, lon, address, amount, type, operation, area, rooms, bathrooms, parking from records ";
+		$query .= "where id_record=$id_record;";
+		
+		$data = $this->Db->query($query);
+		die(var_dump($data));
+		if(!$data and is_array($data)) return false;
+		
+		return $data[0];
 	}
 }

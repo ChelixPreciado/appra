@@ -8,20 +8,27 @@ if(!defined("_access")) {
 
 $routes = array(
 	0 => array(
+		"pattern"	  => "/^get/",
+		"application" => "api",
+		"controller"  => "api",
+		"method"	  => "get",
+		"params"	  => array(segment(1))
+	),
+	1 => array(
 		"pattern"	  => "/^api-draw/",
 		"application" => "api",
 		"controller"  => "api",
 		"method"	  => "getNearResultsDraw",
 		"params"	  => array(segment(1))
 	),
-	1 => array(
+	2 => array(
 		"pattern"	  => "/^api/",
 		"application" => "api",
 		"controller"  => "api",
 		"method"	  => "getNearResults",
 		"params"	  => array(segment(1), segment(2), segment(3), segment(4))
 	),
-	2 => array(
+	3 => array(
 		"pattern"	  => "/^heat-map/",
 		"application" => "api",
 		"controller"  => "api",

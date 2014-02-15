@@ -20,7 +20,17 @@ class Api_Controller extends ZP_Controller {
 		
 		$this->render("content", $vars);
 	}
-
+	
+	public function get($id_record = false) {
+		$vars["results"] = false;
+		
+		if(is_numeric($id_record)) {
+			$vars["results"] = $this->Api_Model->getByID($id_record);
+		}
+		
+		echo json_encode($vars, JSON_NUMERIC_CHECK);
+	}
+		
 	public function getNearResults($geom1 = false, $geom2 = false, $layers = false, $filters = false) {
 		if($geom1 and $geom2) {
 			$geom1   = explode(",", $geom1);
