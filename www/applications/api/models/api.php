@@ -36,7 +36,7 @@ class Api_Model extends ZP_Model {
 			}
 		}
 		
-		$query  = "SELECT id_record, lat, lon, address, amount, type, operation, area, rooms, bathrooms, parking from records ";
+		$query  = "SELECT id_record, lat, lon, address, amount, image_url, type, operation, area, rooms, bathrooms, parking from records ";
 		$query .= "where st_contains(ST_MakeEnvelope($xmin,$ymin,$xmax,$ymax, 4326)";
 		$query .= ", the_geom)" . $queryFilters . ";";
 		
@@ -64,7 +64,7 @@ class Api_Model extends ZP_Model {
 	
 	//Get Records with Draw Polygon [geojson var construct varchar] [Apartaments-Home] [Rent-Sell]
 	public function getRecordsDraw($geojson, $filters = false) {
-		$query  = "SELECT id_record, lat, lon, address, amount, type, operation, area, rooms, bathrooms, parking from records ";
+		$query  = "SELECT id_record, lat, lon, address, amount, image_url, type, operation, area, rooms, bathrooms, parking from records ";
 		$query .= "where st_contains($geojson";
 		$query .= ", the_geom);";
 		
@@ -177,7 +177,7 @@ class Api_Model extends ZP_Model {
 	}
 	
 	public function getByID($id_record = false) {
-		$query  = "SELECT id_record, lat, lon, address, amount, type, operation, area, rooms, bathrooms, parking from records ";
+		$query  = "SELECT id_record, lat, lon, address, amount, image_url, type, operation, area, rooms, bathrooms, parking from records ";
 		$query .= "where id_record=$id_record;";
 		
 		$data = $this->Db->query($query);
