@@ -13,6 +13,7 @@ class Api_Controller extends ZP_Controller {
 		$this->Api_Model = $this->model("Api_Model");
 		
 		$this->Templates->theme();
+		$this->layers = array("population", "fire_stations", "malls", "markets", "restaurants", "schools", "tianguis");
 	}
 	
 	public function index() {
@@ -46,7 +47,11 @@ class Api_Controller extends ZP_Controller {
 						if($layer == "population") {
 							$vars[$layer] = json_decode($this->Api_Model->getHeatMapDensity($geom1[1], $geom1[0], $geom2[1], $geom2[0]));
 						} else {
-							$vars[$layer] = $this->Api_Model->defaultQuery($geom1[0], $geom1[1], $geom2[0], $geom2[1], $layer);
+							if(in_array($layer, $this->layers)) {
+								$vars[$layer] = $this->Api_Model->defaultQuery($geom1[0], $geom1[1], $geom2[0], $geom2[1], $layer);
+							} else {
+								$vars[$layer] = false;
+							}
 						}
 					}
 				}
