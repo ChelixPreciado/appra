@@ -180,16 +180,38 @@ class Api_Model extends ZP_Model {
 	}
 	
 	//Heatmap colors - need to add price colors!
-	public function getColorHeatMap($population, $type = "price_rent") {
-		if($population > -1    and $population < 1000) return "#ffebd6";
-		if($population > 999   and $population < 2000)  return  "#f5cbae";
-		if($population > 1999  and $population < 5000)  return  "#eba988";
-		if($population > 4999  and $population < 10000) return  "#e08465";
-		if($population > 9999  and $population < 20000) return  "#d65d45";
-		if($population > 19999 and $population < 30000) return  "#cc3527";
-		if($population > 29999) return  "#c40a0a";
-		
-		return "#000";
+	public function getColorHeatMap($density, $type = "price_rent") {
+		if($type == "price_rent") {
+			if($density > -1    and $density <= 2500)  return "#0019ff";
+			if($density > 2500  and $density <= 5000)  return "#00d7ff";
+			if($density > 2500  and $density <= 5000)  return "#00d7ff";
+			if($density > 5000  and $density <= 10000) return "#4eff00";
+			if($density > 10000 and $density <= 30000) return "#fff700";
+			if($density > 30000 and $density <= 60000) return "#ff8900";
+			if($density > 60000) return  "#ff0c00";
+			
+			return "#0019ff";
+		} elseif($type == "price_sell") {
+			if($density > -1    and $density <= 2500)  return "#0019ff";
+			if($density > 2500  and $density <= 5000)  return "#00d7ff";
+			if($density > 2500  and $density <= 5000)  return "#00d7ff";
+			if($density > 5000  and $density <= 10000) return "#4eff00";
+			if($density > 10000 and $density <= 30000) return "#fff700";
+			if($density > 30000 and $density <= 60000) return "#ff8900";
+			if($density > 60000) return  "#ff0c00";
+			
+			return "#0019ff";
+		} else {
+			if($density > -1    and $density < 1000) return "#ffebd6";
+			if($density > 999   and $density < 2000)  return  "#f5cbae";
+			if($density > 1999  and $density < 5000)  return  "#eba988";
+			if($density > 4999  and $density < 10000) return  "#e08465";
+			if($density > 9999  and $density < 20000) return  "#d65d45";
+			if($density > 19999 and $density < 30000) return  "#cc3527";
+			if($density > 29999) return  "#c40a0a";
+			
+			return "#000";
+		}
 	}
 	
 	
