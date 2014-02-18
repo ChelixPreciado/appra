@@ -85,9 +85,15 @@ class Api_Model extends ZP_Model {
 		return $data;
 	}
 	
-	//Heat Map Density
-	public function getHeatMapDensity($xmin, $ymin, $xmax, $ymax) {
-		$query  = "SELECT ST_AsGeoJson((ST_Dump(geom)).geom) as polygon, densidad from population_density where ST_Overlaps(ST_MakeEnvelope";
+	//Heat Map Population - Price - $type
+	public function getHeatMap($xmin, $ymin, $xmax, $ymax, $type = "price") {
+		if($type == "price") {
+			$table = "price_density";
+		} else {
+			$table = "population_density";
+		}
+		
+		$query  = "SELECT ST_AsGeoJson((ST_Dump(geom)).geom) as polygon, densidad from $table where ST_Overlaps(ST_MakeEnvelope";
 		$query .= "($xmin,$ymin,$xmax,$ymax, 4326), geom) or ST_Contains(ST_MakeEnvelope";
 		$query .= "($xmin,$ymin,$xmax,$ymax, 4326), geom);";
 
@@ -101,7 +107,7 @@ class Api_Model extends ZP_Model {
 		$geojson .='"features": [';
 		
 		foreach($data as $key=> $value) {
-			$geojson .= '{ "type": "Feature", "properties": { "population": ' . $value["densidad"]. ', "color": "' . $this->getColorPopulation($value["densidad"]) . '" },';
+			$geojson .= '{ "type": "Feature", "properties": { "population": ' . $value["densidad"]. ', "color": "' . $this->getColorHeatMap($value["densidad"], $type) . '" },';
 			$geojson .= '"geometry": ' . $value["polygon"];
 			$geojson .= '},';
 		}
@@ -113,9 +119,15 @@ class Api_Model extends ZP_Model {
 		return $geojson;
 	}
 	
-	//Heat Map Density Draw Polygon [geojson var construct varchar]
-	public function getHeatMapDensityDraw($geojson) {
-		$query  = "SELECT ST_AsGeoJson((ST_Dump(geom)).geom) as polygon, densidad from population_density where ST_Overlaps(";
+	//Heat Map Population - Price - $type Draw Polygon [geojson var construct varchar]
+	public function getHeatMapDraw($geojson, $type = "price") {
+		if($type == "price") {
+			$table = "price_density";
+		} else {
+			$table = "population_density";
+		}
+		
+		$query  = "SELECT ST_AsGeoJson((ST_Dump(geom)).geom) as polygon, densidad from $table where ST_Overlaps(";
 		$query .= "$geojson, geom) or ST_Contains(";
 		$query .= "$geojson, geom);";
 
@@ -129,7 +141,7 @@ class Api_Model extends ZP_Model {
 		$geojson .='"features": [';
 		
 		foreach($data as $key=> $value) {
-			$geojson .= '{ "type": "Feature", "properties": { "population": ' . $value["densidad"]. ', "color": "' . $this->getColorPopulation($value["densidad"]) . '" },';
+			$geojson .= '{ "type": "Feature", "properties": { "population": ' . $value["densidad"]. ', "color": "' . $this->getColorHeatMap($value["densidad"], $type) . '" },';
 			$geojson .= '"geometry": ' . $value["polygon"];
 			$geojson .= '},';
 		}
@@ -163,8 +175,8 @@ class Api_Model extends ZP_Model {
 		return $data;
 	}
 	
-	//Heatmap colors
-	public function getColorPopulation($population) {
+	//Heatmap colors - need to add price colors!
+	public function getColorHeatMap($population, $type = "price") {
 		if($population > -1    and $population < 1000) return "#ffebd6";
 		if($population > 999   and $population < 2000)  return  "#f5cbae";
 		if($population > 1999  and $population < 5000)  return  "#eba988";
@@ -176,6 +188,8 @@ class Api_Model extends ZP_Model {
 		return "#000";
 	}
 	
+	
+	//Get simple record by ID
 	public function getByID($id_record = false) {
 		$query  = "SELECT id_record, lat, lon, address, amount, image_url, type, operation, area, rooms, bathrooms, parking from records ";
 		$query .= "where id_record=$id_record;";

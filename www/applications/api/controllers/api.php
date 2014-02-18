@@ -13,7 +13,7 @@ class Api_Controller extends ZP_Controller {
 		$this->Api_Model = $this->model("Api_Model");
 		
 		$this->Templates->theme();
-		$this->layers = array("population", "fire_stations", "malls", "markets", "restaurants", "schools", "tianguis");
+		$this->layers = array("population", "price", "fire_stations", "malls", "markets", "restaurants", "schools", "tianguis");
 	}
 	
 	public function index() {
@@ -44,8 +44,8 @@ class Api_Controller extends ZP_Controller {
 				
 				if(is_array($layers) and $layers[0] !== "" and $layers[0] !== "false") {
 					foreach($layers as $layer) {
-						if($layer == "population") {
-							$vars[$layer] = json_decode($this->Api_Model->getHeatMapDensity($geom1[1], $geom1[0], $geom2[1], $geom2[0]));
+						if($layer == "population" or $layer == "price") {
+							$vars[$layer] = json_decode($this->Api_Model->getHeatMap($geom1[1], $geom1[0], $geom2[1], $geom2[0], $layer));
 						} else {
 							if(in_array($layer, $this->layers)) {
 								$vars[$layer] = $this->Api_Model->defaultQuery($geom1[0], $geom1[1], $geom2[0], $geom2[1], $layer);
@@ -55,19 +55,6 @@ class Api_Controller extends ZP_Controller {
 						}
 					}
 				}
-				
-				echo json_encode($vars, JSON_NUMERIC_CHECK);
-			}
-		}
-	}
-	
-	public function getHeatMapDensity($geom1 = false, $geom2 = false) {
-		if($geom1 and $geom2) {
-			$geom1  = explode(",", $geom1);
-			$geom2  = explode(",", $geom2);
-			
-			if(count($geom1) == 2 and count($geom2) == 2) {
-				$vars["results"] = $this->Api_Model->getHeatMapDensity($geom1[1], $geom1[0], $geom2[1], $geom2[0]);
 				
 				echo json_encode($vars, JSON_NUMERIC_CHECK);
 			}
@@ -94,8 +81,8 @@ class Api_Controller extends ZP_Controller {
 				
 				if(is_array($layers) and $layers[0] !== "") {
 					foreach($layers as $layer) {
-						if($layer == "population") {
-							$vars[$layer] = json_decode($this->Api_Model->getHeatMapDensityDraw($geojson));
+						if($layer == "population" or $layer == "price") {
+							$vars[$layer] = json_decode($this->Api_Model->getHeatMapDraw($geojson, $layer));
 						} else {
 							$vars[$layer] = $this->Api_Model->defaultQueryDraw($geojson, $layer);
 						}
@@ -105,6 +92,20 @@ class Api_Controller extends ZP_Controller {
 				echo json_encode($vars, JSON_NUMERIC_CHECK);
 			} else {
 				echo false;
+			}
+		}
+	}
+	
+	//Method public deprecated
+	public function getHeatMapDensity($geom1 = false, $geom2 = false) {
+		if($geom1 and $geom2) {
+			$geom1  = explode(",", $geom1);
+			$geom2  = explode(",", $geom2);
+			
+			if(count($geom1) == 2 and count($geom2) == 2) {
+				$vars["results"] = $this->Api_Model->getHeatMapDensity($geom1[1], $geom1[0], $geom2[1], $geom2[0]);
+				
+				echo json_encode($vars, JSON_NUMERIC_CHECK);
 			}
 		}
 	}
