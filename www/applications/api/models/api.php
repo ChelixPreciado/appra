@@ -216,11 +216,27 @@ class Api_Model extends ZP_Model {
 			$geojson  = rtrim($geojson, ",");
 			$geojson .= "))', 4326)";
 				
-			$query  = "SELECT id_record, lat, lon, address, amount, image_url, type, operation, area, rooms, bathrooms, parking from records ";
+			$query  = "SELECT amount from records ";
 			$query .= "where st_contains($geojson";
 			$query .= ", the_geom);";
 			
 			$records = $this->Db->query($query);
+			
+			if($records) {
+				//update average
+				$average = 0;
+				die(var_dump(count($records)))
+				foreach($records as $record) {
+					$average += $record["amount"];
+				}
+				
+			} else {
+				//update 0
+				$average = 0;
+			}
+			
+			$update = $this->Db->query($query);
+			
 			die(var_dump($records));
 		}
 		
