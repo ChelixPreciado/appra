@@ -210,7 +210,9 @@ class Api_Model extends ZP_Model {
 			$query .= ", the_geom);";
 			
 			$records = $this->Db->query($query);
-			die(var_dump($records));
+			var_dump($records);
 		}
+		
+		die("ok");
 	}
 }
