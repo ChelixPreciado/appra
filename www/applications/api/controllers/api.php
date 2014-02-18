@@ -13,7 +13,7 @@ class Api_Controller extends ZP_Controller {
 		$this->Api_Model = $this->model("Api_Model");
 		
 		$this->Templates->theme();
-		$this->layers = array("population", "price", "fire_stations", "malls", "markets", "restaurants", "schools", "tianguis");
+		$this->layers = array("population", "price_rent", "price_sell", "fire_stations", "malls", "markets", "restaurants", "schools", "tianguis");
 	}
 	
 	public function index() {
@@ -46,7 +46,7 @@ class Api_Controller extends ZP_Controller {
 				
 				if(is_array($layers) and $layers[0] !== "" and $layers[0] !== "false") {
 					foreach($layers as $layer) {
-						if($layer == "population" or $layer == "price") {
+						if($layer == "population" or $layer == "price_rent" or $layer == "price_sell") {
 							$vars[$layer] = json_decode($this->Api_Model->getHeatMap($geom1[1], $geom1[0], $geom2[1], $geom2[0], $layer));
 						} else {
 							if(in_array($layer, $this->layers)) {
@@ -83,7 +83,7 @@ class Api_Controller extends ZP_Controller {
 				
 				if(is_array($layers) and $layers[0] !== "") {
 					foreach($layers as $layer) {
-						if($layer == "population" or $layer == "price") {
+						if($layer == "population" or $layer == "price_rent" or $layer == "price_sell") {
 							$vars[$layer] = json_decode($this->Api_Model->getHeatMapDraw($geojson, $layer));
 						} else {
 							$vars[$layer] = $this->Api_Model->defaultQueryDraw($geojson, $layer);

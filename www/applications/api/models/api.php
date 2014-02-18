@@ -86,9 +86,11 @@ class Api_Model extends ZP_Model {
 	}
 	
 	//Heat Map Population - Price - $type
-	public function getHeatMap($xmin, $ymin, $xmax, $ymax, $type = "price") {
-		if($type == "price") {
-			$table = "price_density";
+	public function getHeatMap($xmin, $ymin, $xmax, $ymax, $type = "price_rent") {
+		if($type == "price_rent") {
+			$table = "price_density_rent";
+		} elseif($type == "price_sell") {
+			$table = "price_density_sell";
 		} else {
 			$table = "population_density";
 		}
@@ -96,7 +98,8 @@ class Api_Model extends ZP_Model {
 		$query  = "SELECT ST_AsGeoJson((ST_Dump(geom)).geom) as polygon, densidad from $table where ST_Overlaps(ST_MakeEnvelope";
 		$query .= "($xmin,$ymin,$xmax,$ymax, 4326), geom) or ST_Contains(ST_MakeEnvelope";
 		$query .= "($xmin,$ymin,$xmax,$ymax, 4326), geom);";
-
+		
+		die(var_dump($query));
 		$data = $this->Db->query($query);
 		
 		if(!$data) return false;
@@ -120,9 +123,11 @@ class Api_Model extends ZP_Model {
 	}
 	
 	//Heat Map Population - Price - $type Draw Polygon [geojson var construct varchar]
-	public function getHeatMapDraw($geojson, $type = "price") {
-		if($type == "price") {
-			$table = "price_density";
+	public function getHeatMapDraw($geojson, $type = "price_rent") {
+		if($type == "price_rent") {
+			$table = "price_density_rent";
+		} elseif($type == "price_sell") {
+			$table = "price_density_sell";
 		} else {
 			$table = "population_density";
 		}
@@ -176,7 +181,7 @@ class Api_Model extends ZP_Model {
 	}
 	
 	//Heatmap colors - need to add price colors!
-	public function getColorHeatMap($population, $type = "price") {
+	public function getColorHeatMap($population, $type = "price_rent") {
 		if($population > -1    and $population < 1000) return "#ffebd6";
 		if($population > 999   and $population < 2000)  return  "#f5cbae";
 		if($population > 1999  and $population < 5000)  return  "#eba988";
