@@ -201,7 +201,7 @@ class Api_Model extends ZP_Model {
 	}
 	
 	public function price() {
-		$query = "SELECT gid, ST_AsGeoJson((ST_Dump(geom)).geom) as polygon, geom, densidad from population_density;";
+		$query = "SELECT gid, ST_AsGeoJson((ST_Dump(geom)).geom) as polygon, geom, densidad from price_density;";
 		$data  = $this->Db->query($query);
 		
 		foreach($data as $result) {
@@ -225,19 +225,21 @@ class Api_Model extends ZP_Model {
 			if($records) {
 				//update average
 				$average = 0;
-				die(var_dump(count($records)));
+				
 				foreach($records as $record) {
 					$average += $record["amount"];
 				}
 				
+				$average = $average/count($records);
 			} else {
 				//update 0
 				$average = 0;
 			}
 			
-			$update = $this->Db->query($query);
+			$query  = "update price_density set densidad=$average where gid=" . $result["gid"];
+			//$update = $this->Db->query($query);
 			
-			die(var_dump($records));
+			var_dump($query . "<br/>");
 		}
 		
 		die("ok");
