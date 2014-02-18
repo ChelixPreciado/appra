@@ -97,18 +97,4 @@ class Api_Controller extends ZP_Controller {
 			}
 		}
 	}
-	
-	//Method public deprecated
-	public function getHeatMapDensity($geom1 = false, $geom2 = false) {
-		if($geom1 and $geom2) {
-			$geom1  = explode(",", $geom1);
-			$geom2  = explode(",", $geom2);
-			
-			if(count($geom1) == 2 and count($geom2) == 2) {
-				$vars["results"] = $this->Api_Model->getHeatMapDensity($geom1[1], $geom1[0], $geom2[1], $geom2[0]);
-				
-				echo json_encode($vars, JSON_NUMERIC_CHECK);
-			}
-		}
-	}
 }
