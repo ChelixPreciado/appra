@@ -250,7 +250,7 @@ class Api_Model extends ZP_Model {
 				$average = 0;
 			}
 			
-			$query  = "update price_density set densidad=$average where gid=" . $result["gid"];
+			$query  = "update price_density_rent set densidad=$average where gid=" . $result["gid"];
 			$update = $this->Db->query($query);
 		}
 		
