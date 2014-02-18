@@ -22,6 +22,7 @@ class Api_Controller extends ZP_Controller {
 		$this->render("content", $vars);
 	}
 	
+	//get single record by ID
 	public function get($id_record = false) {
 		$vars["result"] = false;
 		
@@ -31,7 +32,8 @@ class Api_Controller extends ZP_Controller {
 		
 		echo json_encode($vars, JSON_NUMERIC_CHECK);
 	}
-		
+	
+	//get near results
 	public function getNearResults($geom1 = false, $geom2 = false, $layers = false, $filters = false) {
 		if($geom1 and $geom2) {
 			$geom1   = explode(",", $geom1);
@@ -108,5 +110,10 @@ class Api_Controller extends ZP_Controller {
 				echo json_encode($vars, JSON_NUMERIC_CHECK);
 			}
 		}
+	}
+	
+	//price heatmap
+	public function price() {
+		$vars["results"] = $this->Api_Model->price();
 	}
 }
