@@ -108,8 +108,4 @@ class Api_Controller extends ZP_Controller {
 			}
 		}
 	}
-	
-	public function price() {
-		$vars["results"] = $this->Api_Model->price();
-	}
 }
