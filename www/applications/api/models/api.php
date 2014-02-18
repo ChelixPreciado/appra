@@ -216,7 +216,7 @@ class Api_Model extends ZP_Model {
 	
 	//File model - api
 	public function price() {
-		$query = "SELECT gid, ST_AsGeoJson((ST_Dump(geom)).geom) as polygon, geom, densidad from price_density_rent;";
+		$query = "SELECT gid, ST_AsGeoJson((ST_Dump(geom)).geom) as polygon, geom, densidad from price_density_sell;";
 		$data  = $this->Db->query($query);
 		
 		foreach($data as $result) {
@@ -233,7 +233,7 @@ class Api_Model extends ZP_Model {
 				
 			$query  = "SELECT amount from records ";
 			$query .= "where st_contains($geojson";
-			$query .= ", the_geom) and operation=true;";
+			$query .= ", the_geom) and operation=false;";
 			
 			$records = $this->Db->query($query);
 			
@@ -250,7 +250,7 @@ class Api_Model extends ZP_Model {
 				$average = 0;
 			}
 			
-			$query  = "update price_density_rent set densidad=$average where gid=" . $result["gid"];
+			$query  = "update price_density_sell set densidad=$average where gid=" . $result["gid"];
 			$update = $this->Db->query($query);
 		}
 		
