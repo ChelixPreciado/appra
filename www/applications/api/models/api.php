@@ -201,11 +201,16 @@ class Api_Model extends ZP_Model {
 	}
 	
 	public function price() {
-		$query = "SELECT gid, ST_AsGeoJson((ST_Dump(geom)).geom) as polygon, densidad from population_density;";
+		$query = "SELECT gid, ST_AsGeoJson((ST_Dump(geom)).geom) as polygon, geom, densidad from population_density;";
 		$data  = $this->Db->query($query);
 		
 		foreach($data as $result) {
-			die(var_dump($result));
+			$query  = "SELECT id_record, lat, lon, address, amount, image_url, type, operation, area, rooms, bathrooms, parking from records ";
+			$query .= "where st_contains(" . $result["geom"];
+			$query .= ", the_geom);";
+			
+			$records = $this->Db->query($query);
+			die(var_dump($records));
 		}
 	}
 }
