@@ -199,4 +199,13 @@ class Api_Model extends ZP_Model {
 		
 		return $data[0];
 	}
+	
+	public function price() {
+		$query = "SELECT gid, ST_AsGeoJson((ST_Dump(geom)).geom) as polygon, densidad from population_density;";
+		$data  = $this->Db->query($query);
+		
+		foreach($data as $result) {
+			die(var_dump($result));
+		}
+	}
 }
