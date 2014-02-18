@@ -111,9 +111,4 @@ class Api_Controller extends ZP_Controller {
 			}
 		}
 	}
-	
-	//price heatmap
-	public function price() {
-		$vars["results"] = $this->Api_Model->price();
-	}
 }
