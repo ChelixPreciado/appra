@@ -205,15 +205,23 @@ class Api_Model extends ZP_Model {
 		$data  = $this->Db->query($query);
 		
 		foreach($data as $result) {
-			$obj = json_decode($result["polygon"]);
-			die(var_dump($obj->coordinates));
+			$obj         = json_decode($result["polygon"]);
+			$coordinates = $obj->coordinates[0];
+			$geojson     = "ST_GeomFromText('POLYGON ((";
 			
+			foreach($coordinates as $point) {
+				$geojson .= $point[1] . " " . $point[0] . ",";
+			}
+			
+			$geojson  = rtrim($geojson, ",");
+			$geojson .= "))', 4326)";
+				
 			$query  = "SELECT id_record, lat, lon, address, amount, image_url, type, operation, area, rooms, bathrooms, parking from records ";
-			$query .= "where st_contains(" . $result["geom"];
+			$query .= "where st_contains($geojson";
 			$query .= ", the_geom);";
 			
 			$records = $this->Db->query($query);
-			var_dump($records);
+			die(var_dump($records));
 		}
 		
 		die("ok");
