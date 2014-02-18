@@ -99,7 +99,6 @@ class Api_Model extends ZP_Model {
 		$query .= "($xmin,$ymin,$xmax,$ymax, 4326), geom) or ST_Contains(ST_MakeEnvelope";
 		$query .= "($xmin,$ymin,$xmax,$ymax, 4326), geom);";
 		
-		die(var_dump($query));
 		$data = $this->Db->query($query);
 		
 		if(!$data) return false;
@@ -118,7 +117,7 @@ class Api_Model extends ZP_Model {
 		$geojson  = rtrim($geojson, ",");
 		$geojson .= ']';
 		$geojson .=  '}';
-	
+		die(var_dump($geojson));
 		return $geojson;
 	}
 	
