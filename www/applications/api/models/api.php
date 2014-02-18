@@ -225,7 +225,7 @@ class Api_Model extends ZP_Model {
 			if($records) {
 				//update average
 				$average = 0;
-				die(var_dump(count($records)))
+				die(var_dump(count($records)));
 				foreach($records as $record) {
 					$average += $record["amount"];
 				}
