@@ -206,7 +206,7 @@ class Api_Model extends ZP_Model {
 		
 		foreach($data as $result) {
 			$obj = json_decode($result["polygon"]);
-			die(var_dump($obj));
+			die(var_dump($obj->coordinates));
 			
 			$query  = "SELECT id_record, lat, lon, address, amount, image_url, type, operation, area, rooms, bathrooms, parking from records ";
 			$query .= "where st_contains(" . $result["geom"];
