@@ -15,14 +15,14 @@ $routes = array(
 		"params"	  => array(segment(1))
 	),
 	1 => array(
-		"pattern"	  => "/^api-draw/",
+		"pattern"	  => "/^draw/",
 		"application" => "api",
 		"controller"  => "api",
 		"method"	  => "getNearResultsDraw",
 		"params"	  => array(segment(1))
 	),
 	2 => array(
-		"pattern"	  => "/^api/",
+		"pattern"	  => "/^near/",
 		"application" => "api",
 		"controller"  => "api",
 		"method"	  => "getNearResults",
