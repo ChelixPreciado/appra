@@ -134,7 +134,8 @@ class Api_Model extends ZP_Model {
 		$query  = "SELECT ST_AsGeoJson((ST_Dump(geom)).geom) as polygon, densidad from $table where ST_Overlaps(";
 		$query .= "$geojson, geom) or ST_Contains(";
 		$query .= "$geojson, geom);";
-
+		
+		die(var_dump($query));
 		$data = $this->Db->query($query);
 		
 		if(!$data) return false;
