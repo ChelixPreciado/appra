@@ -64,14 +64,17 @@ class Api_Controller extends ZP_Controller {
 	}
 	
 	//get results with post parameter geometry [geojson] | layers
-	public function getNearResultsDraw($layers = false) {
+	public function getNearResultsDraw() {
+		die(var_dump($_POST));
+		
 		if(isset($_POST["geometry"])) {
 			$geometry    = $_POST["geometry"];
 			$coordinates = $geometry["coordinates"][0];
 			$geojson     = "ST_GeomFromText('POLYGON ((";
-			die(var_dump($layers));
+			
 			$layers      = explode(",", $layers);
 			die(var_dump($layers));
+			
 			if(is_array($coordinates)) {
 				foreach($coordinates as $point) {
 					$geojson .= $point[1] . " " . $point[0] . ",";

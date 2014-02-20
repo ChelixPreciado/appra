@@ -19,7 +19,7 @@ $routes = array(
 		"application" => "api",
 		"controller"  => "api",
 		"method"	  => "getNearResultsDraw",
-		"params"	  => array(segment(1))
+		"params"	  => array()
 	),
 	2 => array(
 		"pattern"	  => "/^near/",
