@@ -69,8 +69,9 @@ class Api_Controller extends ZP_Controller {
 			$geometry    = $_POST["geometry"];
 			$coordinates = $geometry["coordinates"][0];
 			$geojson     = "ST_GeomFromText('POLYGON ((";
+			die(var_dump($layers));
 			$layers      = explode(",", $layers);
-			
+			die(var_dump($layers));
 			if(is_array($coordinates)) {
 				foreach($coordinates as $point) {
 					$geojson .= $point[1] . " " . $point[0] . ",";
@@ -86,7 +87,11 @@ class Api_Controller extends ZP_Controller {
 						if($layer == "population" or $layer == "price_rent" or $layer == "price_sell") {
 							$vars[$layer] = json_decode($this->Api_Model->getHeatMapDraw($geojson, $layer));
 						} else {
-							$vars[$layer] = $this->Api_Model->defaultQueryDraw($geojson, $layer);
+							if(in_array($layer, $this->layers)) {
+								$vars[$layer] = $this->Api_Model->defaultQueryDraw($geojson, $layer);
+							} else {
+								$vars[$layer] = false;
+							}
 						}
 					}
 				}

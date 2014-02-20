@@ -109,7 +109,7 @@ class Api_Model extends ZP_Model {
 		$geojson .='"features": [';
 		
 		foreach($data as $key=> $value) {
-			$geojson .= '{ "type": "Feature", "properties": { "population": ' . $value["densidad"]. ', "color": "' . $this->getColorHeatMap($value["densidad"], $type) . '" },';
+			$geojson .= '{ "type": "Feature", "properties": { "density": ' . $value["densidad"]. ', "color": "' . $this->getColorHeatMap($value["densidad"], $type) . '" },';
 			$geojson .= '"geometry": ' . $value["polygon"];
 			$geojson .= '},';
 		}
@@ -145,7 +145,7 @@ class Api_Model extends ZP_Model {
 		$geojson .='"features": [';
 		
 		foreach($data as $key=> $value) {
-			$geojson .= '{ "type": "Feature", "properties": { "population": ' . $value["densidad"]. ', "color": "' . $this->getColorHeatMap($value["densidad"], $type) . '" },';
+			$geojson .= '{ "type": "Feature", "properties": { "density": ' . $value["densidad"]. ', "color": "' . $this->getColorHeatMap($value["densidad"], $type) . '" },';
 			$geojson .= '"geometry": ' . $value["polygon"];
 			$geojson .= '},';
 		}
