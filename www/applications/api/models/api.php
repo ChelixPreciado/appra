@@ -135,7 +135,6 @@ class Api_Model extends ZP_Model {
 		$query .= "$geojson, geom) or ST_Contains(";
 		$query .= "$geojson, geom);";
 		
-		die(var_dump($query));
 		$data = $this->Db->query($query);
 		
 		if(!$data) return false;
