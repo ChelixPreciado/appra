@@ -182,7 +182,7 @@ class Api_Model extends ZP_Model {
 	//Heatmap colors - need to add price colors!
 	public function getColorHeatMap($density, $type = "price_rent") {
 		if($type == "price_rent") {
-			if($density > -1    and $density <= 2500)  return "#0019ff";
+			if($density > 0    and $density <= 2500)  return "#0019ff";
 			if($density > 2500  and $density <= 5000)  return "#00d7ff";
 			if($density > 2500  and $density <= 5000)  return "#00d7ff";
 			if($density > 5000  and $density <= 10000) return "#4eff00";
@@ -190,9 +190,9 @@ class Api_Model extends ZP_Model {
 			if($density > 30000 and $density <= 60000) return "#ff8900";
 			if($density > 60000) return  "#ff0c00";
 			
-			return "#0019ff";
+			return "transparent";
 		} elseif($type == "price_sell") {
-			if($density > -1    and $density <= 2500)  return "#0019ff";
+			if($density > 0    and $density <= 2500)  return "#0019ff";
 			if($density > 2500  and $density <= 5000)  return "#00d7ff";
 			if($density > 2500  and $density <= 5000)  return "#00d7ff";
 			if($density > 5000  and $density <= 10000) return "#4eff00";
@@ -200,9 +200,9 @@ class Api_Model extends ZP_Model {
 			if($density > 30000 and $density <= 60000) return "#ff8900";
 			if($density > 60000) return  "#ff0c00";
 			
-			return "#0019ff";
+			return "transparent";
 		} else {
-			if($density > -1    and $density < 1000) return "#ffebd6";
+			if($density > 0    and $density < 1000) return "#ffebd6";
 			if($density > 999   and $density < 2000)  return  "#f5cbae";
 			if($density > 1999  and $density < 5000)  return  "#eba988";
 			if($density > 4999  and $density < 10000) return  "#e08465";
@@ -210,7 +210,7 @@ class Api_Model extends ZP_Model {
 			if($density > 19999 and $density < 30000) return  "#cc3527";
 			if($density > 29999) return  "#c40a0a";
 			
-			return "#000";
+			return "transparent";
 		}
 	}
 	
